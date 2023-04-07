@@ -13,9 +13,9 @@ class Player(models.Model):
     born = models.DateField(default="2000-01-01")
     height = models.IntegerField(default=180)
     weight = models.IntegerField(default=80)
-    salary = models.IntegerField(default=1000) # 万円
+    salary = models.IntegerField(default=1000)  # 万円
     uniform_number = models.IntegerField(default=0)
-    team = models.ForeignKey(Team, on_delete=models.CASCADE)
+    team = models.ForeignKey(Team, related_name="players", on_delete=models.CASCADE)
 
     def __str__(self):
         return self.name
