@@ -1,0 +1,9101 @@
+[
+  {
+    "name": "並木秀尊",
+    "born": "1999/3/23",
+    "height": "170",
+    "weight": "70",
+    "salary": "900",
+    "uniform_number": "0",
+    "team_name": "s"
+  },
+  {
+    "name": "奥村展征",
+    "born": "1995/5/26",
+    "height": "178",
+    "weight": "76",
+    "salary": "1200",
+    "uniform_number": "00",
+    "team_name": "s"
+  },
+  {
+    "name": "山田哲人",
+    "born": "1992/7/16",
+    "height": "180",
+    "weight": "76",
+    "salary": "50000",
+    "uniform_number": "1",
+    "team_name": "s"
+  },
+  {
+    "name": "西浦直亨",
+    "born": "1991/4/11",
+    "height": "178",
+    "weight": "75",
+    "salary": "2600",
+    "uniform_number": "3",
+    "team_name": "s"
+  },
+  {
+    "name": "丸山和郁",
+    "born": "1999/7/18",
+    "height": "174",
+    "weight": "80",
+    "salary": "1500",
+    "uniform_number": "4",
+    "team_name": "s"
+  },
+  {
+    "name": "川端慎吾",
+    "born": "1987/10/16",
+    "height": "185",
+    "weight": "86",
+    "salary": "2500",
+    "uniform_number": "5",
+    "team_name": "s"
+  },
+  {
+    "name": "元山飛優",
+    "born": "1998/12/4",
+    "height": "180",
+    "weight": "79",
+    "salary": "1300",
+    "uniform_number": "6",
+    "team_name": "s"
+  },
+  {
+    "name": "長岡秀樹",
+    "born": "2001/9/26",
+    "height": "174",
+    "weight": "74",
+    "salary": "3300",
+    "uniform_number": "7",
+    "team_name": "s"
+  },
+  {
+    "name": "塩見泰隆",
+    "born": "1993/6/12",
+    "height": "179",
+    "weight": "76",
+    "salary": "8600",
+    "uniform_number": "9",
+    "team_name": "s"
+  },
+  {
+    "name": "荒木貴裕",
+    "born": "1987/7/26",
+    "height": "180",
+    "weight": "84",
+    "salary": "2300",
+    "uniform_number": "10",
+    "team_name": "s"
+  },
+  {
+    "name": "ケラ",
+    "born": "1993/4/16",
+    "height": "185",
+    "weight": "99",
+    "salary": "14000",
+    "uniform_number": "11",
+    "team_name": "s"
+  },
+  {
+    "name": "近藤弘樹",
+    "born": "1995/6/27",
+    "height": "186",
+    "weight": "103",
+    "salary": "900",
+    "uniform_number": "012",
+    "team_name": "s"
+  },
+  {
+    "name": "石山泰稚",
+    "born": "1988/9/1",
+    "height": "182",
+    "weight": "75",
+    "salary": "15000",
+    "uniform_number": "12",
+    "team_name": "s"
+  },
+  {
+    "name": "オスナ",
+    "born": "1992/12/12",
+    "height": "188",
+    "weight": "106",
+    "salary": "18200",
+    "uniform_number": "13",
+    "team_name": "s"
+  },
+  {
+    "name": "山野太一",
+    "born": "1999/3/24",
+    "height": "172",
+    "weight": "77",
+    "salary": "750",
+    "uniform_number": "013",
+    "team_name": "s"
+  },
+  {
+    "name": "鈴木裕太",
+    "born": "2000/8/2",
+    "height": "182",
+    "weight": "93",
+    "salary": "300",
+    "uniform_number": "014",
+    "team_name": "s"
+  },
+  {
+    "name": "高梨裕稔",
+    "born": "1991/6/5",
+    "height": "187",
+    "weight": "90",
+    "salary": "4300",
+    "uniform_number": "14",
+    "team_name": "s"
+  },
+  {
+    "name": "山下輝",
+    "born": "1999/9/12",
+    "height": "188",
+    "weight": "100",
+    "salary": "1400",
+    "uniform_number": "15",
+    "team_name": "s"
+  },
+  {
+    "name": "沼田翔平",
+    "born": "2000/6/24",
+    "height": "175",
+    "weight": "77",
+    "salary": "400",
+    "uniform_number": "015",
+    "team_name": "s"
+  },
+  {
+    "name": "原樹理",
+    "born": "1993/7/19",
+    "height": "180",
+    "weight": "79",
+    "salary": "3800",
+    "uniform_number": "16",
+    "team_name": "s"
+  },
+  {
+    "name": "丸山翔大",
+    "born": "1998/8/22",
+    "height": "192",
+    "weight": "77",
+    "salary": "300",
+    "uniform_number": "017",
+    "team_name": "s"
+  },
+  {
+    "name": "清水昇",
+    "born": "1996/10/15",
+    "height": "180",
+    "weight": "84",
+    "salary": "10000",
+    "uniform_number": "17",
+    "team_name": "s"
+  },
+  {
+    "name": "奥川恭伸",
+    "born": "2001/4/16",
+    "height": "184",
+    "weight": "82",
+    "salary": "2700",
+    "uniform_number": "18",
+    "team_name": "s"
+  },
+  {
+    "name": "下慎之介",
+    "born": "2002/6/18",
+    "height": "183",
+    "weight": "86",
+    "salary": "300",
+    "uniform_number": "019",
+    "team_name": "s"
+  },
+  {
+    "name": "石川雅規",
+    "born": "1980/1/22",
+    "height": "167",
+    "weight": "73",
+    "salary": "9000",
+    "uniform_number": "19",
+    "team_name": "s"
+  },
+  {
+    "name": "木澤尚文",
+    "born": "1998/4/25",
+    "height": "183",
+    "weight": "85",
+    "salary": "3700",
+    "uniform_number": "20",
+    "team_name": "s"
+  },
+  {
+    "name": "吉村貢司郎",
+    "born": "1998/1/19",
+    "height": "183",
+    "weight": "85",
+    "salary": "1600",
+    "uniform_number": "21",
+    "team_name": "s"
+  },
+  {
+    "name": "松井聖",
+    "born": "1995/5/29",
+    "height": "175",
+    "weight": "80",
+    "salary": "300",
+    "uniform_number": "022",
+    "team_name": "s"
+  },
+  {
+    "name": "青木宣親",
+    "born": "1982/1/5",
+    "height": "175",
+    "weight": "80",
+    "salary": "34000",
+    "uniform_number": "23",
+    "team_name": "s"
+  },
+  {
+    "name": "橋本星哉",
+    "born": "2000/9/18",
+    "height": "178",
+    "weight": "85",
+    "salary": "280",
+    "uniform_number": "023",
+    "team_name": "s"
+  },
+  {
+    "name": "岩田幸宏",
+    "born": "1997/7/31",
+    "height": "175",
+    "weight": "75",
+    "salary": "300",
+    "uniform_number": "024",
+    "team_name": "s"
+  },
+  {
+    "name": "星知弥",
+    "born": "1994/4/15",
+    "height": "183",
+    "weight": "78",
+    "salary": "1500",
+    "uniform_number": "24",
+    "team_name": "s"
+  },
+  {
+    "name": "サンタナ",
+    "born": "1992/8/5",
+    "height": "195",
+    "weight": "104",
+    "salary": "27000",
+    "uniform_number": "25",
+    "team_name": "s"
+  },
+  {
+    "name": "中村悠平",
+    "born": "1990/6/17",
+    "height": "176",
+    "weight": "83",
+    "salary": "17000",
+    "uniform_number": "27",
+    "team_name": "s"
+  },
+  {
+    "name": "吉田大喜",
+    "born": "1997/7/27",
+    "height": "175",
+    "weight": "83",
+    "salary": "1100",
+    "uniform_number": "28",
+    "team_name": "s"
+  },
+  {
+    "name": "小川泰弘",
+    "born": "1990/5/16",
+    "height": "171",
+    "weight": "80",
+    "salary": "16000",
+    "uniform_number": "29",
+    "team_name": "s"
+  },
+  {
+    "name": "西田明央",
+    "born": "1992/4/28",
+    "height": "178",
+    "weight": "83",
+    "salary": "2000",
+    "uniform_number": "30",
+    "team_name": "s"
+  },
+  {
+    "name": "山崎晃大朗",
+    "born": "1993/8/11",
+    "height": "173",
+    "weight": "68",
+    "salary": "4000",
+    "uniform_number": "31",
+    "team_name": "s"
+  },
+  {
+    "name": "松本直樹",
+    "born": "1993/10/17",
+    "height": "177",
+    "weight": "82",
+    "salary": "1000",
+    "uniform_number": "32",
+    "team_name": "s"
+  },
+  {
+    "name": "内山壮真",
+    "born": "2002/6/30",
+    "height": "171",
+    "weight": "71",
+    "salary": "1600",
+    "uniform_number": "33",
+    "team_name": "s"
+  },
+  {
+    "name": "田口麗斗",
+    "born": "1995/9/14",
+    "height": "171",
+    "weight": "83",
+    "salary": "8800",
+    "uniform_number": "34",
+    "team_name": "s"
+  },
+  {
+    "name": "杉山晃基",
+    "born": "1997/6/25",
+    "height": "182",
+    "weight": "84",
+    "salary": "680",
+    "uniform_number": "35",
+    "team_name": "s"
+  },
+  {
+    "name": "西村瑠伊斗",
+    "born": "2004/7/1",
+    "height": "178",
+    "weight": "80",
+    "salary": "650",
+    "uniform_number": "36",
+    "team_name": "s"
+  },
+  {
+    "name": "梅野雄吾",
+    "born": "1999/1/13",
+    "height": "175",
+    "weight": "84",
+    "salary": "3500",
+    "uniform_number": "38",
+    "team_name": "s"
+  },
+  {
+    "name": "宮本丈",
+    "born": "1995/4/3",
+    "height": "182",
+    "weight": "78",
+    "salary": "2300",
+    "uniform_number": "39",
+    "team_name": "s"
+  },
+  {
+    "name": "市川悠太",
+    "born": "2001/3/29",
+    "height": "184",
+    "weight": "75",
+    "salary": "750",
+    "uniform_number": "40",
+    "team_name": "s"
+  },
+  {
+    "name": "柴田大地",
+    "born": "1997/11/7",
+    "height": "181",
+    "weight": "92",
+    "salary": "1100",
+    "uniform_number": "41",
+    "team_name": "s"
+  },
+  {
+    "name": "澤井廉",
+    "born": "2000/5/31",
+    "height": "180",
+    "weight": "98",
+    "salary": "850",
+    "uniform_number": "42",
+    "team_name": "s"
+  },
+  {
+    "name": "山本大貴",
+    "born": "1995/11/10",
+    "height": "182",
+    "weight": "90",
+    "salary": "950",
+    "uniform_number": "43",
+    "team_name": "s"
+  },
+  {
+    "name": "大西広樹",
+    "born": "1997/11/8",
+    "height": "175",
+    "weight": "84",
+    "salary": "2500",
+    "uniform_number": "44",
+    "team_name": "s"
+  },
+  {
+    "name": "小澤怜史",
+    "born": "1998/3/9",
+    "height": "182",
+    "weight": "83",
+    "salary": "1100",
+    "uniform_number": "45",
+    "team_name": "s"
+  },
+  {
+    "name": "太田賢吾",
+    "born": "1997/1/19",
+    "height": "186",
+    "weight": "85",
+    "salary": "1600",
+    "uniform_number": "46",
+    "team_name": "s"
+  },
+  {
+    "name": "高橋奎二",
+    "born": "1997/5/14",
+    "height": "178",
+    "weight": "73",
+    "salary": "5000",
+    "uniform_number": "47",
+    "team_name": "s"
+  },
+  {
+    "name": "金久保優斗",
+    "born": "1999/11/4",
+    "height": "183",
+    "weight": "74",
+    "salary": "1000",
+    "uniform_number": "48",
+    "team_name": "s"
+  },
+  {
+    "name": "成田翔",
+    "born": "1998/2/3",
+    "height": "170",
+    "weight": "78",
+    "salary": "650",
+    "uniform_number": "49",
+    "team_name": "s"
+  },
+  {
+    "name": "北村恵吾",
+    "born": "2000/12/18",
+    "height": "182",
+    "weight": "90",
+    "salary": "750",
+    "uniform_number": "50",
+    "team_name": "s"
+  },
+  {
+    "name": "濱田太貴",
+    "born": "2000/9/4",
+    "height": "177",
+    "weight": "81",
+    "salary": "1300",
+    "uniform_number": "51",
+    "team_name": "s"
+  },
+  {
+    "name": "尾仲祐哉",
+    "born": "1995/1/31",
+    "height": "173",
+    "weight": "75",
+    "salary": "600",
+    "uniform_number": "52",
+    "team_name": "s"
+  },
+  {
+    "name": "長谷川宙輝",
+    "born": "1998/8/23",
+    "height": "175",
+    "weight": "80",
+    "salary": "800",
+    "uniform_number": "53",
+    "team_name": "s"
+  },
+  {
+    "name": "サイスニード",
+    "born": "1992/10/1",
+    "height": "193",
+    "weight": "97",
+    "salary": "19500",
+    "uniform_number": "54",
+    "team_name": "s"
+  },
+  {
+    "name": "村上宗隆",
+    "born": "2000/2/2",
+    "height": "188",
+    "weight": "97",
+    "salary": "60000",
+    "uniform_number": "55",
+    "team_name": "s"
+  },
+  {
+    "name": "坂本拓己",
+    "born": "2004/7/6",
+    "height": "180",
+    "weight": "85",
+    "salary": "500",
+    "uniform_number": "56",
+    "team_name": "s"
+  },
+  {
+    "name": "古賀優大",
+    "born": "1998/8/7",
+    "height": "177",
+    "weight": "74",
+    "salary": "1500",
+    "uniform_number": "57",
+    "team_name": "s"
+  },
+  {
+    "name": "小森航大郎",
+    "born": "2003/4/30",
+    "height": "172",
+    "weight": "83",
+    "salary": "520",
+    "uniform_number": "59",
+    "team_name": "s"
+  },
+  {
+    "name": "武岡龍世",
+    "born": "2001/5/28",
+    "height": "178",
+    "weight": "77",
+    "salary": "700",
+    "uniform_number": "60",
+    "team_name": "s"
+  },
+  {
+    "name": "久保拓眞",
+    "born": "1996/7/27",
+    "height": "175",
+    "weight": "75",
+    "salary": "1300",
+    "uniform_number": "61",
+    "team_name": "s"
+  },
+  {
+    "name": "竹山日向",
+    "born": "2003/11/2",
+    "height": "182",
+    "weight": "84",
+    "salary": "550",
+    "uniform_number": "62",
+    "team_name": "s"
+  },
+  {
+    "name": "ピーターズ",
+    "born": "1992/8/31",
+    "height": "180",
+    "weight": "88",
+    "salary": "10500",
+    "uniform_number": "63",
+    "team_name": "s"
+  },
+  {
+    "name": "大下佑馬",
+    "born": "1992/7/6",
+    "height": "179",
+    "weight": "83",
+    "salary": "1300",
+    "uniform_number": "64",
+    "team_name": "s"
+  },
+  {
+    "name": "松本友",
+    "born": "1995/2/5",
+    "height": "179",
+    "weight": "86",
+    "salary": "850",
+    "uniform_number": "65",
+    "team_name": "s"
+  },
+  {
+    "name": "三ツ俣大樹",
+    "born": "1992/5/11",
+    "height": "178",
+    "weight": "85",
+    "salary": "600",
+    "uniform_number": "66",
+    "team_name": "s"
+  },
+  {
+    "name": "嘉手苅浩太",
+    "born": "2002/12/26",
+    "height": "191",
+    "weight": "105",
+    "salary": "530",
+    "uniform_number": "67",
+    "team_name": "s"
+  },
+  {
+    "name": "今野龍太",
+    "born": "1995/5/11",
+    "height": "178",
+    "weight": "87",
+    "salary": "4200",
+    "uniform_number": "69",
+    "team_name": "s"
+  },
+  {
+    "name": "赤羽由紘",
+    "born": "2000/6/29",
+    "height": "175",
+    "weight": "79",
+    "salary": "600",
+    "uniform_number": "71",
+    "team_name": "s"
+  },
+  {
+    "name": "エスピナル",
+    "born": "1991/10/6",
+    "height": "190",
+    "weight": "97",
+    "salary": "9100",
+    "uniform_number": "99",
+    "team_name": "s"
+  },
+  {
+    "name": "林琢真",
+    "born": "2000/8/24",
+    "height": "174",
+    "weight": "74",
+    "salary": "910",
+    "uniform_number": "00",
+    "team_name": "yb"
+  },
+  {
+    "name": "大田泰示",
+    "born": "1990/6/9",
+    "height": "188",
+    "weight": "96",
+    "salary": "5000",
+    "uniform_number": "0",
+    "team_name": "yb"
+  },
+  {
+    "name": "桑原将志",
+    "born": "1993/7/21",
+    "height": "174",
+    "weight": "80",
+    "salary": "12000",
+    "uniform_number": "1",
+    "team_name": "yb"
+  },
+  {
+    "name": "牧秀悟",
+    "born": "1998/4/21",
+    "height": "178",
+    "weight": "95",
+    "salary": "12000",
+    "uniform_number": "2",
+    "team_name": "yb"
+  },
+  {
+    "name": "オースティン",
+    "born": "1991/9/6",
+    "height": "188",
+    "weight": "100",
+    "salary": "39000",
+    "uniform_number": "3",
+    "team_name": "yb"
+  },
+  {
+    "name": "松尾汐恩",
+    "born": "2004/7/6",
+    "height": "178",
+    "weight": "78",
+    "salary": "1100",
+    "uniform_number": "5",
+    "team_name": "yb"
+  },
+  {
+    "name": "森敬斗",
+    "born": "2002/1/28",
+    "height": "177",
+    "weight": "80",
+    "salary": "2000",
+    "uniform_number": "6",
+    "team_name": "yb"
+  },
+  {
+    "name": "佐野恵太",
+    "born": "1994/11/28",
+    "height": "178",
+    "weight": "88",
+    "salary": "17000",
+    "uniform_number": "7",
+    "team_name": "yb"
+  },
+  {
+    "name": "神里和毅",
+    "born": "1994/1/17",
+    "height": "179",
+    "weight": "86",
+    "salary": "4500",
+    "uniform_number": "8",
+    "team_name": "yb"
+  },
+  {
+    "name": "大和",
+    "born": "1987/11/5",
+    "height": "177",
+    "weight": "77",
+    "salary": "8000",
+    "uniform_number": "9",
+    "team_name": "yb"
+  },
+  {
+    "name": "戸柱恭孝",
+    "born": "1990/4/11",
+    "height": "179",
+    "weight": "90",
+    "salary": "4000",
+    "uniform_number": "10",
+    "team_name": "yb"
+  },
+  {
+    "name": "東克樹",
+    "born": "1995/11/29",
+    "height": "170",
+    "weight": "76",
+    "salary": "2610",
+    "uniform_number": "11",
+    "team_name": "yb"
+  },
+  {
+    "name": "阪口皓亮",
+    "born": "1999/8/15",
+    "height": "188",
+    "weight": "90",
+    "salary": "900",
+    "uniform_number": "12",
+    "team_name": "yb"
+  },
+  {
+    "name": "伊勢大夢",
+    "born": "1998/3/7",
+    "height": "183",
+    "weight": "94",
+    "salary": "9200",
+    "uniform_number": "13",
+    "team_name": "yb"
+  },
+  {
+    "name": "石田健大",
+    "born": "1993/3/1",
+    "height": "180",
+    "weight": "85",
+    "salary": "6200",
+    "uniform_number": "14",
+    "team_name": "yb"
+  },
+  {
+    "name": "徳山壮磨",
+    "born": "1999/6/6",
+    "height": "183",
+    "weight": "83",
+    "salary": "1200",
+    "uniform_number": "15",
+    "team_name": "yb"
+  },
+  {
+    "name": "大貫晋一",
+    "born": "1994/2/3",
+    "height": "181",
+    "weight": "73",
+    "salary": "8800",
+    "uniform_number": "16",
+    "team_name": "yb"
+  },
+  {
+    "name": "三嶋一輝",
+    "born": "1990/5/7",
+    "height": "175",
+    "weight": "80",
+    "salary": "12000",
+    "uniform_number": "17",
+    "team_name": "yb"
+  },
+  {
+    "name": "小園健太",
+    "born": "2003/4/9",
+    "height": "185",
+    "weight": "90",
+    "salary": "1200",
+    "uniform_number": "18",
+    "team_name": "yb"
+  },
+  {
+    "name": "山﨑康晃",
+    "born": "1992/10/2",
+    "height": "179",
+    "weight": "88",
+    "salary": "30000",
+    "uniform_number": "19",
+    "team_name": "yb"
+  },
+  {
+    "name": "坂本裕哉",
+    "born": "1997/7/28",
+    "height": "180",
+    "weight": "87",
+    "salary": "2300",
+    "uniform_number": "20",
+    "team_name": "yb"
+  },
+  {
+    "name": "今永昇太",
+    "born": "1993/9/1",
+    "height": "178",
+    "weight": "86",
+    "salary": "14000",
+    "uniform_number": "21",
+    "team_name": "yb"
+  },
+  {
+    "name": "入江大生",
+    "born": "1998/8/26",
+    "height": "187",
+    "weight": "87",
+    "salary": "4500",
+    "uniform_number": "22",
+    "team_name": "yb"
+  },
+  {
+    "name": "藤田一也",
+    "born": "1982/7/3",
+    "height": "175",
+    "weight": "77",
+    "salary": "1800",
+    "uniform_number": "23",
+    "team_name": "yb"
+  },
+  {
+    "name": "吉野光樹",
+    "born": "1998/7/19",
+    "height": "176",
+    "weight": "80",
+    "salary": "1200",
+    "uniform_number": "24",
+    "team_name": "yb"
+  },
+  {
+    "name": "濵口遥大",
+    "born": "1995/3/16",
+    "height": "173",
+    "weight": "80",
+    "salary": "6200",
+    "uniform_number": "26",
+    "team_name": "yb"
+  },
+  {
+    "name": "上茶谷大河",
+    "born": "1996/8/31",
+    "height": "182",
+    "weight": "83",
+    "salary": "3400",
+    "uniform_number": "27",
+    "team_name": "yb"
+  },
+  {
+    "name": "勝又温史",
+    "born": "2000/5/22",
+    "height": "180",
+    "weight": "83",
+    "salary": "620",
+    "uniform_number": "028",
+    "team_name": "yb"
+  },
+  {
+    "name": "伊藤光",
+    "born": "1989/4/23",
+    "height": "180",
+    "weight": "88",
+    "salary": "11000",
+    "uniform_number": "29",
+    "team_name": "yb"
+  },
+  {
+    "name": "三浦銀二",
+    "born": "1999/12/30",
+    "height": "175",
+    "weight": "80",
+    "salary": "870",
+    "uniform_number": "30",
+    "team_name": "yb"
+  },
+  {
+    "name": "柴田竜拓",
+    "born": "1993/12/16",
+    "height": "167",
+    "weight": "68",
+    "salary": "5600",
+    "uniform_number": "31",
+    "team_name": "yb"
+  },
+  {
+    "name": "益子京右",
+    "born": "2000/12/27",
+    "height": "176",
+    "weight": "86",
+    "salary": "600",
+    "uniform_number": "32",
+    "team_name": "yb"
+  },
+  {
+    "name": "粟飯原龍之介",
+    "born": "2004/2/22",
+    "height": "180",
+    "weight": "85",
+    "salary": "610",
+    "uniform_number": "33",
+    "team_name": "yb"
+  },
+  {
+    "name": "平田真吾",
+    "born": "1989/8/29",
+    "height": "182",
+    "weight": "85",
+    "salary": "3300",
+    "uniform_number": "34",
+    "team_name": "yb"
+  },
+  {
+    "name": "橋本達弥",
+    "born": "2000/7/18",
+    "height": "181",
+    "weight": "84",
+    "salary": "780",
+    "uniform_number": "35",
+    "team_name": "yb"
+  },
+  {
+    "name": "森下瑠大",
+    "born": "2004/9/19",
+    "height": "180",
+    "weight": "75",
+    "salary": "510",
+    "uniform_number": "36",
+    "team_name": "yb"
+  },
+  {
+    "name": "楠本泰史",
+    "born": "1995/7/7",
+    "height": "180",
+    "weight": "85",
+    "salary": "3600",
+    "uniform_number": "37",
+    "team_name": "yb"
+  },
+  {
+    "name": "田中俊太",
+    "born": "1993/8/18",
+    "height": "178",
+    "weight": "82",
+    "salary": "1600",
+    "uniform_number": "38",
+    "team_name": "yb"
+  },
+  {
+    "name": "松本隆之介",
+    "born": "2002/7/31",
+    "height": "188",
+    "weight": "94",
+    "salary": "560",
+    "uniform_number": "040",
+    "team_name": "yb"
+  },
+  {
+    "name": "櫻井周斗",
+    "born": "1999/6/25",
+    "height": "178",
+    "weight": "86",
+    "salary": "1040",
+    "uniform_number": "041",
+    "team_name": "yb"
+  },
+  {
+    "name": "アンバギー",
+    "born": "1994/10/24",
+    "height": "188",
+    "weight": "95",
+    "salary": "3500",
+    "uniform_number": "42",
+    "team_name": "yb"
+  },
+  {
+    "name": "深沢鳳介",
+    "born": "2003/11/5",
+    "height": "177",
+    "weight": "74",
+    "salary": "500",
+    "uniform_number": "43",
+    "team_name": "yb"
+  },
+  {
+    "name": "小深田大地",
+    "born": "2003/3/25",
+    "height": "176",
+    "weight": "93",
+    "salary": "560",
+    "uniform_number": "44",
+    "team_name": "yb"
+  },
+  {
+    "name": "ガゼルマン",
+    "born": "1993/7/18",
+    "height": "193",
+    "weight": "95",
+    "salary": "12000",
+    "uniform_number": "45",
+    "team_name": "yb"
+  },
+  {
+    "name": "田中健二朗",
+    "born": "1989/9/18",
+    "height": "179",
+    "weight": "80",
+    "salary": "3500",
+    "uniform_number": "46",
+    "team_name": "yb"
+  },
+  {
+    "name": "笠原祥太郎",
+    "born": "1995/3/17",
+    "height": "177",
+    "weight": "85",
+    "salary": "900",
+    "uniform_number": "47",
+    "team_name": "yb"
+  },
+  {
+    "name": "京山将弥",
+    "born": "1998/7/4",
+    "height": "182",
+    "weight": "77",
+    "salary": "2790",
+    "uniform_number": "48",
+    "team_name": "yb"
+  },
+  {
+    "name": "ウェンデルケン",
+    "born": "1993/3/24",
+    "height": "185",
+    "weight": "109",
+    "salary": "12000",
+    "uniform_number": "49",
+    "team_name": "yb"
+  },
+  {
+    "name": "山本祐大",
+    "born": "1998/9/11",
+    "height": "180",
+    "weight": "87",
+    "salary": "1030",
+    "uniform_number": "50",
+    "team_name": "yb"
+  },
+  {
+    "name": "宮﨑敏郎",
+    "born": "1988/12/12",
+    "height": "172",
+    "weight": "85",
+    "salary": "20000",
+    "uniform_number": "51",
+    "team_name": "yb"
+  },
+  {
+    "name": "池谷蒼大",
+    "born": "1999/8/2",
+    "height": "175",
+    "weight": "80",
+    "salary": "750",
+    "uniform_number": "53",
+    "team_name": "yb"
+  },
+  {
+    "name": "髙田琢登",
+    "born": "2002/9/18",
+    "height": "178",
+    "weight": "80",
+    "salary": "510",
+    "uniform_number": "56",
+    "team_name": "yb"
+  },
+  {
+    "name": "東妻純平",
+    "born": "2001/7/3",
+    "height": "174",
+    "weight": "83",
+    "salary": "600",
+    "uniform_number": "57",
+    "team_name": "yb"
+  },
+  {
+    "name": "梶原昂希",
+    "born": "1999/9/19",
+    "height": "189",
+    "weight": "85",
+    "salary": "690",
+    "uniform_number": "58",
+    "team_name": "yb"
+  },
+  {
+    "name": "平良拳太郎",
+    "born": "1995/7/12",
+    "height": "180",
+    "weight": "80",
+    "salary": "2000",
+    "uniform_number": "59",
+    "team_name": "yb"
+  },
+  {
+    "name": "知野直人",
+    "born": "1999/2/16",
+    "height": "182",
+    "weight": "85",
+    "salary": "910",
+    "uniform_number": "60",
+    "team_name": "yb"
+  },
+  {
+    "name": "蝦名達夫",
+    "born": "1997/9/20",
+    "height": "185",
+    "weight": "88",
+    "salary": "1600",
+    "uniform_number": "61",
+    "team_name": "yb"
+  },
+  {
+    "name": "エスコバー",
+    "born": "1992/4/22",
+    "height": "188",
+    "weight": "102",
+    "salary": "26000",
+    "uniform_number": "62",
+    "team_name": "yb"
+  },
+  {
+    "name": "関根大気",
+    "born": "1995/6/28",
+    "height": "173",
+    "weight": "78",
+    "salary": "3500",
+    "uniform_number": "63",
+    "team_name": "yb"
+  },
+  {
+    "name": "中川虎大",
+    "born": "1999/10/2",
+    "height": "178",
+    "weight": "85",
+    "salary": "760",
+    "uniform_number": "64",
+    "team_name": "yb"
+  },
+  {
+    "name": "宮國椋丞",
+    "born": "1992/4/17",
+    "height": "186",
+    "weight": "88",
+    "salary": "940",
+    "uniform_number": "65",
+    "team_name": "yb"
+  },
+  {
+    "name": "森原康平",
+    "born": "1991/12/26",
+    "height": "185",
+    "weight": "88",
+    "salary": "3500",
+    "uniform_number": "68",
+    "team_name": "yb"
+  },
+  {
+    "name": "宮城滝太",
+    "born": "2000/7/15",
+    "height": "181",
+    "weight": "80",
+    "salary": "440",
+    "uniform_number": "92",
+    "team_name": "yb"
+  },
+  {
+    "name": "石川達也",
+    "born": "1998/4/15",
+    "height": "178",
+    "weight": "75",
+    "salary": "440",
+    "uniform_number": "95",
+    "team_name": "yb"
+  },
+  {
+    "name": "バウアー",
+    "born": "1991/1/17",
+    "height": "185",
+    "weight": "92",
+    "salary": "40500",
+    "uniform_number": "96",
+    "team_name": "yb"
+  },
+  {
+    "name": "京田陽太",
+    "born": "1994/4/20",
+    "height": "184",
+    "weight": "90",
+    "salary": "5000",
+    "uniform_number": "98",
+    "team_name": "yb"
+  },
+  {
+    "name": "ソト",
+    "born": "1989/2/28",
+    "height": "185",
+    "weight": "97",
+    "salary": "32500",
+    "uniform_number": "99",
+    "team_name": "yb"
+  },
+  {
+    "name": "蓮",
+    "born": "2004/7/18",
+    "height": "183",
+    "weight": "86",
+    "salary": "340",
+    "uniform_number": "100",
+    "team_name": "yb"
+  },
+  {
+    "name": "草野陽斗",
+    "born": "2004/6/7",
+    "height": "175",
+    "weight": "87",
+    "salary": "340",
+    "uniform_number": "101",
+    "team_name": "yb"
+  },
+  {
+    "name": "加藤大",
+    "born": "2002/4/24",
+    "height": "179",
+    "weight": "83",
+    "salary": "340",
+    "uniform_number": "102",
+    "team_name": "yb"
+  },
+  {
+    "name": "村川凪",
+    "born": "1998/6/26",
+    "height": "174",
+    "weight": "63",
+    "salary": "340",
+    "uniform_number": "103",
+    "team_name": "yb"
+  },
+  {
+    "name": "東出直也",
+    "born": "2003/5/24",
+    "height": "173",
+    "weight": "72",
+    "salary": "340",
+    "uniform_number": "104",
+    "team_name": "yb"
+  },
+  {
+    "name": "大橋武尊",
+    "born": "2001/5/16",
+    "height": "178",
+    "weight": "77",
+    "salary": "340",
+    "uniform_number": "105",
+    "team_name": "yb"
+  },
+  {
+    "name": "渡辺明貴",
+    "born": "2000/1/29",
+    "height": "188",
+    "weight": "105",
+    "salary": "340",
+    "uniform_number": "106",
+    "team_name": "yb"
+  },
+  {
+    "name": "マルセリーノ",
+    "born": "2002/6/16",
+    "height": "191",
+    "weight": "82",
+    "salary": "250",
+    "uniform_number": "107",
+    "team_name": "yb"
+  },
+  {
+    "name": "今野瑠斗",
+    "born": "2004/7/13",
+    "height": "182",
+    "weight": "86",
+    "salary": "340",
+    "uniform_number": "108",
+    "team_name": "yb"
+  },
+  {
+    "name": "ディアス",
+    "born": "1999/6/10",
+    "height": "191",
+    "weight": "93",
+    "salary": "250",
+    "uniform_number": "109",
+    "team_name": "yb"
+  },
+  {
+    "name": "スターリン",
+    "born": "1998/7/21",
+    "height": "201",
+    "weight": "100",
+    "salary": "370",
+    "uniform_number": "110",
+    "team_name": "yb"
+  },
+  {
+    "name": "上甲凌大",
+    "born": "2001/1/29",
+    "height": "184",
+    "weight": "90",
+    "salary": "340",
+    "uniform_number": "127",
+    "team_name": "yb"
+  },
+  {
+    "name": "西巻賢二",
+    "born": "1999/4/22",
+    "height": "167",
+    "weight": "70",
+    "salary": "600",
+    "uniform_number": "129",
+    "team_name": "yb"
+  },
+  {
+    "name": "木浪聖也",
+    "born": "1994/6/15",
+    "height": "179",
+    "weight": "81",
+    "salary": "2100",
+    "uniform_number": "0",
+    "team_name": "t"
+  },
+  {
+    "name": "山本泰寛",
+    "born": "1993/10/10",
+    "height": "176",
+    "weight": "74",
+    "salary": "2800",
+    "uniform_number": "00",
+    "team_name": "t"
+  },
+  {
+    "name": "森下翔太",
+    "born": "2000/8/14",
+    "height": "182",
+    "weight": "90",
+    "salary": "1600",
+    "uniform_number": "1",
+    "team_name": "t"
+  },
+  {
+    "name": "梅野隆太郎",
+    "born": "1991/6/17",
+    "height": "173",
+    "weight": "80",
+    "salary": "16000",
+    "uniform_number": "2",
+    "team_name": "t"
+  },
+  {
+    "name": "大山悠輔",
+    "born": "1994/12/19",
+    "height": "181",
+    "weight": "92",
+    "salary": "13000",
+    "uniform_number": "3",
+    "team_name": "t"
+  },
+  {
+    "name": "熊谷敬宥",
+    "born": "1995/11/10",
+    "height": "175",
+    "weight": "69",
+    "salary": "1750",
+    "uniform_number": "4",
+    "team_name": "t"
+  },
+  {
+    "name": "近本光司",
+    "born": "1994/11/9",
+    "height": "171",
+    "weight": "71",
+    "salary": "17000",
+    "uniform_number": "5",
+    "team_name": "t"
+  },
+  {
+    "name": "ノイジー",
+    "born": "1994/12/10",
+    "height": "183",
+    "weight": "105",
+    "salary": "18200",
+    "uniform_number": "7",
+    "team_name": "t"
+  },
+  {
+    "name": "佐藤輝明",
+    "born": "1999/3/13",
+    "height": "187",
+    "weight": "93",
+    "salary": "8500",
+    "uniform_number": "8",
+    "team_name": "t"
+  },
+  {
+    "name": "髙山俊",
+    "born": "1993/4/18",
+    "height": "181",
+    "weight": "87",
+    "salary": "2100",
+    "uniform_number": "9",
+    "team_name": "t"
+  },
+  {
+    "name": "坂本誠志郎",
+    "born": "1993/11/10",
+    "height": "176",
+    "weight": "79",
+    "salary": "2800",
+    "uniform_number": "12",
+    "team_name": "t"
+  },
+  {
+    "name": "岩崎優",
+    "born": "1991/6/19",
+    "height": "185",
+    "weight": "89",
+    "salary": "20000",
+    "uniform_number": "13",
+    "team_name": "t"
+  },
+  {
+    "name": "岩貞祐太",
+    "born": "1991/9/5",
+    "height": "183",
+    "weight": "86",
+    "salary": "10000",
+    "uniform_number": "14",
+    "team_name": "t"
+  },
+  {
+    "name": "西純矢",
+    "born": "2001/9/13",
+    "height": "184",
+    "weight": "98",
+    "salary": "2800",
+    "uniform_number": "15",
+    "team_name": "t"
+  },
+  {
+    "name": "西勇輝",
+    "born": "1990/11/10",
+    "height": "181",
+    "weight": "81",
+    "salary": "30000",
+    "uniform_number": "16",
+    "team_name": "t"
+  },
+  {
+    "name": "青柳晃洋",
+    "born": "1993/12/11",
+    "height": "183",
+    "weight": "82",
+    "salary": "24000",
+    "uniform_number": "17",
+    "team_name": "t"
+  },
+  {
+    "name": "馬場皐輔",
+    "born": "1995/5/18",
+    "height": "180",
+    "weight": "97",
+    "salary": "2950",
+    "uniform_number": "18",
+    "team_name": "t"
+  },
+  {
+    "name": "森木大智",
+    "born": "2003/4/17",
+    "height": "184",
+    "weight": "90",
+    "salary": "1200",
+    "uniform_number": "20",
+    "team_name": "t"
+  },
+  {
+    "name": "秋山拓巳",
+    "born": "1991/4/26",
+    "height": "188",
+    "weight": "101",
+    "salary": "8800",
+    "uniform_number": "21",
+    "team_name": "t"
+  },
+  {
+    "name": "Ｂ．ケラー",
+    "born": "1994/6/21",
+    "height": "191",
+    "weight": "91",
+    "salary": "8400",
+    "uniform_number": "24",
+    "team_name": "t"
+  },
+  {
+    "name": "渡邉諒",
+    "born": "1995/4/30",
+    "height": "178",
+    "weight": "86",
+    "salary": "4000",
+    "uniform_number": "25",
+    "team_name": "t"
+  },
+  {
+    "name": "北條史也",
+    "born": "1994/7/29",
+    "height": "177",
+    "weight": "80",
+    "salary": "1800",
+    "uniform_number": "26",
+    "team_name": "t"
+  },
+  {
+    "name": "伊藤将司",
+    "born": "1996/5/8",
+    "height": "178",
+    "weight": "85",
+    "salary": "8000",
+    "uniform_number": "27",
+    "team_name": "t"
+  },
+  {
+    "name": "鈴木勇斗",
+    "born": "2000/3/17",
+    "height": "174",
+    "weight": "83",
+    "salary": "1100",
+    "uniform_number": "28",
+    "team_name": "t"
+  },
+  {
+    "name": "髙橋遥人",
+    "born": "1995/11/7",
+    "height": "181",
+    "weight": "80",
+    "salary": "2450",
+    "uniform_number": "29",
+    "team_name": "t"
+  },
+  {
+    "name": "門別啓人",
+    "born": "2004/7/10",
+    "height": "183",
+    "weight": "86",
+    "salary": "720",
+    "uniform_number": "30",
+    "team_name": "t"
+  },
+  {
+    "name": "井上広大",
+    "born": "2001/8/12",
+    "height": "189",
+    "weight": "101",
+    "salary": "720",
+    "uniform_number": "32",
+    "team_name": "t"
+  },
+  {
+    "name": "糸原健斗",
+    "born": "1992/11/11",
+    "height": "175",
+    "weight": "82",
+    "salary": "8000",
+    "uniform_number": "33",
+    "team_name": "t"
+  },
+  {
+    "name": "二保旭",
+    "born": "1990/5/18",
+    "height": "182",
+    "weight": "74",
+    "salary": "2025",
+    "uniform_number": "34",
+    "team_name": "t"
+  },
+  {
+    "name": "才木浩人",
+    "born": "1998/11/7",
+    "height": "189",
+    "weight": "86",
+    "salary": "1900",
+    "uniform_number": "35",
+    "team_name": "t"
+  },
+  {
+    "name": "浜地真澄",
+    "born": "1998/5/25",
+    "height": "185",
+    "weight": "92",
+    "salary": "3200",
+    "uniform_number": "36",
+    "team_name": "t"
+  },
+  {
+    "name": "及川雅貴",
+    "born": "2001/4/18",
+    "height": "184",
+    "weight": "78",
+    "salary": "1500",
+    "uniform_number": "37",
+    "team_name": "t"
+  },
+  {
+    "name": "小幡竜平",
+    "born": "2000/9/21",
+    "height": "184",
+    "weight": "75",
+    "salary": "1400",
+    "uniform_number": "38",
+    "team_name": "t"
+  },
+  {
+    "name": "榮枝裕貴",
+    "born": "1998/5/16",
+    "height": "180",
+    "weight": "83",
+    "salary": "800",
+    "uniform_number": "39",
+    "team_name": "t"
+  },
+  {
+    "name": "井坪陽生",
+    "born": "2005/3/17",
+    "height": "177",
+    "weight": "86",
+    "salary": "600",
+    "uniform_number": "40",
+    "team_name": "t"
+  },
+  {
+    "name": "村上頌樹",
+    "born": "1998/6/25",
+    "height": "175",
+    "weight": "80",
+    "salary": "750",
+    "uniform_number": "41",
+    "team_name": "t"
+  },
+  {
+    "name": "Ｋ．ケラー",
+    "born": "1993/4/28",
+    "height": "193",
+    "weight": "92",
+    "salary": "18200",
+    "uniform_number": "42",
+    "team_name": "t"
+  },
+  {
+    "name": "髙濱祐仁",
+    "born": "1996/8/8",
+    "height": "185",
+    "weight": "90",
+    "salary": "2000",
+    "uniform_number": "43",
+    "team_name": "t"
+  },
+  {
+    "name": "戸井零士",
+    "born": "2005/1/18",
+    "height": "181",
+    "weight": "83",
+    "salary": "500",
+    "uniform_number": "44",
+    "team_name": "t"
+  },
+  {
+    "name": "遠藤成",
+    "born": "2001/9/19",
+    "height": "178",
+    "weight": "84",
+    "salary": "500",
+    "uniform_number": "45",
+    "team_name": "t"
+  },
+  {
+    "name": "島本浩也",
+    "born": "1993/2/14",
+    "height": "176",
+    "weight": "73",
+    "salary": "2300",
+    "uniform_number": "46",
+    "team_name": "t"
+  },
+  {
+    "name": "桐敷拓馬",
+    "born": "1999/6/20",
+    "height": "179",
+    "weight": "90",
+    "salary": "1100",
+    "uniform_number": "47",
+    "team_name": "t"
+  },
+  {
+    "name": "茨木秀俊",
+    "born": "2004/6/8",
+    "height": "182",
+    "weight": "85",
+    "salary": "500",
+    "uniform_number": "48",
+    "team_name": "t"
+  },
+  {
+    "name": "大竹耕太郎",
+    "born": "1995/6/29",
+    "height": "184",
+    "weight": "87",
+    "salary": "2000",
+    "uniform_number": "49",
+    "team_name": "t"
+  },
+  {
+    "name": "富田蓮",
+    "born": "2001/9/6",
+    "height": "174",
+    "weight": "78",
+    "salary": "750",
+    "uniform_number": "50",
+    "team_name": "t"
+  },
+  {
+    "name": "中野拓夢",
+    "born": "1996/6/28",
+    "height": "171",
+    "weight": "69",
+    "salary": "7000",
+    "uniform_number": "51",
+    "team_name": "t"
+  },
+  {
+    "name": "島田海吏",
+    "born": "1996/2/6",
+    "height": "176",
+    "weight": "73",
+    "salary": "3000",
+    "uniform_number": "53",
+    "team_name": "t"
+  },
+  {
+    "name": "加治屋蓮",
+    "born": "1991/11/25",
+    "height": "185",
+    "weight": "91",
+    "salary": "3000",
+    "uniform_number": "54",
+    "team_name": "t"
+  },
+  {
+    "name": "ミエセス",
+    "born": "1995/7/13",
+    "height": "185",
+    "weight": "120",
+    "salary": "7000",
+    "uniform_number": "55",
+    "team_name": "t"
+  },
+  {
+    "name": "小林慶祐",
+    "born": "1992/11/2",
+    "height": "188",
+    "weight": "91",
+    "salary": "1700",
+    "uniform_number": "56",
+    "team_name": "t"
+  },
+  {
+    "name": "長坂拳弥",
+    "born": "1994/4/28",
+    "height": "173",
+    "weight": "81",
+    "salary": "1000",
+    "uniform_number": "57",
+    "team_name": "t"
+  },
+  {
+    "name": "前川右京",
+    "born": "2003/5/18",
+    "height": "176",
+    "weight": "86",
+    "salary": "500",
+    "uniform_number": "58",
+    "team_name": "t"
+  },
+  {
+    "name": "藤田健斗",
+    "born": "2001/10/18",
+    "height": "173",
+    "weight": "83",
+    "salary": "500",
+    "uniform_number": "59",
+    "team_name": "t"
+  },
+  {
+    "name": "小野寺暖",
+    "born": "1998/3/17",
+    "height": "183",
+    "weight": "82",
+    "salary": "820",
+    "uniform_number": "60",
+    "team_name": "t"
+  },
+  {
+    "name": "豊田寛",
+    "born": "1997/4/28",
+    "height": "178",
+    "weight": "85",
+    "salary": "800",
+    "uniform_number": "61",
+    "team_name": "t"
+  },
+  {
+    "name": "植田海",
+    "born": "1996/4/19",
+    "height": "175",
+    "weight": "72",
+    "salary": "1800",
+    "uniform_number": "62",
+    "team_name": "t"
+  },
+  {
+    "name": "板山祐太郎",
+    "born": "1994/3/27",
+    "height": "180",
+    "weight": "82",
+    "salary": "1000",
+    "uniform_number": "63",
+    "team_name": "t"
+  },
+  {
+    "name": "岡留英貴",
+    "born": "1999/11/7",
+    "height": "180",
+    "weight": "89",
+    "salary": "720",
+    "uniform_number": "64",
+    "team_name": "t"
+  },
+  {
+    "name": "湯浅京己",
+    "born": "1999/7/17",
+    "height": "183",
+    "weight": "82",
+    "salary": "4700",
+    "uniform_number": "65",
+    "team_name": "t"
+  },
+  {
+    "name": "小川一平",
+    "born": "1997/6/3",
+    "height": "183",
+    "weight": "80",
+    "salary": "1300",
+    "uniform_number": "66",
+    "team_name": "t"
+  },
+  {
+    "name": "髙寺望夢",
+    "born": "2002/10/17",
+    "height": "178",
+    "weight": "74",
+    "salary": "600",
+    "uniform_number": "67",
+    "team_name": "t"
+  },
+  {
+    "name": "中川勇斗",
+    "born": "2004/1/27",
+    "height": "172",
+    "weight": "75",
+    "salary": "460",
+    "uniform_number": "68",
+    "team_name": "t"
+  },
+  {
+    "name": "石井大智",
+    "born": "1997/7/29",
+    "height": "175",
+    "weight": "77",
+    "salary": "1250",
+    "uniform_number": "69",
+    "team_name": "t"
+  },
+  {
+    "name": "渡邉雄大",
+    "born": "1991/9/19",
+    "height": "185",
+    "weight": "88",
+    "salary": "1600",
+    "uniform_number": "92",
+    "team_name": "t"
+  },
+  {
+    "name": "岩田将貴",
+    "born": "1998/6/16",
+    "height": "178",
+    "weight": "77",
+    "salary": "440",
+    "uniform_number": "93",
+    "team_name": "t"
+  },
+  {
+    "name": "原口文仁",
+    "born": "1992/3/3",
+    "height": "182",
+    "weight": "93",
+    "salary": "3100",
+    "uniform_number": "94",
+    "team_name": "t"
+  },
+  {
+    "name": "片山雄哉",
+    "born": "1994/6/18",
+    "height": "177",
+    "weight": "82",
+    "salary": "450",
+    "uniform_number": "95",
+    "team_name": "t"
+  },
+  {
+    "name": "ビーズリー",
+    "born": "1995/11/20",
+    "height": "191",
+    "weight": "109",
+    "salary": "11200",
+    "uniform_number": "99",
+    "team_name": "t"
+  },
+  {
+    "name": "野口恭佑",
+    "born": "2000/7/17",
+    "height": "180",
+    "weight": "88",
+    "salary": "300",
+    "uniform_number": "121",
+    "team_name": "t"
+  },
+  {
+    "name": "望月惇志",
+    "born": "1997/8/2",
+    "height": "190",
+    "weight": "93",
+    "salary": "600",
+    "uniform_number": "124",
+    "team_name": "t"
+  },
+  {
+    "name": "伊藤稜",
+    "born": "1999/11/8",
+    "height": "178",
+    "weight": "79",
+    "salary": "300",
+    "uniform_number": "125",
+    "team_name": "t"
+  },
+  {
+    "name": "川原陸",
+    "born": "2000/12/12",
+    "height": "186",
+    "weight": "85",
+    "salary": "420",
+    "uniform_number": "127",
+    "team_name": "t"
+  },
+  {
+    "name": "佐藤蓮",
+    "born": "1998/4/11",
+    "height": "189",
+    "weight": "101",
+    "salary": "600",
+    "uniform_number": "130",
+    "team_name": "t"
+  },
+  {
+    "name": "湯浅大",
+    "born": "2000/1/24",
+    "height": "172",
+    "weight": "73",
+    "salary": "1500",
+    "uniform_number": "00",
+    "team_name": "g"
+  },
+  {
+    "name": "増田大輝",
+    "born": "1993/7/29",
+    "height": "172",
+    "weight": "68",
+    "salary": "2300",
+    "uniform_number": "0",
+    "team_name": "g"
+  },
+  {
+    "name": "加藤廉",
+    "born": "1999/1/12",
+    "height": "181",
+    "weight": "84",
+    "salary": "410",
+    "uniform_number": "001",
+    "team_name": "g"
+  },
+  {
+    "name": "中田歩夢",
+    "born": "2004/6/27",
+    "height": "172",
+    "weight": "77",
+    "salary": "360",
+    "uniform_number": "002",
+    "team_name": "g"
+  },
+  {
+    "name": "吉川尚輝",
+    "born": "1995/2/8",
+    "height": "177",
+    "weight": "78",
+    "salary": "7000",
+    "uniform_number": "2",
+    "team_name": "g"
+  },
+  {
+    "name": "鈴木大和",
+    "born": "1999/4/27",
+    "height": "173",
+    "weight": "73",
+    "salary": "410",
+    "uniform_number": "003",
+    "team_name": "g"
+  },
+  {
+    "name": "中島宏之",
+    "born": "1982/7/31",
+    "height": "180",
+    "weight": "90",
+    "salary": "5000",
+    "uniform_number": "5",
+    "team_name": "g"
+  },
+  {
+    "name": "坂本勇人",
+    "born": "1988/12/14",
+    "height": "186",
+    "weight": "86",
+    "salary": "60000",
+    "uniform_number": "6",
+    "team_name": "g"
+  },
+  {
+    "name": "坂本勇人",
+    "born": "2002/4/15",
+    "height": "177",
+    "weight": "84",
+    "salary": "370",
+    "uniform_number": "006",
+    "team_name": "g"
+  },
+  {
+    "name": "デラクルーズ",
+    "born": "2004/7/29",
+    "height": "182",
+    "weight": "76",
+    "salary": "240",
+    "uniform_number": "007",
+    "team_name": "g"
+  },
+  {
+    "name": "長野久義",
+    "born": "1984/12/6",
+    "height": "180",
+    "weight": "85",
+    "salary": "2000",
+    "uniform_number": "7",
+    "team_name": "g"
+  },
+  {
+    "name": "丸佳浩",
+    "born": "1989/4/11",
+    "height": "177",
+    "weight": "94",
+    "salary": "45000",
+    "uniform_number": "8",
+    "team_name": "g"
+  },
+  {
+    "name": "相澤白虎",
+    "born": "2004/5/28",
+    "height": "178",
+    "weight": "82",
+    "salary": "360",
+    "uniform_number": "008",
+    "team_name": "g"
+  },
+  {
+    "name": "笹原操希",
+    "born": "2004/2/9",
+    "height": "180",
+    "weight": "76",
+    "salary": "370",
+    "uniform_number": "009",
+    "team_name": "g"
+  },
+  {
+    "name": "大津綾也",
+    "born": "2003/5/28",
+    "height": "174",
+    "weight": "72",
+    "salary": "370",
+    "uniform_number": "010",
+    "team_name": "g"
+  },
+  {
+    "name": "中田翔",
+    "born": "1989/4/22",
+    "height": "184",
+    "weight": "107",
+    "salary": "30000",
+    "uniform_number": "10",
+    "team_name": "g"
+  },
+  {
+    "name": "笠島尚樹",
+    "born": "2002/12/7",
+    "height": "178",
+    "weight": "82",
+    "salary": "380",
+    "uniform_number": "011",
+    "team_name": "g"
+  },
+  {
+    "name": "髙橋優貴",
+    "born": "1997/2/1",
+    "height": "178",
+    "weight": "82",
+    "salary": "3000",
+    "uniform_number": "012",
+    "team_name": "g"
+  },
+  {
+    "name": "萩尾匡也",
+    "born": "2000/12/28",
+    "height": "180",
+    "weight": "85",
+    "salary": "1200",
+    "uniform_number": "12",
+    "team_name": "g"
+  },
+  {
+    "name": "ティマ",
+    "born": "2004/9/25",
+    "height": "193",
+    "weight": "86",
+    "salary": "240",
+    "uniform_number": "013",
+    "team_name": "g"
+  },
+  {
+    "name": "梶谷隆幸",
+    "born": "1988/8/28",
+    "height": "180",
+    "weight": "90",
+    "salary": "20000",
+    "uniform_number": "13",
+    "team_name": "g"
+  },
+  {
+    "name": "京本眞",
+    "born": "2004/2/6",
+    "height": "189",
+    "weight": "80",
+    "salary": "380",
+    "uniform_number": "014",
+    "team_name": "g"
+  },
+  {
+    "name": "川嵜陽仁",
+    "born": "2003/11/1",
+    "height": "177",
+    "weight": "80",
+    "salary": "370",
+    "uniform_number": "015",
+    "team_name": "g"
+  },
+  {
+    "name": "大勢",
+    "born": "1999/6/29",
+    "height": "181",
+    "weight": "88",
+    "salary": "5700",
+    "uniform_number": "15",
+    "team_name": "g"
+  },
+  {
+    "name": "髙田竜星",
+    "born": "2002/8/19",
+    "height": "175",
+    "weight": "75",
+    "salary": "400",
+    "uniform_number": "016",
+    "team_name": "g"
+  },
+  {
+    "name": "奈良木陸",
+    "born": "1998/4/16",
+    "height": "182",
+    "weight": "90",
+    "salary": "360",
+    "uniform_number": "017",
+    "team_name": "g"
+  },
+  {
+    "name": "菅野智之",
+    "born": "1989/10/11",
+    "height": "186",
+    "weight": "95",
+    "salary": "50000",
+    "uniform_number": "18",
+    "team_name": "g"
+  },
+  {
+    "name": "木下幹也",
+    "born": "2002/5/1",
+    "height": "185",
+    "weight": "92",
+    "salary": "390",
+    "uniform_number": "018",
+    "team_name": "g"
+  },
+  {
+    "name": "山﨑伊織",
+    "born": "1998/10/10",
+    "height": "181",
+    "weight": "81",
+    "salary": "2500",
+    "uniform_number": "19",
+    "team_name": "g"
+  },
+  {
+    "name": "平内龍太",
+    "born": "1998/8/1",
+    "height": "185",
+    "weight": "99",
+    "salary": "2900",
+    "uniform_number": "019",
+    "team_name": "g"
+  },
+  {
+    "name": "戸郷翔征",
+    "born": "2000/4/4",
+    "height": "187",
+    "weight": "84",
+    "salary": "9000",
+    "uniform_number": "20",
+    "team_name": "g"
+  },
+  {
+    "name": "戸田懐生",
+    "born": "2000/7/22",
+    "height": "170",
+    "weight": "73",
+    "salary": "730",
+    "uniform_number": "020",
+    "team_name": "g"
+  },
+  {
+    "name": "松井颯",
+    "born": "2000/9/14",
+    "height": "178",
+    "weight": "83",
+    "salary": "400",
+    "uniform_number": "021",
+    "team_name": "g"
+  },
+  {
+    "name": "亀田啓太",
+    "born": "1999/4/9",
+    "height": "183",
+    "weight": "94",
+    "salary": "410",
+    "uniform_number": "022",
+    "team_name": "g"
+  },
+  {
+    "name": "小林誠司",
+    "born": "1989/6/7",
+    "height": "178",
+    "weight": "86",
+    "salary": "10000",
+    "uniform_number": "22",
+    "team_name": "g"
+  },
+  {
+    "name": "田村朋輝",
+    "born": "2004/4/6",
+    "height": "184",
+    "weight": "81",
+    "salary": "360",
+    "uniform_number": "023",
+    "team_name": "g"
+  },
+  {
+    "name": "松田宣浩",
+    "born": "1983/5/17",
+    "height": "180",
+    "weight": "86",
+    "salary": "2000",
+    "uniform_number": "23",
+    "team_name": "g"
+  },
+  {
+    "name": "大城卓三",
+    "born": "1993/2/11",
+    "height": "187",
+    "weight": "90",
+    "salary": "8000",
+    "uniform_number": "24",
+    "team_name": "g"
+  },
+  {
+    "name": "前田研輝",
+    "born": "1998/12/13",
+    "height": "180",
+    "weight": "90",
+    "salary": "410",
+    "uniform_number": "024",
+    "team_name": "g"
+  },
+  {
+    "name": "岡本和真",
+    "born": "1996/6/30",
+    "height": "186",
+    "weight": "100",
+    "salary": "27000",
+    "uniform_number": "25",
+    "team_name": "g"
+  },
+  {
+    "name": "岡本大翔",
+    "born": "2002/9/12",
+    "height": "190",
+    "weight": "94",
+    "salary": "410",
+    "uniform_number": "025",
+    "team_name": "g"
+  },
+  {
+    "name": "今村信貴",
+    "born": "1994/3/15",
+    "height": "180",
+    "weight": "90",
+    "salary": "4700",
+    "uniform_number": "26",
+    "team_name": "g"
+  },
+  {
+    "name": "吉村優聖歩",
+    "born": "2004/12/8",
+    "height": "181",
+    "weight": "73",
+    "salary": "360",
+    "uniform_number": "026",
+    "team_name": "g"
+  },
+  {
+    "name": "北村流音",
+    "born": "2005/2/20",
+    "height": "174",
+    "weight": "78",
+    "salary": "360",
+    "uniform_number": "027",
+    "team_name": "g"
+  },
+  {
+    "name": "岸田行倫",
+    "born": "1996/10/10",
+    "height": "176",
+    "weight": "88",
+    "salary": "1600",
+    "uniform_number": "27",
+    "team_name": "g"
+  },
+  {
+    "name": "富田龍",
+    "born": "1999/11/11",
+    "height": "179",
+    "weight": "78",
+    "salary": "410",
+    "uniform_number": "028",
+    "team_name": "g"
+  },
+  {
+    "name": "山田龍聖",
+    "born": "2000/9/7",
+    "height": "183",
+    "weight": "82",
+    "salary": "1100",
+    "uniform_number": "28",
+    "team_name": "g"
+  },
+  {
+    "name": "グリフィン",
+    "born": "1995/7/27",
+    "height": "190",
+    "weight": "102",
+    "salary": "10000",
+    "uniform_number": "29",
+    "team_name": "g"
+  },
+  {
+    "name": "山﨑友輔",
+    "born": "1998/5/2",
+    "height": "178",
+    "weight": "80",
+    "salary": "420",
+    "uniform_number": "030",
+    "team_name": "g"
+  },
+  {
+    "name": "鍵谷陽平",
+    "born": "1990/9/23",
+    "height": "178",
+    "weight": "86",
+    "salary": "6300",
+    "uniform_number": "30",
+    "team_name": "g"
+  },
+  {
+    "name": "三塚琉生",
+    "born": "2004/5/10",
+    "height": "182",
+    "weight": "91",
+    "salary": "360",
+    "uniform_number": "031",
+    "team_name": "g"
+  },
+  {
+    "name": "赤星優志",
+    "born": "1999/7/2",
+    "height": "175",
+    "weight": "82",
+    "salary": "2200",
+    "uniform_number": "31",
+    "team_name": "g"
+  },
+  {
+    "name": "廣岡大志",
+    "born": "1997/4/9",
+    "height": "183",
+    "weight": "81",
+    "salary": "1700",
+    "uniform_number": "32",
+    "team_name": "g"
+  },
+  {
+    "name": "太田龍",
+    "born": "1998/11/15",
+    "height": "190",
+    "weight": "97",
+    "salary": "800",
+    "uniform_number": "033",
+    "team_name": "g"
+  },
+  {
+    "name": "ビーディ",
+    "born": "1993/5/23",
+    "height": "188",
+    "weight": "97",
+    "salary": "16000",
+    "uniform_number": "33",
+    "team_name": "g"
+  },
+  {
+    "name": "森本哲星",
+    "born": "2004/9/3",
+    "height": "175",
+    "weight": "73",
+    "salary": "360",
+    "uniform_number": "034",
+    "team_name": "g"
+  },
+  {
+    "name": "ルシアーノ",
+    "born": "2000/2/15",
+    "height": "190",
+    "weight": "95",
+    "salary": "1000",
+    "uniform_number": "035",
+    "team_name": "g"
+  },
+  {
+    "name": "門脇誠",
+    "born": "2001/1/24",
+    "height": "171",
+    "weight": "76",
+    "salary": "840",
+    "uniform_number": "35",
+    "team_name": "g"
+  },
+  {
+    "name": "石川慎吾",
+    "born": "1993/4/27",
+    "height": "178",
+    "weight": "80",
+    "salary": "1800",
+    "uniform_number": "36",
+    "team_name": "g"
+  },
+  {
+    "name": "若林晃弘",
+    "born": "1993/8/26",
+    "height": "180",
+    "weight": "79",
+    "salary": "2500",
+    "uniform_number": "37",
+    "team_name": "g"
+  },
+  {
+    "name": "岡田悠希",
+    "born": "2000/1/19",
+    "height": "183",
+    "weight": "84",
+    "salary": "900",
+    "uniform_number": "38",
+    "team_name": "g"
+  },
+  {
+    "name": "立岡宗一郎",
+    "born": "1990/5/18",
+    "height": "181",
+    "weight": "82",
+    "salary": "2350",
+    "uniform_number": "039",
+    "team_name": "g"
+  },
+  {
+    "name": "谷岡竜平",
+    "born": "1996/3/21",
+    "height": "181",
+    "weight": "89",
+    "salary": "785",
+    "uniform_number": "040",
+    "team_name": "g"
+  },
+  {
+    "name": "中山礼都",
+    "born": "2002/4/12",
+    "height": "182",
+    "weight": "82",
+    "salary": "1260",
+    "uniform_number": "40",
+    "team_name": "g"
+  },
+  {
+    "name": "中川皓太",
+    "born": "1994/2/24",
+    "height": "183",
+    "weight": "86",
+    "salary": "7500",
+    "uniform_number": "041",
+    "team_name": "g"
+  },
+  {
+    "name": "ブリンソン",
+    "born": "1994/5/8",
+    "height": "196",
+    "weight": "96",
+    "salary": "13000",
+    "uniform_number": "42",
+    "team_name": "g"
+  },
+  {
+    "name": "重信慎之介",
+    "born": "1993/4/17",
+    "height": "173",
+    "weight": "74",
+    "salary": "3200",
+    "uniform_number": "43",
+    "team_name": "g"
+  },
+  {
+    "name": "ウォーカー",
+    "born": "1991/10/18",
+    "height": "196",
+    "weight": "104",
+    "salary": "10000",
+    "uniform_number": "44",
+    "team_name": "g"
+  },
+  {
+    "name": "大城元",
+    "born": "2004/7/12",
+    "height": "180",
+    "weight": "78",
+    "salary": "360",
+    "uniform_number": "044",
+    "team_name": "g"
+  },
+  {
+    "name": "畠世周",
+    "born": "1994/5/31",
+    "height": "186",
+    "weight": "82",
+    "salary": "3300",
+    "uniform_number": "45",
+    "team_name": "g"
+  },
+  {
+    "name": "鍬原拓也",
+    "born": "1996/3/26",
+    "height": "178",
+    "weight": "85",
+    "salary": "2900",
+    "uniform_number": "46",
+    "team_name": "g"
+  },
+  {
+    "name": "鴨打瑛二",
+    "born": "2004/2/29",
+    "height": "195",
+    "weight": "90",
+    "salary": "370",
+    "uniform_number": "047",
+    "team_name": "g"
+  },
+  {
+    "name": "田中千晴",
+    "born": "2000/9/21",
+    "height": "189",
+    "weight": "85",
+    "salary": "1000",
+    "uniform_number": "48",
+    "team_name": "g"
+  },
+  {
+    "name": "オコエ瑠偉",
+    "born": "1997/7/21",
+    "height": "185",
+    "weight": "90",
+    "salary": "850",
+    "uniform_number": "50",
+    "team_name": "g"
+  },
+  {
+    "name": "阿部剣友",
+    "born": "2002/5/17",
+    "height": "200",
+    "weight": "107",
+    "salary": "380",
+    "uniform_number": "051",
+    "team_name": "g"
+  },
+  {
+    "name": "浅野翔吾",
+    "born": "2004/11/24",
+    "height": "171",
+    "weight": "86",
+    "salary": "1200",
+    "uniform_number": "51",
+    "team_name": "g"
+  },
+  {
+    "name": "北村拓己",
+    "born": "1995/8/29",
+    "height": "181",
+    "weight": "90",
+    "salary": "1700",
+    "uniform_number": "52",
+    "team_name": "g"
+  },
+  {
+    "name": "三上朋也",
+    "born": "1989/4/10",
+    "height": "190",
+    "weight": "90",
+    "salary": "1600",
+    "uniform_number": "053",
+    "team_name": "g"
+  },
+  {
+    "name": "高梨雄平",
+    "born": "1992/7/13",
+    "height": "175",
+    "weight": "86",
+    "salary": "11000",
+    "uniform_number": "53",
+    "team_name": "g"
+  },
+  {
+    "name": "直江大輔",
+    "born": "2000/6/20",
+    "height": "185",
+    "weight": "87",
+    "salary": "910",
+    "uniform_number": "54",
+    "team_name": "g"
+  },
+  {
+    "name": "保科広一",
+    "born": "1998/6/3",
+    "height": "187",
+    "weight": "92",
+    "salary": "420",
+    "uniform_number": "055",
+    "team_name": "g"
+  },
+  {
+    "name": "秋広優人",
+    "born": "2002/9/17",
+    "height": "200",
+    "weight": "95",
+    "salary": "630",
+    "uniform_number": "55",
+    "team_name": "g"
+  },
+  {
+    "name": "石田隼都",
+    "born": "2003/4/5",
+    "height": "183",
+    "weight": "78",
+    "salary": "610",
+    "uniform_number": "56",
+    "team_name": "g"
+  },
+  {
+    "name": "伊藤優輔",
+    "born": "1997/1/14",
+    "height": "178",
+    "weight": "82",
+    "salary": "800",
+    "uniform_number": "056",
+    "team_name": "g"
+  },
+  {
+    "name": "高木京介",
+    "born": "1989/9/5",
+    "height": "183",
+    "weight": "90",
+    "salary": "2000",
+    "uniform_number": "057",
+    "team_name": "g"
+  },
+  {
+    "name": "山本一輝",
+    "born": "1998/6/28",
+    "height": "182",
+    "weight": "86",
+    "salary": "650",
+    "uniform_number": "058",
+    "team_name": "g"
+  },
+  {
+    "name": "船迫大雅",
+    "born": "1996/10/16",
+    "height": "174",
+    "weight": "74",
+    "salary": "800",
+    "uniform_number": "58",
+    "team_name": "g"
+  },
+  {
+    "name": "松原聖弥",
+    "born": "1995/1/26",
+    "height": "173",
+    "weight": "74",
+    "salary": "3100",
+    "uniform_number": "59",
+    "team_name": "g"
+  },
+  {
+    "name": "菊田拡和",
+    "born": "2001/7/23",
+    "height": "182",
+    "weight": "94",
+    "salary": "620",
+    "uniform_number": "60",
+    "team_name": "g"
+  },
+  {
+    "name": "増田陸",
+    "born": "2000/6/17",
+    "height": "178",
+    "weight": "85",
+    "salary": "1800",
+    "uniform_number": "61",
+    "team_name": "g"
+  },
+  {
+    "name": "横川凱",
+    "born": "2000/8/30",
+    "height": "190",
+    "weight": "98",
+    "salary": "660",
+    "uniform_number": "62",
+    "team_name": "g"
+  },
+  {
+    "name": "花田侑樹",
+    "born": "2003/6/25",
+    "height": "181",
+    "weight": "74",
+    "salary": "480",
+    "uniform_number": "063",
+    "team_name": "g"
+  },
+  {
+    "name": "田中豊樹",
+    "born": "1993/12/1",
+    "height": "180",
+    "weight": "98",
+    "salary": "1500",
+    "uniform_number": "63",
+    "team_name": "g"
+  },
+  {
+    "name": "大江竜聖",
+    "born": "1999/1/15",
+    "height": "173",
+    "weight": "82",
+    "salary": "2310",
+    "uniform_number": "64",
+    "team_name": "g"
+  },
+  {
+    "name": "メンデス",
+    "born": "1995/1/17",
+    "height": "193",
+    "weight": "104",
+    "salary": "4000",
+    "uniform_number": "65",
+    "team_name": "g"
+  },
+  {
+    "name": "香月一也",
+    "born": "1996/4/16",
+    "height": "176",
+    "weight": "83",
+    "salary": "1100",
+    "uniform_number": "66",
+    "team_name": "g"
+  },
+  {
+    "name": "山瀬慎之助",
+    "born": "2001/5/4",
+    "height": "177",
+    "weight": "89",
+    "salary": "650",
+    "uniform_number": "67",
+    "team_name": "g"
+  },
+  {
+    "name": "代木大和",
+    "born": "2003/9/8",
+    "height": "184",
+    "weight": "84",
+    "salary": "550",
+    "uniform_number": "68",
+    "team_name": "g"
+  },
+  {
+    "name": "萩原哲",
+    "born": "1998/5/1",
+    "height": "175",
+    "weight": "85",
+    "salary": "650",
+    "uniform_number": "069",
+    "team_name": "g"
+  },
+  {
+    "name": "堀田賢慎",
+    "born": "2001/5/21",
+    "height": "186",
+    "weight": "88",
+    "salary": "650",
+    "uniform_number": "91",
+    "team_name": "g"
+  },
+  {
+    "name": "喜多隆介",
+    "born": "1998/8/25",
+    "height": "179",
+    "weight": "83",
+    "salary": "650",
+    "uniform_number": "94",
+    "team_name": "g"
+  },
+  {
+    "name": "堀岡隼人",
+    "born": "1998/9/11",
+    "height": "183",
+    "weight": "87",
+    "salary": "670",
+    "uniform_number": "95",
+    "team_name": "g"
+  },
+  {
+    "name": "菊地大稀",
+    "born": "1999/6/2",
+    "height": "186",
+    "weight": "89",
+    "salary": "700",
+    "uniform_number": "96",
+    "team_name": "g"
+  },
+  {
+    "name": "井上温大",
+    "born": "2001/5/13",
+    "height": "175",
+    "weight": "78",
+    "salary": "650",
+    "uniform_number": "97",
+    "team_name": "g"
+  },
+  {
+    "name": "ロペス",
+    "born": "1993/1/2",
+    "height": "190",
+    "weight": "84",
+    "salary": "11000",
+    "uniform_number": "99",
+    "team_name": "g"
+  },
+  {
+    "name": "上本崇司",
+    "born": "1990/8/22",
+    "height": "170",
+    "weight": "73",
+    "salary": "2900",
+    "uniform_number": "0",
+    "team_name": "c"
+  },
+  {
+    "name": "曽根海成",
+    "born": "1995/4/24",
+    "height": "175",
+    "weight": "72",
+    "salary": "1300",
+    "uniform_number": "00",
+    "team_name": "c"
+  },
+  {
+    "name": "田中広輔",
+    "born": "1989/7/3",
+    "height": "171",
+    "weight": "86",
+    "salary": "3000",
+    "uniform_number": "2",
+    "team_name": "c"
+  },
+  {
+    "name": "西川龍馬",
+    "born": "1994/12/10",
+    "height": "176",
+    "weight": "83",
+    "salary": "12000",
+    "uniform_number": "5",
+    "team_name": "c"
+  },
+  {
+    "name": "堂林翔太",
+    "born": "1991/8/17",
+    "height": "183",
+    "weight": "96",
+    "salary": "5000",
+    "uniform_number": "7",
+    "team_name": "c"
+  },
+  {
+    "name": "秋山翔吾",
+    "born": "1988/4/16",
+    "height": "184",
+    "weight": "86",
+    "salary": "15000",
+    "uniform_number": "9",
+    "team_name": "c"
+  },
+  {
+    "name": "マクブルーム",
+    "born": "1992/4/9",
+    "height": "190",
+    "weight": "99",
+    "salary": "19075",
+    "uniform_number": "10",
+    "team_name": "c"
+  },
+  {
+    "name": "九里亜蓮",
+    "born": "1991/9/1",
+    "height": "187",
+    "weight": "97",
+    "salary": "14000",
+    "uniform_number": "11",
+    "team_name": "c"
+  },
+  {
+    "name": "大道温貴",
+    "born": "1999/1/20",
+    "height": "178",
+    "weight": "80",
+    "salary": "1300",
+    "uniform_number": "12",
+    "team_name": "c"
+  },
+  {
+    "name": "森浦大輔",
+    "born": "1998/6/15",
+    "height": "175",
+    "weight": "72",
+    "salary": "4000",
+    "uniform_number": "13",
+    "team_name": "c"
+  },
+  {
+    "name": "大瀬良大地",
+    "born": "1991/6/17",
+    "height": "187",
+    "weight": "92",
+    "salary": "18000",
+    "uniform_number": "14",
+    "team_name": "c"
+  },
+  {
+    "name": "森翔平",
+    "born": "1998/1/1",
+    "height": "177",
+    "weight": "81",
+    "salary": "1400",
+    "uniform_number": "16",
+    "team_name": "c"
+  },
+  {
+    "name": "岡田明丈",
+    "born": "1993/10/18",
+    "height": "185",
+    "weight": "97",
+    "salary": "1750",
+    "uniform_number": "17",
+    "team_name": "c"
+  },
+  {
+    "name": "森下暢仁",
+    "born": "1997/8/25",
+    "height": "180",
+    "weight": "78",
+    "salary": "11000",
+    "uniform_number": "18",
+    "team_name": "c"
+  },
+  {
+    "name": "野村祐輔",
+    "born": "1989/6/24",
+    "height": "177",
+    "weight": "85",
+    "salary": "5500",
+    "uniform_number": "19",
+    "team_name": "c"
+  },
+  {
+    "name": "栗林良吏",
+    "born": "1996/7/9",
+    "height": "178",
+    "weight": "85",
+    "salary": "9500",
+    "uniform_number": "20",
+    "team_name": "c"
+  },
+  {
+    "name": "中﨑翔太",
+    "born": "1992/8/10",
+    "height": "186",
+    "weight": "100",
+    "salary": "5300",
+    "uniform_number": "21",
+    "team_name": "c"
+  },
+  {
+    "name": "中村奨成",
+    "born": "1999/6/6",
+    "height": "181",
+    "weight": "81",
+    "salary": "800",
+    "uniform_number": "22",
+    "team_name": "c"
+  },
+  {
+    "name": "薮田和樹",
+    "born": "1992/8/7",
+    "height": "188",
+    "weight": "84",
+    "salary": "1600",
+    "uniform_number": "23",
+    "team_name": "c"
+  },
+  {
+    "name": "黒原拓未",
+    "born": "1999/11/29",
+    "height": "173",
+    "weight": "73",
+    "salary": "1400",
+    "uniform_number": "24",
+    "team_name": "c"
+  },
+  {
+    "name": "益田武尚",
+    "born": "1998/10/6",
+    "height": "175",
+    "weight": "83",
+    "salary": "1100",
+    "uniform_number": "26",
+    "team_name": "c"
+  },
+  {
+    "name": "會澤翼",
+    "born": "1988/4/13",
+    "height": "175",
+    "weight": "90",
+    "salary": "14000",
+    "uniform_number": "27",
+    "team_name": "c"
+  },
+  {
+    "name": "床田寛樹",
+    "born": "1995/3/1",
+    "height": "181",
+    "weight": "92",
+    "salary": "5000",
+    "uniform_number": "28",
+    "team_name": "c"
+  },
+  {
+    "name": "ケムナ誠",
+    "born": "1995/6/5",
+    "height": "190",
+    "weight": "97",
+    "salary": "2700",
+    "uniform_number": "29",
+    "team_name": "c"
+  },
+  {
+    "name": "一岡竜司",
+    "born": "1991/1/11",
+    "height": "179",
+    "weight": "87",
+    "salary": "3200",
+    "uniform_number": "30",
+    "team_name": "c"
+  },
+  {
+    "name": "坂倉将吾",
+    "born": "1998/5/29",
+    "height": "176",
+    "weight": "89",
+    "salary": "9500",
+    "uniform_number": "31",
+    "team_name": "c"
+  },
+  {
+    "name": "石原貴規",
+    "born": "1998/2/3",
+    "height": "173",
+    "weight": "85",
+    "salary": "1000",
+    "uniform_number": "32",
+    "team_name": "c"
+  },
+  {
+    "name": "菊池涼介",
+    "born": "1990/3/11",
+    "height": "171",
+    "weight": "71",
+    "salary": "30000",
+    "uniform_number": "33",
+    "team_name": "c"
+  },
+  {
+    "name": "高橋昂也",
+    "born": "1998/9/27",
+    "height": "181",
+    "weight": "92",
+    "salary": "1000",
+    "uniform_number": "34",
+    "team_name": "c"
+  },
+  {
+    "name": "三好匠",
+    "born": "1993/6/7",
+    "height": "174",
+    "weight": "84",
+    "salary": "1200",
+    "uniform_number": "35",
+    "team_name": "c"
+  },
+  {
+    "name": "塹江敦哉",
+    "born": "1997/2/21",
+    "height": "178",
+    "weight": "88",
+    "salary": "2400",
+    "uniform_number": "36",
+    "team_name": "c"
+  },
+  {
+    "name": "野間峻祥",
+    "born": "1993/1/28",
+    "height": "180",
+    "weight": "85",
+    "salary": "5000",
+    "uniform_number": "37",
+    "team_name": "c"
+  },
+  {
+    "name": "宇草孔基",
+    "born": "1997/4/17",
+    "height": "185",
+    "weight": "82",
+    "salary": "1200",
+    "uniform_number": "38",
+    "team_name": "c"
+  },
+  {
+    "name": "長谷部銀次",
+    "born": "1998/7/29",
+    "height": "184",
+    "weight": "85",
+    "salary": "800",
+    "uniform_number": "39",
+    "team_name": "c"
+  },
+  {
+    "name": "磯村嘉孝",
+    "born": "1992/11/1",
+    "height": "178",
+    "weight": "91",
+    "salary": "2100",
+    "uniform_number": "40",
+    "team_name": "c"
+  },
+  {
+    "name": "矢崎拓也",
+    "born": "1994/12/31",
+    "height": "176",
+    "weight": "95",
+    "salary": "2800",
+    "uniform_number": "41",
+    "team_name": "c"
+  },
+  {
+    "name": "アンダーソン",
+    "born": "1994/3/22",
+    "height": "190",
+    "weight": "93",
+    "salary": "7700",
+    "uniform_number": "42",
+    "team_name": "c"
+  },
+  {
+    "name": "島内颯太郎",
+    "born": "1996/10/14",
+    "height": "180",
+    "weight": "81",
+    "salary": "2300",
+    "uniform_number": "43",
+    "team_name": "c"
+  },
+  {
+    "name": "林晃汰",
+    "born": "2000/11/16",
+    "height": "182",
+    "weight": "100",
+    "salary": "1200",
+    "uniform_number": "44",
+    "team_name": "c"
+  },
+  {
+    "name": "松本竜也",
+    "born": "1999/9/18",
+    "height": "178",
+    "weight": "98",
+    "salary": "1600",
+    "uniform_number": "45",
+    "team_name": "c"
+  },
+  {
+    "name": "河野佳",
+    "born": "2001/8/23",
+    "height": "175",
+    "weight": "82",
+    "salary": "700",
+    "uniform_number": "46",
+    "team_name": "c"
+  },
+  {
+    "name": "斉藤優汰",
+    "born": "2004/5/27",
+    "height": "189",
+    "weight": "91",
+    "salary": "800",
+    "uniform_number": "47",
+    "team_name": "c"
+  },
+  {
+    "name": "アドゥワ誠",
+    "born": "1998/10/2",
+    "height": "196",
+    "weight": "84",
+    "salary": "1000",
+    "uniform_number": "48",
+    "team_name": "c"
+  },
+  {
+    "name": "戸根千明",
+    "born": "1992/10/17",
+    "height": "174",
+    "weight": "100",
+    "salary": "1800",
+    "uniform_number": "49",
+    "team_name": "c"
+  },
+  {
+    "name": "中村健人",
+    "born": "1997/5/21",
+    "height": "183",
+    "weight": "93",
+    "salary": "1600",
+    "uniform_number": "50",
+    "team_name": "c"
+  },
+  {
+    "name": "小園海斗",
+    "born": "2000/6/7",
+    "height": "178",
+    "weight": "85",
+    "salary": "4000",
+    "uniform_number": "51",
+    "team_name": "c"
+  },
+  {
+    "name": "末包昇大",
+    "born": "1996/5/27",
+    "height": "188",
+    "weight": "112",
+    "salary": "1300",
+    "uniform_number": "52",
+    "team_name": "c"
+  },
+  {
+    "name": "小林樹斗",
+    "born": "2003/1/16",
+    "height": "182",
+    "weight": "85",
+    "salary": "550",
+    "uniform_number": "53",
+    "team_name": "c"
+  },
+  {
+    "name": "韮澤雄也",
+    "born": "2001/5/20",
+    "height": "177",
+    "weight": "83",
+    "salary": "600",
+    "uniform_number": "54",
+    "team_name": "c"
+  },
+  {
+    "name": "松山竜平",
+    "born": "1985/9/18",
+    "height": "176",
+    "weight": "96",
+    "salary": "6500",
+    "uniform_number": "55",
+    "team_name": "c"
+  },
+  {
+    "name": "久保修",
+    "born": "2000/9/29",
+    "height": "181",
+    "weight": "82",
+    "salary": "600",
+    "uniform_number": "56",
+    "team_name": "c"
+  },
+  {
+    "name": "持丸泰輝",
+    "born": "2001/10/26",
+    "height": "177",
+    "weight": "88",
+    "salary": "550",
+    "uniform_number": "57",
+    "team_name": "c"
+  },
+  {
+    "name": "藤井黎來",
+    "born": "1999/9/17",
+    "height": "182",
+    "weight": "90",
+    "salary": "800",
+    "uniform_number": "58",
+    "team_name": "c"
+  },
+  {
+    "name": "大盛穂",
+    "born": "1996/8/31",
+    "height": "180",
+    "weight": "80",
+    "salary": "1300",
+    "uniform_number": "59",
+    "team_name": "c"
+  },
+  {
+    "name": "田村俊介",
+    "born": "2003/8/25",
+    "height": "178",
+    "weight": "93",
+    "salary": "500",
+    "uniform_number": "60",
+    "team_name": "c"
+  },
+  {
+    "name": "矢野雅哉",
+    "born": "1998/12/16",
+    "height": "171",
+    "weight": "69",
+    "salary": "1100",
+    "uniform_number": "61",
+    "team_name": "c"
+  },
+  {
+    "name": "清水叶人",
+    "born": "2004/7/6",
+    "height": "176",
+    "weight": "86",
+    "salary": "500",
+    "uniform_number": "62",
+    "team_name": "c"
+  },
+  {
+    "name": "内田湘大",
+    "born": "2004/9/22",
+    "height": "183",
+    "weight": "88",
+    "salary": "600",
+    "uniform_number": "63",
+    "team_name": "c"
+  },
+  {
+    "name": "髙木翔斗",
+    "born": "2003/8/12",
+    "height": "188",
+    "weight": "87",
+    "salary": "500",
+    "uniform_number": "64",
+    "team_name": "c"
+  },
+  {
+    "name": "玉村昇悟",
+    "born": "2001/4/16",
+    "height": "179",
+    "weight": "84",
+    "salary": "1300",
+    "uniform_number": "65",
+    "team_name": "c"
+  },
+  {
+    "name": "遠藤淳志",
+    "born": "1999/4/8",
+    "height": "186",
+    "weight": "87",
+    "salary": "2600",
+    "uniform_number": "66",
+    "team_name": "c"
+  },
+  {
+    "name": "中村祐太",
+    "born": "1995/8/31",
+    "height": "184",
+    "weight": "90",
+    "salary": "1100",
+    "uniform_number": "67",
+    "team_name": "c"
+  },
+  {
+    "name": "ターリー",
+    "born": "1989/9/11",
+    "height": "193",
+    "weight": "104",
+    "salary": "11200",
+    "uniform_number": "68",
+    "team_name": "c"
+  },
+  {
+    "name": "羽月隆太郎",
+    "born": "2000/4/19",
+    "height": "167",
+    "weight": "72",
+    "salary": "1400",
+    "uniform_number": "69",
+    "team_name": "c"
+  },
+  {
+    "name": "デビッドソン",
+    "born": "1991/3/26",
+    "height": "190",
+    "weight": "104",
+    "salary": "7700",
+    "uniform_number": "95",
+    "team_name": "c"
+  },
+  {
+    "name": "コルニエル",
+    "born": "1995/6/23",
+    "height": "194",
+    "weight": "101",
+    "salary": "2500",
+    "uniform_number": "98",
+    "team_name": "c"
+  },
+  {
+    "name": "二俣翔一",
+    "born": "2002/10/21",
+    "height": "180",
+    "weight": "75",
+    "salary": "500",
+    "uniform_number": "99",
+    "team_name": "c"
+  },
+  {
+    "name": "行木俊",
+    "born": "2001/1/8",
+    "height": "184",
+    "weight": "79",
+    "salary": "450",
+    "uniform_number": "120",
+    "team_name": "c"
+  },
+  {
+    "name": "名原典彦",
+    "born": "2000/6/24",
+    "height": "182",
+    "weight": "82",
+    "salary": "300",
+    "uniform_number": "121",
+    "team_name": "c"
+  },
+  {
+    "name": "坂田怜",
+    "born": "1999/9/13",
+    "height": "188",
+    "weight": "90",
+    "salary": "350",
+    "uniform_number": "122",
+    "team_name": "c"
+  },
+  {
+    "name": "中村貴浩",
+    "born": "2000/4/9",
+    "height": "177",
+    "weight": "85",
+    "salary": "300",
+    "uniform_number": "123",
+    "team_name": "c"
+  },
+  {
+    "name": "木下元秀",
+    "born": "2001/7/25",
+    "height": "183",
+    "weight": "96",
+    "salary": "350",
+    "uniform_number": "124",
+    "team_name": "c"
+  },
+  {
+    "name": "辻大雅",
+    "born": "2004/8/29",
+    "height": "182",
+    "weight": "80",
+    "salary": "275",
+    "uniform_number": "125",
+    "team_name": "c"
+  },
+  {
+    "name": "新家颯",
+    "born": "2003/8/14",
+    "height": "182",
+    "weight": "83",
+    "salary": "300",
+    "uniform_number": "126",
+    "team_name": "c"
+  },
+  {
+    "name": "前川誠太",
+    "born": "2003/4/4",
+    "height": "176",
+    "weight": "70",
+    "salary": "300",
+    "uniform_number": "127",
+    "team_name": "c"
+  },
+  {
+    "name": "中村来生",
+    "born": "2003/5/6",
+    "height": "190",
+    "weight": "71",
+    "salary": "300",
+    "uniform_number": "128",
+    "team_name": "c"
+  },
+  {
+    "name": "細川成也",
+    "born": "1998/8/4",
+    "height": "179",
+    "weight": "98",
+    "salary": "990",
+    "uniform_number": "0",
+    "team_name": "d"
+  },
+  {
+    "name": "田中幹也",
+    "born": "2000/11/28",
+    "height": "166",
+    "weight": "68",
+    "salary": "720",
+    "uniform_number": "2",
+    "team_name": "d"
+  },
+  {
+    "name": "高橋周平",
+    "born": "1994/1/18",
+    "height": "180",
+    "weight": "90",
+    "salary": "6750",
+    "uniform_number": "3",
+    "team_name": "d"
+  },
+  {
+    "name": "鵜飼航丞",
+    "born": "1999/5/30",
+    "height": "182",
+    "weight": "100",
+    "salary": "1500",
+    "uniform_number": "4",
+    "team_name": "d"
+  },
+  {
+    "name": "村松開人",
+    "born": "2001/1/6",
+    "height": "171",
+    "weight": "80",
+    "salary": "1200",
+    "uniform_number": "5",
+    "team_name": "d"
+  },
+  {
+    "name": "根尾昂",
+    "born": "2000/4/19",
+    "height": "177",
+    "weight": "84",
+    "salary": "1850",
+    "uniform_number": "7",
+    "team_name": "d"
+  },
+  {
+    "name": "大島洋平",
+    "born": "1985/11/9",
+    "height": "176",
+    "weight": "75",
+    "salary": "25000",
+    "uniform_number": "8",
+    "team_name": "d"
+  },
+  {
+    "name": "アキーノ",
+    "born": "1994/4/22",
+    "height": "195",
+    "weight": "108",
+    "salary": "16800",
+    "uniform_number": "9",
+    "team_name": "d"
+  },
+  {
+    "name": "小笠原慎之介",
+    "born": "1997/10/8",
+    "height": "180",
+    "weight": "93",
+    "salary": "6600",
+    "uniform_number": "11",
+    "team_name": "d"
+  },
+  {
+    "name": "田島慎二",
+    "born": "1989/12/21",
+    "height": "181",
+    "weight": "87",
+    "salary": "3500",
+    "uniform_number": "12",
+    "team_name": "d"
+  },
+  {
+    "name": "橋本侑樹",
+    "born": "1998/1/8",
+    "height": "180",
+    "weight": "75",
+    "salary": "1100",
+    "uniform_number": "13",
+    "team_name": "d"
+  },
+  {
+    "name": "谷元圭介",
+    "born": "1985/1/28",
+    "height": "167",
+    "weight": "72",
+    "salary": "4200",
+    "uniform_number": "14",
+    "team_name": "d"
+  },
+  {
+    "name": "柳裕也",
+    "born": "1994/4/22",
+    "height": "180",
+    "weight": "85",
+    "salary": "10800",
+    "uniform_number": "17",
+    "team_name": "d"
+  },
+  {
+    "name": "梅津晃大",
+    "born": "1996/10/24",
+    "height": "187",
+    "weight": "95",
+    "salary": "950",
+    "uniform_number": "18",
+    "team_name": "d"
+  },
+  {
+    "name": "髙橋宏斗",
+    "born": "2002/8/9",
+    "height": "186",
+    "weight": "86",
+    "salary": "3500",
+    "uniform_number": "19",
+    "team_name": "d"
+  },
+  {
+    "name": "涌井秀章",
+    "born": "1986/6/21",
+    "height": "185",
+    "weight": "85",
+    "salary": "10000",
+    "uniform_number": "20",
+    "team_name": "d"
+  },
+  {
+    "name": "岡田俊哉",
+    "born": "1991/12/5",
+    "height": "178",
+    "weight": "69",
+    "salary": "1900",
+    "uniform_number": "21",
+    "team_name": "d"
+  },
+  {
+    "name": "大野雄大",
+    "born": "1988/9/26",
+    "height": "184",
+    "weight": "85",
+    "salary": "30000",
+    "uniform_number": "22",
+    "team_name": "d"
+  },
+  {
+    "name": "福元悠真",
+    "born": "1999/12/1",
+    "height": "180",
+    "weight": "85",
+    "salary": "720",
+    "uniform_number": "23",
+    "team_name": "d"
+  },
+  {
+    "name": "福谷浩司",
+    "born": "1991/1/9",
+    "height": "183",
+    "weight": "93",
+    "salary": "2200",
+    "uniform_number": "24",
+    "team_name": "d"
+  },
+  {
+    "name": "石川昂弥",
+    "born": "2001/6/22",
+    "height": "186",
+    "weight": "100",
+    "salary": "1500",
+    "uniform_number": "25",
+    "team_name": "d"
+  },
+  {
+    "name": "石森大誠",
+    "born": "1997/12/3",
+    "height": "178",
+    "weight": "83",
+    "salary": "900",
+    "uniform_number": "26",
+    "team_name": "d"
+  },
+  {
+    "name": "大野奨太",
+    "born": "1987/1/13",
+    "height": "177",
+    "weight": "83",
+    "salary": "2200",
+    "uniform_number": "27",
+    "team_name": "d"
+  },
+  {
+    "name": "森博人",
+    "born": "1998/5/25",
+    "height": "177",
+    "weight": "84",
+    "salary": "1450",
+    "uniform_number": "28",
+    "team_name": "d"
+  },
+  {
+    "name": "三好大倫",
+    "born": "1997/9/28",
+    "height": "179",
+    "weight": "83",
+    "salary": "900",
+    "uniform_number": "30",
+    "team_name": "d"
+  },
+  {
+    "name": "仲地礼亜",
+    "born": "2001/2/15",
+    "height": "177",
+    "weight": "83",
+    "salary": "1600",
+    "uniform_number": "31",
+    "team_name": "d"
+  },
+  {
+    "name": "石垣雅海",
+    "born": "1998/9/21",
+    "height": "181",
+    "weight": "88",
+    "salary": "1000",
+    "uniform_number": "32",
+    "team_name": "d"
+  },
+  {
+    "name": "祖父江大輔",
+    "born": "1987/8/11",
+    "height": "175",
+    "weight": "75",
+    "salary": "10000",
+    "uniform_number": "33",
+    "team_name": "d"
+  },
+  {
+    "name": "福敬登",
+    "born": "1992/6/16",
+    "height": "181",
+    "weight": "98",
+    "salary": "5000",
+    "uniform_number": "34",
+    "team_name": "d"
+  },
+  {
+    "name": "木下拓哉",
+    "born": "1991/12/18",
+    "height": "183",
+    "weight": "95",
+    "salary": "6800",
+    "uniform_number": "35",
+    "team_name": "d"
+  },
+  {
+    "name": "岡野祐一郎",
+    "born": "1994/4/16",
+    "height": "180",
+    "weight": "87",
+    "salary": "850",
+    "uniform_number": "36",
+    "team_name": "d"
+  },
+  {
+    "name": "濱将乃介",
+    "born": "2000/5/3",
+    "height": "181",
+    "weight": "81",
+    "salary": "720",
+    "uniform_number": "37",
+    "team_name": "d"
+  },
+  {
+    "name": "松葉貴大",
+    "born": "1990/8/14",
+    "height": "179",
+    "weight": "82",
+    "salary": "5000",
+    "uniform_number": "38",
+    "team_name": "d"
+  },
+  {
+    "name": "森山暁生",
+    "born": "2005/1/11",
+    "height": "183",
+    "weight": "84",
+    "salary": "600",
+    "uniform_number": "40",
+    "team_name": "d"
+  },
+  {
+    "name": "勝野昌慶",
+    "born": "1997/6/12",
+    "height": "181",
+    "weight": "89",
+    "salary": "1900",
+    "uniform_number": "41",
+    "team_name": "d"
+  },
+  {
+    "name": "ブライト健太",
+    "born": "1999/5/7",
+    "height": "184",
+    "weight": "88",
+    "salary": "1400",
+    "uniform_number": "42",
+    "team_name": "d"
+  },
+  {
+    "name": "味谷大誠",
+    "born": "2003/6/14",
+    "height": "180",
+    "weight": "85",
+    "salary": "600",
+    "uniform_number": "43",
+    "team_name": "d"
+  },
+  {
+    "name": "郡司裕也",
+    "born": "1997/12/27",
+    "height": "180",
+    "weight": "89",
+    "salary": "975",
+    "uniform_number": "44",
+    "team_name": "d"
+  },
+  {
+    "name": "龍空",
+    "born": "2002/12/30",
+    "height": "180",
+    "weight": "77",
+    "salary": "1350",
+    "uniform_number": "45",
+    "team_name": "d"
+  },
+  {
+    "name": "鈴木博志",
+    "born": "1997/3/22",
+    "height": "182",
+    "weight": "95",
+    "salary": "1350",
+    "uniform_number": "46",
+    "team_name": "d"
+  },
+  {
+    "name": "砂田毅樹",
+    "born": "1995/7/20",
+    "height": "180",
+    "weight": "80",
+    "salary": "5000",
+    "uniform_number": "47",
+    "team_name": "d"
+  },
+  {
+    "name": "溝脇隼人",
+    "born": "1994/5/17",
+    "height": "179",
+    "weight": "79",
+    "salary": "1500",
+    "uniform_number": "48",
+    "team_name": "d"
+  },
+  {
+    "name": "伊藤康祐",
+    "born": "2000/2/3",
+    "height": "174",
+    "weight": "76",
+    "salary": "720",
+    "uniform_number": "49",
+    "team_name": "d"
+  },
+  {
+    "name": "清水達也",
+    "born": "1999/11/3",
+    "height": "184",
+    "weight": "90",
+    "salary": "3200",
+    "uniform_number": "50",
+    "team_name": "d"
+  },
+  {
+    "name": "髙松渡",
+    "born": "1999/7/2",
+    "height": "177",
+    "weight": "75",
+    "salary": "1060",
+    "uniform_number": "51",
+    "team_name": "d"
+  },
+  {
+    "name": "加藤翔平",
+    "born": "1991/3/28",
+    "height": "183",
+    "weight": "90",
+    "salary": "2300",
+    "uniform_number": "52",
+    "team_name": "d"
+  },
+  {
+    "name": "後藤駿太",
+    "born": "1993/3/5",
+    "height": "180",
+    "weight": "85",
+    "salary": "2100",
+    "uniform_number": "53",
+    "team_name": "d"
+  },
+  {
+    "name": "藤嶋健人",
+    "born": "1998/5/8",
+    "height": "177",
+    "weight": "85",
+    "salary": "4600",
+    "uniform_number": "54",
+    "team_name": "d"
+  },
+  {
+    "name": "福田永将",
+    "born": "1988/7/23",
+    "height": "181",
+    "weight": "90",
+    "salary": "3500",
+    "uniform_number": "55",
+    "team_name": "d"
+  },
+  {
+    "name": "星野真生",
+    "born": "2003/12/1",
+    "height": "176",
+    "weight": "78",
+    "salary": "540",
+    "uniform_number": "56",
+    "team_name": "d"
+  },
+  {
+    "name": "山浅龍之介",
+    "born": "2004/4/21",
+    "height": "175",
+    "weight": "82",
+    "salary": "600",
+    "uniform_number": "57",
+    "team_name": "d"
+  },
+  {
+    "name": "石橋康太",
+    "born": "2000/12/7",
+    "height": "181",
+    "weight": "94",
+    "salary": "950",
+    "uniform_number": "58",
+    "team_name": "d"
+  },
+  {
+    "name": "山本拓実",
+    "born": "2000/1/31",
+    "height": "167",
+    "weight": "80",
+    "salary": "1350",
+    "uniform_number": "59",
+    "team_name": "d"
+  },
+  {
+    "name": "岡林勇希",
+    "born": "2002/2/22",
+    "height": "175",
+    "weight": "75",
+    "salary": "4000",
+    "uniform_number": "60",
+    "team_name": "d"
+  },
+  {
+    "name": "堂上直倫",
+    "born": "1988/9/23",
+    "height": "184",
+    "weight": "88",
+    "salary": "2900",
+    "uniform_number": "63",
+    "team_name": "d"
+  },
+  {
+    "name": "福島章太",
+    "born": "2002/10/24",
+    "height": "177",
+    "weight": "92",
+    "salary": "585",
+    "uniform_number": "64",
+    "team_name": "d"
+  },
+  {
+    "name": "ビシエド",
+    "born": "1989/3/10",
+    "height": "185",
+    "weight": "108",
+    "salary": "35000",
+    "uniform_number": "66",
+    "team_name": "d"
+  },
+  {
+    "name": "上田洸太朗",
+    "born": "2002/9/6",
+    "height": "184",
+    "weight": "91",
+    "salary": "810",
+    "uniform_number": "67",
+    "team_name": "d"
+  },
+  {
+    "name": "福永裕基",
+    "born": "1996/9/16",
+    "height": "180",
+    "weight": "85",
+    "salary": "720",
+    "uniform_number": "68",
+    "team_name": "d"
+  },
+  {
+    "name": "加藤匠馬",
+    "born": "1992/4/29",
+    "height": "175",
+    "weight": "83",
+    "salary": "1900",
+    "uniform_number": "69",
+    "team_name": "d"
+  },
+  {
+    "name": "近藤廉",
+    "born": "1998/9/22",
+    "height": "180",
+    "weight": "87",
+    "salary": "510",
+    "uniform_number": "70",
+    "team_name": "d"
+  },
+  {
+    "name": "マルティネス",
+    "born": "1996/10/11",
+    "height": "193",
+    "weight": "93",
+    "salary": "20000",
+    "uniform_number": "92",
+    "team_name": "d"
+  },
+  {
+    "name": "アルモンテ",
+    "born": "1989/6/10",
+    "height": "182",
+    "weight": "99",
+    "salary": "3000",
+    "uniform_number": "96",
+    "team_name": "d"
+  },
+  {
+    "name": "カリステ",
+    "born": "1992/2/3",
+    "height": "184",
+    "weight": "87",
+    "salary": "3000",
+    "uniform_number": "99",
+    "team_name": "d"
+  },
+  {
+    "name": "竹内龍臣",
+    "born": "2001/12/11",
+    "height": "180",
+    "weight": "85",
+    "salary": "525",
+    "uniform_number": "201",
+    "team_name": "d"
+  },
+  {
+    "name": "岩嵜翔",
+    "born": "1989/10/21",
+    "height": "189",
+    "weight": "90",
+    "salary": "2800",
+    "uniform_number": "203",
+    "team_name": "d"
+  },
+  {
+    "name": "加藤翼",
+    "born": "2002/12/14",
+    "height": "179",
+    "weight": "80",
+    "salary": "550",
+    "uniform_number": "204",
+    "team_name": "d"
+  },
+  {
+    "name": "垣越建伸",
+    "born": "2000/4/3",
+    "height": "185",
+    "weight": "100",
+    "salary": "525",
+    "uniform_number": "205",
+    "team_name": "d"
+  },
+  {
+    "name": "松木平優太",
+    "born": "2003/2/24",
+    "height": "178",
+    "weight": "78",
+    "salary": "315",
+    "uniform_number": "206",
+    "team_name": "d"
+  },
+  {
+    "name": "松田亘哲",
+    "born": "1997/5/16",
+    "height": "176",
+    "weight": "80",
+    "salary": "315",
+    "uniform_number": "207",
+    "team_name": "d"
+  },
+  {
+    "name": "石川翔",
+    "born": "1999/12/14",
+    "height": "180",
+    "weight": "89",
+    "salary": "530",
+    "uniform_number": "208",
+    "team_name": "d"
+  },
+  {
+    "name": "レビーラ",
+    "born": "1999/3/23",
+    "height": "175",
+    "weight": "100",
+    "salary": "1000",
+    "uniform_number": "209",
+    "team_name": "d"
+  },
+  {
+    "name": "ガルシア",
+    "born": "2000/7/1",
+    "height": "182",
+    "weight": "106",
+    "salary": "1000",
+    "uniform_number": "210",
+    "team_name": "d"
+  },
+  {
+    "name": "松山晋也",
+    "born": "2000/6/23",
+    "height": "188",
+    "weight": "92",
+    "salary": "300",
+    "uniform_number": "211",
+    "team_name": "d"
+  },
+  {
+    "name": "野中天翔",
+    "born": "2005/2/5",
+    "height": "180",
+    "weight": "83",
+    "salary": "300",
+    "uniform_number": "212",
+    "team_name": "d"
+  },
+  {
+    "name": "樋口正修",
+    "born": "1998/11/17",
+    "height": "177",
+    "weight": "75",
+    "salary": "300",
+    "uniform_number": "213",
+    "team_name": "d"
+  },
+  {
+    "name": "石岡諒太",
+    "born": "1992/5/25",
+    "height": "188",
+    "weight": "93",
+    "salary": "700",
+    "uniform_number": "00",
+    "team_name": "bs"
+  },
+  {
+    "name": "渡部遼人",
+    "born": "1999/9/2",
+    "height": "171",
+    "weight": "70",
+    "salary": "900",
+    "uniform_number": "0",
+    "team_name": "bs"
+  },
+  {
+    "name": "佐藤一磨",
+    "born": "2001/4/16",
+    "height": "190",
+    "weight": "95",
+    "salary": "250",
+    "uniform_number": "001",
+    "team_name": "bs"
+  },
+  {
+    "name": "福田周平",
+    "born": "1992/8/8",
+    "height": "167",
+    "weight": "69",
+    "salary": "7500",
+    "uniform_number": "1",
+    "team_name": "bs"
+  },
+  {
+    "name": "若月健矢",
+    "born": "1995/10/4",
+    "height": "180",
+    "weight": "88",
+    "salary": "4800",
+    "uniform_number": "2",
+    "team_name": "bs"
+  },
+  {
+    "name": "安達了一",
+    "born": "1988/1/7",
+    "height": "179",
+    "weight": "80",
+    "salary": "7000",
+    "uniform_number": "3",
+    "team_name": "bs"
+  },
+  {
+    "name": "中田惟斗",
+    "born": "2001/9/13",
+    "height": "182",
+    "weight": "92",
+    "salary": "250",
+    "uniform_number": "003",
+    "team_name": "bs"
+  },
+  {
+    "name": "平野大和",
+    "born": "2001/8/7",
+    "height": "177",
+    "weight": "82",
+    "salary": "250",
+    "uniform_number": "004",
+    "team_name": "bs"
+  },
+  {
+    "name": "森友哉",
+    "born": "1995/8/8",
+    "height": "170",
+    "weight": "85",
+    "salary": "21000",
+    "uniform_number": "4",
+    "team_name": "bs"
+  },
+  {
+    "name": "西野真弘",
+    "born": "1990/8/2",
+    "height": "167",
+    "weight": "71",
+    "salary": "2400",
+    "uniform_number": "5",
+    "team_name": "bs"
+  },
+  {
+    "name": "宗佑磨",
+    "born": "1996/6/7",
+    "height": "181",
+    "weight": "83",
+    "salary": "7800",
+    "uniform_number": "6",
+    "team_name": "bs"
+  },
+  {
+    "name": "ゴンザレス",
+    "born": "1989/3/14",
+    "height": "185",
+    "weight": "93",
+    "salary": "18000",
+    "uniform_number": "8",
+    "team_name": "bs"
+  },
+  {
+    "name": "野口智哉",
+    "born": "1999/9/20",
+    "height": "181",
+    "weight": "90",
+    "salary": "1500",
+    "uniform_number": "9",
+    "team_name": "bs"
+  },
+  {
+    "name": "大城滉二",
+    "born": "1993/6/14",
+    "height": "175",
+    "weight": "80",
+    "salary": "2800",
+    "uniform_number": "10",
+    "team_name": "bs"
+  },
+  {
+    "name": "川瀬堅斗",
+    "born": "2002/6/18",
+    "height": "183",
+    "weight": "86",
+    "salary": "240",
+    "uniform_number": "011",
+    "team_name": "bs"
+  },
+  {
+    "name": "山﨑福也",
+    "born": "1992/9/9",
+    "height": "188",
+    "weight": "95",
+    "salary": "6000",
+    "uniform_number": "11",
+    "team_name": "bs"
+  },
+  {
+    "name": "辻垣高良",
+    "born": "2002/6/10",
+    "height": "182",
+    "weight": "83",
+    "salary": "240",
+    "uniform_number": "012",
+    "team_name": "bs"
+  },
+  {
+    "name": "山下舜平大",
+    "born": "2002/7/16",
+    "height": "190",
+    "weight": "98",
+    "salary": "700",
+    "uniform_number": "12",
+    "team_name": "bs"
+  },
+  {
+    "name": "宮城大弥",
+    "born": "2001/8/25",
+    "height": "171",
+    "weight": "78",
+    "salary": "8000",
+    "uniform_number": "13",
+    "team_name": "bs"
+  },
+  {
+    "name": "釣寿生",
+    "born": "2002/6/30",
+    "height": "180",
+    "weight": "85",
+    "salary": "240",
+    "uniform_number": "014",
+    "team_name": "bs"
+  },
+  {
+    "name": "平野佳寿",
+    "born": "1984/3/8",
+    "height": "186",
+    "weight": "88",
+    "salary": "22000",
+    "uniform_number": "16",
+    "team_name": "bs"
+  },
+  {
+    "name": "曽谷龍平",
+    "born": "2000/11/30",
+    "height": "182",
+    "weight": "80",
+    "salary": "1600",
+    "uniform_number": "17",
+    "team_name": "bs"
+  },
+  {
+    "name": "山本由伸",
+    "born": "1998/8/17",
+    "height": "178",
+    "weight": "80",
+    "salary": "65000",
+    "uniform_number": "18",
+    "team_name": "bs"
+  },
+  {
+    "name": "山岡泰輔",
+    "born": "1995/9/22",
+    "height": "172",
+    "weight": "68",
+    "salary": "7200",
+    "uniform_number": "19",
+    "team_name": "bs"
+  },
+  {
+    "name": "山中尭之",
+    "born": "1999/3/10",
+    "height": "183",
+    "weight": "98",
+    "salary": "240",
+    "uniform_number": "020",
+    "team_name": "bs"
+  },
+  {
+    "name": "近藤大亮",
+    "born": "1991/5/29",
+    "height": "177",
+    "weight": "80",
+    "salary": "4200",
+    "uniform_number": "20",
+    "team_name": "bs"
+  },
+  {
+    "name": "竹安大知",
+    "born": "1994/9/27",
+    "height": "183",
+    "weight": "83",
+    "salary": "2100",
+    "uniform_number": "21",
+    "team_name": "bs"
+  },
+  {
+    "name": "園部佳太",
+    "born": "1999/8/24",
+    "height": "177",
+    "weight": "88",
+    "salary": "240",
+    "uniform_number": "021",
+    "team_name": "bs"
+  },
+  {
+    "name": "村西良太",
+    "born": "1997/6/6",
+    "height": "174",
+    "weight": "76",
+    "salary": "1700",
+    "uniform_number": "22",
+    "team_name": "bs"
+  },
+  {
+    "name": "大里昂生",
+    "born": "1999/7/7",
+    "height": "178",
+    "weight": "76",
+    "salary": "240",
+    "uniform_number": "022",
+    "team_name": "bs"
+  },
+  {
+    "name": "シュウィンデル",
+    "born": "1992/6/29",
+    "height": "185",
+    "weight": "100",
+    "salary": "9000",
+    "uniform_number": "23",
+    "team_name": "bs"
+  },
+  {
+    "name": "紅林弘太郎",
+    "born": "2002/2/7",
+    "height": "187",
+    "weight": "94",
+    "salary": "4200",
+    "uniform_number": "24",
+    "team_name": "bs"
+  },
+  {
+    "name": "内藤鵬",
+    "born": "2004/10/5",
+    "height": "180",
+    "weight": "100",
+    "salary": "600",
+    "uniform_number": "25",
+    "team_name": "bs"
+  },
+  {
+    "name": "齋藤響介",
+    "born": "2004/11/18",
+    "height": "177",
+    "weight": "72",
+    "salary": "500",
+    "uniform_number": "26",
+    "team_name": "bs"
+  },
+  {
+    "name": "元謙太",
+    "born": "2002/5/17",
+    "height": "186",
+    "weight": "88",
+    "salary": "700",
+    "uniform_number": "27",
+    "team_name": "bs"
+  },
+  {
+    "name": "田嶋大樹",
+    "born": "1996/8/3",
+    "height": "182",
+    "weight": "82",
+    "salary": "11000",
+    "uniform_number": "29",
+    "team_name": "bs"
+  },
+  {
+    "name": "鈴木康平",
+    "born": "1994/1/21",
+    "height": "186",
+    "weight": "92",
+    "salary": "1700",
+    "uniform_number": "30",
+    "team_name": "bs"
+  },
+  {
+    "name": "西濱勇星",
+    "born": "2002/11/23",
+    "height": "181",
+    "weight": "85",
+    "salary": "240",
+    "uniform_number": "030",
+    "team_name": "bs"
+  },
+  {
+    "name": "太田椋",
+    "born": "2001/2/14",
+    "height": "181",
+    "weight": "84",
+    "salary": "1700",
+    "uniform_number": "31",
+    "team_name": "bs"
+  },
+  {
+    "name": "才木海翔",
+    "born": "2000/6/10",
+    "height": "181",
+    "weight": "85",
+    "salary": "240",
+    "uniform_number": "031",
+    "team_name": "bs"
+  },
+  {
+    "name": "福永奨",
+    "born": "1999/7/28",
+    "height": "175",
+    "weight": "87",
+    "salary": "950",
+    "uniform_number": "32",
+    "team_name": "bs"
+  },
+  {
+    "name": "入山海斗",
+    "born": "2000/5/26",
+    "height": "177",
+    "weight": "78",
+    "salary": "240",
+    "uniform_number": "032",
+    "team_name": "bs"
+  },
+  {
+    "name": "杉澤龍",
+    "born": "2000/6/2",
+    "height": "175",
+    "weight": "80",
+    "salary": "900",
+    "uniform_number": "33",
+    "team_name": "bs"
+  },
+  {
+    "name": "村上喬一朗",
+    "born": "2000/12/1",
+    "height": "168",
+    "weight": "82",
+    "salary": "240",
+    "uniform_number": "034",
+    "team_name": "bs"
+  },
+  {
+    "name": "比嘉幹貴",
+    "born": "1982/12/7",
+    "height": "177",
+    "weight": "77",
+    "salary": "3600",
+    "uniform_number": "35",
+    "team_name": "bs"
+  },
+  {
+    "name": "山足達也",
+    "born": "1993/10/26",
+    "height": "174",
+    "weight": "76",
+    "salary": "2000",
+    "uniform_number": "36",
+    "team_name": "bs"
+  },
+  {
+    "name": "石川亮",
+    "born": "1995/7/20",
+    "height": "181",
+    "weight": "87",
+    "salary": "1700",
+    "uniform_number": "37",
+    "team_name": "bs"
+  },
+  {
+    "name": "来田涼斗",
+    "born": "2002/10/16",
+    "height": "180",
+    "weight": "90",
+    "salary": "800",
+    "uniform_number": "38",
+    "team_name": "bs"
+  },
+  {
+    "name": "池田陵真",
+    "born": "2003/8/24",
+    "height": "172",
+    "weight": "83",
+    "salary": "550",
+    "uniform_number": "39",
+    "team_name": "bs"
+  },
+  {
+    "name": "佐野皓大",
+    "born": "1996/9/2",
+    "height": "182",
+    "weight": "73",
+    "salary": "2300",
+    "uniform_number": "41",
+    "team_name": "bs"
+  },
+  {
+    "name": "コットン",
+    "born": "1992/1/19",
+    "height": "180",
+    "weight": "91",
+    "salary": "9000",
+    "uniform_number": "42",
+    "team_name": "bs"
+  },
+  {
+    "name": "前佑囲斗",
+    "born": "2001/8/13",
+    "height": "182",
+    "weight": "90",
+    "salary": "550",
+    "uniform_number": "43",
+    "team_name": "bs"
+  },
+  {
+    "name": "頓宮裕真",
+    "born": "1996/11/17",
+    "height": "182",
+    "weight": "103",
+    "salary": "3500",
+    "uniform_number": "44",
+    "team_name": "bs"
+  },
+  {
+    "name": "阿部翔太",
+    "born": "1992/11/3",
+    "height": "178",
+    "weight": "80",
+    "salary": "4000",
+    "uniform_number": "45",
+    "team_name": "bs"
+  },
+  {
+    "name": "本田仁海",
+    "born": "1999/7/27",
+    "height": "181",
+    "weight": "74",
+    "salary": "2200",
+    "uniform_number": "46",
+    "team_name": "bs"
+  },
+  {
+    "name": "日髙暖己",
+    "born": "2004/9/16",
+    "height": "183",
+    "weight": "74",
+    "salary": "450",
+    "uniform_number": "47",
+    "team_name": "bs"
+  },
+  {
+    "name": "ニックス",
+    "born": "1996/1/9",
+    "height": "193",
+    "weight": "100",
+    "salary": "2000",
+    "uniform_number": "48",
+    "team_name": "bs"
+  },
+  {
+    "name": "渡邉大樹",
+    "born": "1997/6/7",
+    "height": "182",
+    "weight": "87",
+    "salary": "1200",
+    "uniform_number": "49",
+    "team_name": "bs"
+  },
+  {
+    "name": "小田裕也",
+    "born": "1989/11/4",
+    "height": "172",
+    "weight": "75",
+    "salary": "2500",
+    "uniform_number": "50",
+    "team_name": "bs"
+  },
+  {
+    "name": "横山楓",
+    "born": "1997/12/28",
+    "height": "181",
+    "weight": "91",
+    "salary": "750",
+    "uniform_number": "52",
+    "team_name": "bs"
+  },
+  {
+    "name": "宜保翔",
+    "born": "2000/11/26",
+    "height": "176",
+    "weight": "75",
+    "salary": "900",
+    "uniform_number": "53",
+    "team_name": "bs"
+  },
+  {
+    "name": "黒木優太",
+    "born": "1994/8/16",
+    "height": "179",
+    "weight": "85",
+    "salary": "3000",
+    "uniform_number": "54",
+    "team_name": "bs"
+  },
+  {
+    "name": "Ｔ－岡田",
+    "born": "1988/2/9",
+    "height": "187",
+    "weight": "100",
+    "salary": "7200",
+    "uniform_number": "55",
+    "team_name": "bs"
+  },
+  {
+    "name": "小木田敦也",
+    "born": "1998/10/10",
+    "height": "173",
+    "weight": "83",
+    "salary": "1000",
+    "uniform_number": "56",
+    "team_name": "bs"
+  },
+  {
+    "name": "山田修義",
+    "born": "1991/9/19",
+    "height": "184",
+    "weight": "90",
+    "salary": "3600",
+    "uniform_number": "57",
+    "team_name": "bs"
+  },
+  {
+    "name": "ワゲスパック",
+    "born": "1993/11/5",
+    "height": "198",
+    "weight": "106",
+    "salary": "13000",
+    "uniform_number": "58",
+    "team_name": "bs"
+  },
+  {
+    "name": "佐野如一",
+    "born": "1998/9/2",
+    "height": "174",
+    "weight": "83",
+    "salary": "500",
+    "uniform_number": "60",
+    "team_name": "bs"
+  },
+  {
+    "name": "茶野篤政",
+    "born": "1999/8/4",
+    "height": "175",
+    "weight": "80",
+    "salary": "240",
+    "uniform_number": "61",
+    "team_name": "bs"
+  },
+  {
+    "name": "中川拓真",
+    "born": "2002/7/17",
+    "height": "180",
+    "weight": "88",
+    "salary": "450",
+    "uniform_number": "62",
+    "team_name": "bs"
+  },
+  {
+    "name": "山﨑颯一郎",
+    "born": "1998/6/15",
+    "height": "190",
+    "weight": "92",
+    "salary": "2300",
+    "uniform_number": "63",
+    "team_name": "bs"
+  },
+  {
+    "name": "漆原大晟",
+    "born": "1996/9/10",
+    "height": "182",
+    "weight": "85",
+    "salary": "1550",
+    "uniform_number": "65",
+    "team_name": "bs"
+  },
+  {
+    "name": "吉田凌",
+    "born": "1997/6/20",
+    "height": "181",
+    "weight": "80",
+    "salary": "1900",
+    "uniform_number": "66",
+    "team_name": "bs"
+  },
+  {
+    "name": "中川圭太",
+    "born": "1996/4/12",
+    "height": "180",
+    "weight": "76",
+    "salary": "6000",
+    "uniform_number": "67",
+    "team_name": "bs"
+  },
+  {
+    "name": "東晃平",
+    "born": "1999/12/14",
+    "height": "178",
+    "weight": "85",
+    "salary": "800",
+    "uniform_number": "95",
+    "team_name": "bs"
+  },
+  {
+    "name": "宇田川優希",
+    "born": "1998/11/10",
+    "height": "184",
+    "weight": "92",
+    "salary": "1700",
+    "uniform_number": "96",
+    "team_name": "bs"
+  },
+  {
+    "name": "杉本裕太郎",
+    "born": "1991/4/5",
+    "height": "190",
+    "weight": "104",
+    "salary": "7200",
+    "uniform_number": "99",
+    "team_name": "bs"
+  },
+  {
+    "name": "セデーニョ",
+    "born": "1998/8/22",
+    "height": "188",
+    "weight": "88",
+    "salary": "4000",
+    "uniform_number": "121",
+    "team_name": "bs"
+  },
+  {
+    "name": "中川颯",
+    "born": "1998/10/10",
+    "height": "184",
+    "weight": "80",
+    "salary": "650",
+    "uniform_number": "123",
+    "team_name": "bs"
+  },
+  {
+    "name": "上野響平",
+    "born": "2001/4/26",
+    "height": "172",
+    "weight": "74",
+    "salary": "450",
+    "uniform_number": "124",
+    "team_name": "bs"
+  },
+  {
+    "name": "椋木蓮",
+    "born": "2000/1/22",
+    "height": "179",
+    "weight": "83",
+    "salary": "1600",
+    "uniform_number": "127",
+    "team_name": "bs"
+  },
+  {
+    "name": "富山凌雅",
+    "born": "1997/5/3",
+    "height": "178",
+    "weight": "84",
+    "salary": "3150",
+    "uniform_number": "128",
+    "team_name": "bs"
+  },
+  {
+    "name": "小野泰己",
+    "born": "1994/5/30",
+    "height": "186",
+    "weight": "75",
+    "salary": "500",
+    "uniform_number": "130",
+    "team_name": "bs"
+  },
+  {
+    "name": "川瀬晃",
+    "born": "1997/9/15",
+    "height": "176",
+    "weight": "70",
+    "salary": "1700",
+    "uniform_number": "00",
+    "team_name": "h"
+  },
+  {
+    "name": "ガルビス",
+    "born": "1989/11/14",
+    "height": "178",
+    "weight": "86",
+    "salary": "35000",
+    "uniform_number": "0",
+    "team_name": "h"
+  },
+  {
+    "name": "風間球打",
+    "born": "2003/10/11",
+    "height": "184",
+    "weight": "92",
+    "salary": "1080",
+    "uniform_number": "1",
+    "team_name": "h"
+  },
+  {
+    "name": "スチュワート・ジュニア",
+    "born": "1999/11/2",
+    "height": "198",
+    "weight": "101",
+    "salary": "11000",
+    "uniform_number": "2",
+    "team_name": "h"
+  },
+  {
+    "name": "近藤健介",
+    "born": "1993/8/9",
+    "height": "171",
+    "weight": "86",
+    "salary": "25500",
+    "uniform_number": "3",
+    "team_name": "h"
+  },
+  {
+    "name": "アストゥディーヨ",
+    "born": "1991/10/14",
+    "height": "175",
+    "weight": "102",
+    "salary": "18000",
+    "uniform_number": "4",
+    "team_name": "h"
+  },
+  {
+    "name": "今宮健太",
+    "born": "1991/7/15",
+    "height": "173",
+    "weight": "80",
+    "salary": "30000",
+    "uniform_number": "6",
+    "team_name": "h"
+  },
+  {
+    "name": "中村晃",
+    "born": "1989/11/5",
+    "height": "175",
+    "weight": "80",
+    "salary": "15000",
+    "uniform_number": "7",
+    "team_name": "h"
+  },
+  {
+    "name": "牧原大成",
+    "born": "1992/10/15",
+    "height": "172",
+    "weight": "73",
+    "salary": "8000",
+    "uniform_number": "8",
+    "team_name": "h"
+  },
+  {
+    "name": "柳田悠岐",
+    "born": "1988/10/9",
+    "height": "188",
+    "weight": "93",
+    "salary": "62000",
+    "uniform_number": "9",
+    "team_name": "h"
+  },
+  {
+    "name": "ホーキンス",
+    "born": "1993/11/12",
+    "height": "190",
+    "weight": "111",
+    "salary": "6750",
+    "uniform_number": "10",
+    "team_name": "h"
+  },
+  {
+    "name": "津森宥紀",
+    "born": "1998/1/21",
+    "height": "176",
+    "weight": "84",
+    "salary": "4100",
+    "uniform_number": "11",
+    "team_name": "h"
+  },
+  {
+    "name": "嶺井博希",
+    "born": "1991/6/4",
+    "height": "175",
+    "weight": "85",
+    "salary": "2700",
+    "uniform_number": "12",
+    "team_name": "h"
+  },
+  {
+    "name": "三森大貴",
+    "born": "1999/2/21",
+    "height": "185",
+    "weight": "76",
+    "salary": "4500",
+    "uniform_number": "13",
+    "team_name": "h"
+  },
+  {
+    "name": "又吉克樹",
+    "born": "1990/11/4",
+    "height": "177",
+    "weight": "69",
+    "salary": "15000",
+    "uniform_number": "14",
+    "team_name": "h"
+  },
+  {
+    "name": "東浜巨",
+    "born": "1990/6/20",
+    "height": "182",
+    "weight": "82",
+    "salary": "15000",
+    "uniform_number": "16",
+    "team_name": "h"
+  },
+  {
+    "name": "有原航平",
+    "born": "1992/8/11",
+    "height": "188",
+    "weight": "95",
+    "salary": "50000",
+    "uniform_number": "17",
+    "team_name": "h"
+  },
+  {
+    "name": "武田翔太",
+    "born": "1993/4/3",
+    "height": "186",
+    "weight": "90",
+    "salary": "15000",
+    "uniform_number": "18",
+    "team_name": "h"
+  },
+  {
+    "name": "甲斐拓也",
+    "born": "1992/11/5",
+    "height": "170",
+    "weight": "87",
+    "salary": "21000",
+    "uniform_number": "19",
+    "team_name": "h"
+  },
+  {
+    "name": "甲斐野央",
+    "born": "1996/11/16",
+    "height": "188",
+    "weight": "92",
+    "salary": "3600",
+    "uniform_number": "20",
+    "team_name": "h"
+  },
+  {
+    "name": "和田毅",
+    "born": "1981/2/21",
+    "height": "179",
+    "weight": "80",
+    "salary": "16500",
+    "uniform_number": "21",
+    "team_name": "h"
+  },
+  {
+    "name": "牧原巧汰",
+    "born": "2002/7/13",
+    "height": "175",
+    "weight": "83",
+    "salary": "550",
+    "uniform_number": "22",
+    "team_name": "h"
+  },
+  {
+    "name": "周東佑京",
+    "born": "1996/2/10",
+    "height": "180",
+    "weight": "71",
+    "salary": "4000",
+    "uniform_number": "23",
+    "team_name": "h"
+  },
+  {
+    "name": "栗原陵矢",
+    "born": "1996/7/4",
+    "height": "179",
+    "weight": "82",
+    "salary": "7000",
+    "uniform_number": "24",
+    "team_name": "h"
+  },
+  {
+    "name": "大津亮介",
+    "born": "1999/1/13",
+    "height": "175",
+    "weight": "63",
+    "salary": "1200",
+    "uniform_number": "26",
+    "team_name": "h"
+  },
+  {
+    "name": "ガンケル",
+    "born": "1991/12/30",
+    "height": "199",
+    "weight": "101",
+    "salary": "16000",
+    "uniform_number": "27",
+    "team_name": "h"
+  },
+  {
+    "name": "高橋礼",
+    "born": "1995/11/2",
+    "height": "187",
+    "weight": "87",
+    "salary": "4300",
+    "uniform_number": "28",
+    "team_name": "h"
+  },
+  {
+    "name": "石川柊太",
+    "born": "1991/12/27",
+    "height": "185",
+    "weight": "90",
+    "salary": "15000",
+    "uniform_number": "29",
+    "team_name": "h"
+  },
+  {
+    "name": "佐藤直樹",
+    "born": "1998/9/3",
+    "height": "177",
+    "weight": "88",
+    "salary": "1400",
+    "uniform_number": "30",
+    "team_name": "h"
+  },
+  {
+    "name": "正木智也",
+    "born": "1999/11/5",
+    "height": "182",
+    "weight": "89",
+    "salary": "1300",
+    "uniform_number": "31",
+    "team_name": "h"
+  },
+  {
+    "name": "柳町達",
+    "born": "1997/4/20",
+    "height": "180",
+    "weight": "79",
+    "salary": "2900",
+    "uniform_number": "32",
+    "team_name": "h"
+  },
+  {
+    "name": "増田珠",
+    "born": "1999/5/21",
+    "height": "179",
+    "weight": "84",
+    "salary": "860",
+    "uniform_number": "33",
+    "team_name": "h"
+  },
+  {
+    "name": "椎野新",
+    "born": "1995/10/10",
+    "height": "196",
+    "weight": "91",
+    "salary": "1900",
+    "uniform_number": "34",
+    "team_name": "h"
+  },
+  {
+    "name": "モイネロ",
+    "born": "1995/12/8",
+    "height": "178",
+    "weight": "69",
+    "salary": "30000",
+    "uniform_number": "35",
+    "team_name": "h"
+  },
+  {
+    "name": "イヒネイツア",
+    "born": "2004/9/2",
+    "height": "184",
+    "weight": "78",
+    "salary": "800",
+    "uniform_number": "36",
+    "team_name": "h"
+  },
+  {
+    "name": "生海",
+    "born": "2000/7/11",
+    "height": "184",
+    "weight": "95",
+    "salary": "1000",
+    "uniform_number": "37",
+    "team_name": "h"
+  },
+  {
+    "name": "森唯斗",
+    "born": "1992/1/8",
+    "height": "175",
+    "weight": "91",
+    "salary": "46000",
+    "uniform_number": "38",
+    "team_name": "h"
+  },
+  {
+    "name": "尾形崇斗",
+    "born": "1999/5/15",
+    "height": "182",
+    "weight": "84",
+    "salary": "800",
+    "uniform_number": "39",
+    "team_name": "h"
+  },
+  {
+    "name": "杉山一樹",
+    "born": "1997/12/7",
+    "height": "193",
+    "weight": "102",
+    "salary": "1600",
+    "uniform_number": "40",
+    "team_name": "h"
+  },
+  {
+    "name": "大関友久",
+    "born": "1997/12/14",
+    "height": "184",
+    "weight": "94",
+    "salary": "4500",
+    "uniform_number": "42",
+    "team_name": "h"
+  },
+  {
+    "name": "井上朋也",
+    "born": "2003/1/28",
+    "height": "181",
+    "weight": "88",
+    "salary": "860",
+    "uniform_number": "43",
+    "team_name": "h"
+  },
+  {
+    "name": "笹川吉康",
+    "born": "2002/5/31",
+    "height": "194",
+    "weight": "92",
+    "salary": "620",
+    "uniform_number": "44",
+    "team_name": "h"
+  },
+  {
+    "name": "谷川原健太",
+    "born": "1997/4/16",
+    "height": "174",
+    "weight": "86",
+    "salary": "1300",
+    "uniform_number": "45",
+    "team_name": "h"
+  },
+  {
+    "name": "川原田純平",
+    "born": "2002/5/21",
+    "height": "168",
+    "weight": "70",
+    "salary": "560",
+    "uniform_number": "46",
+    "team_name": "h"
+  },
+  {
+    "name": "髙橋純平",
+    "born": "1997/5/8",
+    "height": "184",
+    "weight": "86",
+    "salary": "2100",
+    "uniform_number": "47",
+    "team_name": "h"
+  },
+  {
+    "name": "藤井皓哉",
+    "born": "1996/7/29",
+    "height": "183",
+    "weight": "87",
+    "salary": "5000",
+    "uniform_number": "48",
+    "team_name": "h"
+  },
+  {
+    "name": "松本晴",
+    "born": "2001/2/24",
+    "height": "181",
+    "weight": "83",
+    "salary": "800",
+    "uniform_number": "49",
+    "team_name": "h"
+  },
+  {
+    "name": "板東湧梧",
+    "born": "1995/12/27",
+    "height": "182",
+    "weight": "81",
+    "salary": "3400",
+    "uniform_number": "50",
+    "team_name": "h"
+  },
+  {
+    "name": "上林誠知",
+    "born": "1995/8/1",
+    "height": "185",
+    "weight": "90",
+    "salary": "3750",
+    "uniform_number": "51",
+    "team_name": "h"
+  },
+  {
+    "name": "リチャード",
+    "born": "1999/6/18",
+    "height": "189",
+    "weight": "123",
+    "salary": "1000",
+    "uniform_number": "52",
+    "team_name": "h"
+  },
+  {
+    "name": "泉圭輔",
+    "born": "1997/3/2",
+    "height": "188",
+    "weight": "78",
+    "salary": "2700",
+    "uniform_number": "53",
+    "team_name": "h"
+  },
+  {
+    "name": "オスナ",
+    "born": "1995/2/7",
+    "height": "188",
+    "weight": "104",
+    "salary": "65000",
+    "uniform_number": "54",
+    "team_name": "h"
+  },
+  {
+    "name": "野村大樹",
+    "born": "2000/9/10",
+    "height": "171",
+    "weight": "84",
+    "salary": "950",
+    "uniform_number": "55",
+    "team_name": "h"
+  },
+  {
+    "name": "田浦文丸",
+    "born": "1999/9/21",
+    "height": "168",
+    "weight": "80",
+    "salary": "960",
+    "uniform_number": "56",
+    "team_name": "h"
+  },
+  {
+    "name": "嘉弥真新也",
+    "born": "1989/11/23",
+    "height": "172",
+    "weight": "70",
+    "salary": "16000",
+    "uniform_number": "57",
+    "team_name": "h"
+  },
+  {
+    "name": "木村大成",
+    "born": "2003/9/12",
+    "height": "180",
+    "weight": "81",
+    "salary": "550",
+    "uniform_number": "58",
+    "team_name": "h"
+  },
+  {
+    "name": "水谷瞬",
+    "born": "2001/3/9",
+    "height": "193",
+    "weight": "99",
+    "salary": "540",
+    "uniform_number": "59",
+    "team_name": "h"
+  },
+  {
+    "name": "大野稼頭央",
+    "born": "2004/8/6",
+    "height": "175",
+    "weight": "66",
+    "salary": "500",
+    "uniform_number": "60",
+    "team_name": "h"
+  },
+  {
+    "name": "海野隆司",
+    "born": "1997/7/15",
+    "height": "173",
+    "weight": "83",
+    "salary": "1300",
+    "uniform_number": "62",
+    "team_name": "h"
+  },
+  {
+    "name": "古川侑利",
+    "born": "1995/9/8",
+    "height": "178",
+    "weight": "86",
+    "salary": "1300",
+    "uniform_number": "63",
+    "team_name": "h"
+  },
+  {
+    "name": "吉田賢吾",
+    "born": "2001/1/18",
+    "height": "180",
+    "weight": "87",
+    "salary": "800",
+    "uniform_number": "64",
+    "team_name": "h"
+  },
+  {
+    "name": "九鬼隆平",
+    "born": "1998/9/5",
+    "height": "180",
+    "weight": "78",
+    "salary": "650",
+    "uniform_number": "65",
+    "team_name": "h"
+  },
+  {
+    "name": "松本裕樹",
+    "born": "1996/4/14",
+    "height": "182",
+    "weight": "87",
+    "salary": "4000",
+    "uniform_number": "66",
+    "team_name": "h"
+  },
+  {
+    "name": "笠谷俊介",
+    "born": "1997/3/17",
+    "height": "173",
+    "weight": "73",
+    "salary": "2100",
+    "uniform_number": "67",
+    "team_name": "h"
+  },
+  {
+    "name": "田上奏大",
+    "born": "2002/11/26",
+    "height": "186",
+    "weight": "90",
+    "salary": "650",
+    "uniform_number": "70",
+    "team_name": "h"
+  },
+  {
+    "name": "渡邉陸",
+    "born": "2000/9/24",
+    "height": "187",
+    "weight": "86",
+    "salary": "850",
+    "uniform_number": "79",
+    "team_name": "h"
+  },
+  {
+    "name": "野村勇",
+    "born": "1996/12/1",
+    "height": "175",
+    "weight": "83",
+    "salary": "2500",
+    "uniform_number": "99",
+    "team_name": "h"
+  },
+  {
+    "name": "佐藤宏樹",
+    "born": "1999/2/18",
+    "height": "180",
+    "weight": "80",
+    "salary": "400",
+    "uniform_number": "120",
+    "team_name": "h"
+  },
+  {
+    "name": "石塚綜一郎",
+    "born": "2001/6/7",
+    "height": "180",
+    "weight": "86",
+    "salary": "360",
+    "uniform_number": "121",
+    "team_name": "h"
+  },
+  {
+    "name": "藤野恵音",
+    "born": "2003/8/23",
+    "height": "181",
+    "weight": "80",
+    "salary": "360",
+    "uniform_number": "122",
+    "team_name": "h"
+  },
+  {
+    "name": "中道佑哉",
+    "born": "1998/9/4",
+    "height": "181",
+    "weight": "71",
+    "salary": "400",
+    "uniform_number": "123",
+    "team_name": "h"
+  },
+  {
+    "name": "桑原秀侍",
+    "born": "2002/5/29",
+    "height": "176",
+    "weight": "82",
+    "salary": "360",
+    "uniform_number": "124",
+    "team_name": "h"
+  },
+  {
+    "name": "早真之介",
+    "born": "2002/9/11",
+    "height": "180",
+    "weight": "80",
+    "salary": "360",
+    "uniform_number": "125",
+    "team_name": "h"
+  },
+  {
+    "name": "奥村政稔",
+    "born": "1992/8/14",
+    "height": "176",
+    "weight": "79",
+    "salary": "900",
+    "uniform_number": "126",
+    "team_name": "h"
+  },
+  {
+    "name": "緒方理貢",
+    "born": "1998/9/22",
+    "height": "174",
+    "weight": "69",
+    "salary": "400",
+    "uniform_number": "127",
+    "team_name": "h"
+  },
+  {
+    "name": "伊藤大将",
+    "born": "2001/7/27",
+    "height": "179",
+    "weight": "78",
+    "salary": "360",
+    "uniform_number": "128",
+    "team_name": "h"
+  },
+  {
+    "name": "居谷匠真",
+    "born": "2002/12/30",
+    "height": "177",
+    "weight": "83",
+    "salary": "360",
+    "uniform_number": "129",
+    "team_name": "h"
+  },
+  {
+    "name": "勝連大稀",
+    "born": "2001/4/30",
+    "height": "175",
+    "weight": "69",
+    "salary": "360",
+    "uniform_number": "130",
+    "team_name": "h"
+  },
+  {
+    "name": "舟越秀虎",
+    "born": "2001/8/23",
+    "height": "182",
+    "weight": "71",
+    "salary": "360",
+    "uniform_number": "131",
+    "team_name": "h"
+  },
+  {
+    "name": "川村友斗",
+    "born": "1999/8/13",
+    "height": "181",
+    "weight": "88",
+    "salary": "400",
+    "uniform_number": "132",
+    "team_name": "h"
+  },
+  {
+    "name": "岡本直也",
+    "born": "1996/10/30",
+    "height": "182",
+    "weight": "80",
+    "salary": "400",
+    "uniform_number": "133",
+    "team_name": "h"
+  },
+  {
+    "name": "大城真乃",
+    "born": "2002/11/24",
+    "height": "170",
+    "weight": "69",
+    "salary": "360",
+    "uniform_number": "134",
+    "team_name": "h"
+  },
+  {
+    "name": "アルメンタ",
+    "born": "2004/6/26",
+    "height": "185",
+    "weight": "79",
+    "salary": "1000",
+    "uniform_number": "135",
+    "team_name": "h"
+  },
+  {
+    "name": "大竹風雅",
+    "born": "1999/8/22",
+    "height": "186",
+    "weight": "88",
+    "salary": "600",
+    "uniform_number": "136",
+    "team_name": "h"
+  },
+  {
+    "name": "中村亮太",
+    "born": "1998/5/18",
+    "height": "181",
+    "weight": "78",
+    "salary": "650",
+    "uniform_number": "137",
+    "team_name": "h"
+  },
+  {
+    "name": "重田倫明",
+    "born": "1996/5/30",
+    "height": "186",
+    "weight": "89",
+    "salary": "400",
+    "uniform_number": "138",
+    "team_name": "h"
+  },
+  {
+    "name": "井﨑燦志郎",
+    "born": "2004/2/9",
+    "height": "187",
+    "weight": "84",
+    "salary": "360",
+    "uniform_number": "139",
+    "team_name": "h"
+  },
+  {
+    "name": "三浦瑞樹",
+    "born": "1999/9/2",
+    "height": "174",
+    "weight": "76",
+    "salary": "400",
+    "uniform_number": "140",
+    "team_name": "h"
+  },
+  {
+    "name": "フェリックス",
+    "born": "1999/11/29",
+    "height": "190",
+    "weight": "81",
+    "salary": "1000",
+    "uniform_number": "141",
+    "team_name": "h"
+  },
+  {
+    "name": "中村宜聖",
+    "born": "2000/7/3",
+    "height": "183",
+    "weight": "91",
+    "salary": "360",
+    "uniform_number": "142",
+    "team_name": "h"
+  },
+  {
+    "name": "村上舜",
+    "born": "2001/11/1",
+    "height": "173",
+    "weight": "74",
+    "salary": "360",
+    "uniform_number": "143",
+    "team_name": "h"
+  },
+  {
+    "name": "シモン",
+    "born": "2004/9/18",
+    "height": "185",
+    "weight": "79",
+    "salary": "1000",
+    "uniform_number": "144",
+    "team_name": "h"
+  },
+  {
+    "name": "田中怜利ハモンド",
+    "born": "2004/1/17",
+    "height": "190",
+    "weight": "79",
+    "salary": "360",
+    "uniform_number": "145",
+    "team_name": "h"
+  },
+  {
+    "name": "ヘラルディーノ",
+    "born": "2004/11/20",
+    "height": "183",
+    "weight": "73",
+    "salary": "1000",
+    "uniform_number": "146",
+    "team_name": "h"
+  },
+  {
+    "name": "加藤洸稀",
+    "born": "2003/7/21",
+    "height": "176",
+    "weight": "81",
+    "salary": "360",
+    "uniform_number": "147",
+    "team_name": "h"
+  },
+  {
+    "name": "山崎琢磨",
+    "born": "2003/11/6",
+    "height": "183",
+    "weight": "91",
+    "salary": "360",
+    "uniform_number": "148",
+    "team_name": "h"
+  },
+  {
+    "name": "佐久間拓斗",
+    "born": "2003/7/17",
+    "height": "183",
+    "weight": "98",
+    "salary": "360",
+    "uniform_number": "149",
+    "team_name": "h"
+  },
+  {
+    "name": "山本恵大",
+    "born": "1999/8/6",
+    "height": "182",
+    "weight": "91",
+    "salary": "400",
+    "uniform_number": "150",
+    "team_name": "h"
+  },
+  {
+    "name": "加藤晴空",
+    "born": "2003/4/28",
+    "height": "175",
+    "weight": "77",
+    "salary": "360",
+    "uniform_number": "151",
+    "team_name": "h"
+  },
+  {
+    "name": "瀧本将生",
+    "born": "2003/7/29",
+    "height": "179",
+    "weight": "80",
+    "salary": "360",
+    "uniform_number": "152",
+    "team_name": "h"
+  },
+  {
+    "name": "三代祥貴",
+    "born": "2004/3/29",
+    "height": "179",
+    "weight": "92",
+    "salary": "360",
+    "uniform_number": "153",
+    "team_name": "h"
+  },
+  {
+    "name": "佐藤琢磨",
+    "born": "2000/3/18",
+    "height": "184",
+    "weight": "84",
+    "salary": "400",
+    "uniform_number": "154",
+    "team_name": "h"
+  },
+  {
+    "name": "仲田慶介",
+    "born": "1999/7/25",
+    "height": "175",
+    "weight": "74",
+    "salary": "400",
+    "uniform_number": "155",
+    "team_name": "h"
+  },
+  {
+    "name": "ロドリゲス",
+    "born": "2001/8/18",
+    "height": "182",
+    "weight": "90",
+    "salary": "1000",
+    "uniform_number": "156",
+    "team_name": "h"
+  },
+  {
+    "name": "小林珠維",
+    "born": "2001/5/7",
+    "height": "183",
+    "weight": "88",
+    "salary": "470",
+    "uniform_number": "157",
+    "team_name": "h"
+  },
+  {
+    "name": "赤羽蓮",
+    "born": "2004/4/9",
+    "height": "188",
+    "weight": "76",
+    "salary": "360",
+    "uniform_number": "158",
+    "team_name": "h"
+  },
+  {
+    "name": "山下恭吾",
+    "born": "2004/7/7",
+    "height": "175",
+    "weight": "74",
+    "salary": "360",
+    "uniform_number": "159",
+    "team_name": "h"
+  },
+  {
+    "name": "木村光",
+    "born": "2000/7/2",
+    "height": "173",
+    "weight": "69",
+    "salary": "400",
+    "uniform_number": "160",
+    "team_name": "h"
+  },
+  {
+    "name": "内野海斗",
+    "born": "2004/7/28",
+    "height": "187",
+    "weight": "88",
+    "salary": "360",
+    "uniform_number": "161",
+    "team_name": "h"
+  },
+  {
+    "name": "岡植純平",
+    "born": "2004/7/10",
+    "height": "177",
+    "weight": "71",
+    "salary": "360",
+    "uniform_number": "162",
+    "team_name": "h"
+  },
+  {
+    "name": "佐々木明都",
+    "born": "2005/1/2",
+    "height": "181",
+    "weight": "76",
+    "salary": "360",
+    "uniform_number": "163",
+    "team_name": "h"
+  },
+  {
+    "name": "水口創太",
+    "born": "1999/8/9",
+    "height": "195",
+    "weight": "99",
+    "salary": "400",
+    "uniform_number": "164",
+    "team_name": "h"
+  },
+  {
+    "name": "宮﨑颯",
+    "born": "2000/6/14",
+    "height": "181",
+    "weight": "91",
+    "salary": "400",
+    "uniform_number": "165",
+    "team_name": "h"
+  },
+  {
+    "name": "重松凱人",
+    "born": "2000/4/12",
+    "height": "187",
+    "weight": "89",
+    "salary": "400",
+    "uniform_number": "166",
+    "team_name": "h"
+  },
+  {
+    "name": "前田純",
+    "born": "2000/6/4",
+    "height": "188",
+    "weight": "84",
+    "salary": "400",
+    "uniform_number": "167",
+    "team_name": "h"
+  },
+  {
+    "name": "佐藤航太",
+    "born": "2004/4/7",
+    "height": "183",
+    "weight": "76",
+    "salary": "360",
+    "uniform_number": "168",
+    "team_name": "h"
+  },
+  {
+    "name": "飛田悠成",
+    "born": "2005/3/13",
+    "height": "184",
+    "weight": "84",
+    "salary": "360",
+    "uniform_number": "169",
+    "team_name": "h"
+  },
+  {
+    "name": "西尾歩真",
+    "born": "2000/6/20",
+    "height": "167",
+    "weight": "66",
+    "salary": "400",
+    "uniform_number": "170",
+    "team_name": "h"
+  },
+  {
+    "name": "盛島稜大",
+    "born": "2004/5/27",
+    "height": "187",
+    "weight": "92",
+    "salary": "360",
+    "uniform_number": "171",
+    "team_name": "h"
+  },
+  {
+    "name": "渡邊佑樹",
+    "born": "1995/11/8",
+    "height": "183",
+    "weight": "85",
+    "salary": "700",
+    "uniform_number": "172",
+    "team_name": "h"
+  },
+  {
+    "name": "オスーナ",
+    "born": "2007/3/27",
+    "height": "185",
+    "weight": "82",
+    "salary": "1000",
+    "uniform_number": "173",
+    "team_name": "h"
+  },
+  {
+    "name": "児玉亮涼",
+    "born": "1998/7/10",
+    "height": "166",
+    "weight": "65",
+    "salary": "1000",
+    "uniform_number": "0",
+    "team_name": "l"
+  },
+  {
+    "name": "栗山巧",
+    "born": "1983/9/3",
+    "height": "177",
+    "weight": "85",
+    "salary": "17900",
+    "uniform_number": "1",
+    "team_name": "l"
+  },
+  {
+    "name": "岡田雅利",
+    "born": "1989/6/30",
+    "height": "173",
+    "weight": "80",
+    "salary": "3000",
+    "uniform_number": "2",
+    "team_name": "l"
+  },
+  {
+    "name": "山川穂高",
+    "born": "1991/11/23",
+    "height": "176",
+    "weight": "103",
+    "salary": "27000",
+    "uniform_number": "3",
+    "team_name": "l"
+  },
+  {
+    "name": "山野辺翔",
+    "born": "1994/5/24",
+    "height": "170",
+    "weight": "74",
+    "salary": "1070",
+    "uniform_number": "4",
+    "team_name": "l"
+  },
+  {
+    "name": "外崎修汰",
+    "born": "1992/12/20",
+    "height": "177",
+    "weight": "82",
+    "salary": "16000",
+    "uniform_number": "5",
+    "team_name": "l"
+  },
+  {
+    "name": "源田壮亮",
+    "born": "1993/2/16",
+    "height": "179",
+    "weight": "75",
+    "salary": "30000",
+    "uniform_number": "6",
+    "team_name": "l"
+  },
+  {
+    "name": "金子侑司",
+    "born": "1990/4/24",
+    "height": "179",
+    "weight": "76",
+    "salary": "12600",
+    "uniform_number": "7",
+    "team_name": "l"
+  },
+  {
+    "name": "渡部健人",
+    "born": "1998/12/26",
+    "height": "176",
+    "weight": "115",
+    "salary": "1200",
+    "uniform_number": "8",
+    "team_name": "l"
+  },
+  {
+    "name": "蛭間拓哉",
+    "born": "2000/9/8",
+    "height": "177",
+    "weight": "87",
+    "salary": "1600",
+    "uniform_number": "9",
+    "team_name": "l"
+  },
+  {
+    "name": "ペイトン",
+    "born": "1991/12/7",
+    "height": "173",
+    "weight": "82",
+    "salary": "8000",
+    "uniform_number": "10",
+    "team_name": "l"
+  },
+  {
+    "name": "渡邉勇太朗",
+    "born": "2000/9/21",
+    "height": "191",
+    "weight": "95",
+    "salary": "850",
+    "uniform_number": "12",
+    "team_name": "l"
+  },
+  {
+    "name": "髙橋光成",
+    "born": "1997/2/3",
+    "height": "190",
+    "weight": "105",
+    "salary": "18000",
+    "uniform_number": "13",
+    "team_name": "l"
+  },
+  {
+    "name": "増田達至",
+    "born": "1988/4/23",
+    "height": "180",
+    "weight": "88",
+    "salary": "30000",
+    "uniform_number": "14",
+    "team_name": "l"
+  },
+  {
+    "name": "宮川哲",
+    "born": "1995/10/10",
+    "height": "177",
+    "weight": "85",
+    "salary": "2500",
+    "uniform_number": "15",
+    "team_name": "l"
+  },
+  {
+    "name": "隅田知一郎",
+    "born": "1999/8/20",
+    "height": "177",
+    "weight": "81",
+    "salary": "2000",
+    "uniform_number": "16",
+    "team_name": "l"
+  },
+  {
+    "name": "松本航",
+    "born": "1996/11/28",
+    "height": "176",
+    "weight": "90",
+    "salary": "6500",
+    "uniform_number": "17",
+    "team_name": "l"
+  },
+  {
+    "name": "佐藤隼輔",
+    "born": "2000/1/3",
+    "height": "182",
+    "weight": "83",
+    "salary": "1600",
+    "uniform_number": "19",
+    "team_name": "l"
+  },
+  {
+    "name": "浜屋将太",
+    "born": "1999/1/26",
+    "height": "176",
+    "weight": "77",
+    "salary": "1000",
+    "uniform_number": "20",
+    "team_name": "l"
+  },
+  {
+    "name": "古賀悠斗",
+    "born": "1999/9/10",
+    "height": "174",
+    "weight": "86",
+    "salary": "1500",
+    "uniform_number": "22",
+    "team_name": "l"
+  },
+  {
+    "name": "公文克彦",
+    "born": "1992/3/4",
+    "height": "173",
+    "weight": "83",
+    "salary": "3600",
+    "uniform_number": "23",
+    "team_name": "l"
+  },
+  {
+    "name": "平井克典",
+    "born": "1991/12/20",
+    "height": "180",
+    "weight": "86",
+    "salary": "8000",
+    "uniform_number": "25",
+    "team_name": "l"
+  },
+  {
+    "name": "佐々木健",
+    "born": "1996/5/13",
+    "height": "179",
+    "weight": "87",
+    "salary": "2000",
+    "uniform_number": "26",
+    "team_name": "l"
+  },
+  {
+    "name": "森脇亮介",
+    "born": "1992/7/13",
+    "height": "175",
+    "weight": "70",
+    "salary": "4000",
+    "uniform_number": "28",
+    "team_name": "l"
+  },
+  {
+    "name": "青山美夏人",
+    "born": "2000/7/19",
+    "height": "183",
+    "weight": "94",
+    "salary": "1000",
+    "uniform_number": "29",
+    "team_name": "l"
+  },
+  {
+    "name": "マキノン",
+    "born": "1994/12/15",
+    "height": "188",
+    "weight": "100",
+    "salary": "9000",
+    "uniform_number": "30",
+    "team_name": "l"
+  },
+  {
+    "name": "平沼翔太",
+    "born": "1997/8/16",
+    "height": "179",
+    "weight": "80",
+    "salary": "1500",
+    "uniform_number": "31",
+    "team_name": "l"
+  },
+  {
+    "name": "山村崇嘉",
+    "born": "2002/9/28",
+    "height": "183",
+    "weight": "86",
+    "salary": "700",
+    "uniform_number": "32",
+    "team_name": "l"
+  },
+  {
+    "name": "古川雄大",
+    "born": "2004/5/25",
+    "height": "186",
+    "weight": "90",
+    "salary": "750",
+    "uniform_number": "33",
+    "team_name": "l"
+  },
+  {
+    "name": "若林楽人",
+    "born": "1998/4/13",
+    "height": "177",
+    "weight": "75",
+    "salary": "1220",
+    "uniform_number": "35",
+    "team_name": "l"
+  },
+  {
+    "name": "山田陽翔",
+    "born": "2004/5/9",
+    "height": "175",
+    "weight": "82",
+    "salary": "700",
+    "uniform_number": "36",
+    "team_name": "l"
+  },
+  {
+    "name": "柘植世那",
+    "born": "1997/6/3",
+    "height": "174",
+    "weight": "88",
+    "salary": "2000",
+    "uniform_number": "37",
+    "team_name": "l"
+  },
+  {
+    "name": "野田海人",
+    "born": "2005/3/18",
+    "height": "174",
+    "weight": "80",
+    "salary": "650",
+    "uniform_number": "38",
+    "team_name": "l"
+  },
+  {
+    "name": "呉念庭",
+    "born": "1993/6/7",
+    "height": "175",
+    "weight": "80",
+    "salary": "2800",
+    "uniform_number": "39",
+    "team_name": "l"
+  },
+  {
+    "name": "田村伊知郎",
+    "born": "1994/9/19",
+    "height": "173",
+    "weight": "86",
+    "salary": "1000",
+    "uniform_number": "40",
+    "team_name": "l"
+  },
+  {
+    "name": "井上広輝",
+    "born": "2001/7/17",
+    "height": "181",
+    "weight": "84",
+    "salary": "540",
+    "uniform_number": "41",
+    "team_name": "l"
+  },
+  {
+    "name": "ボー・タカハシ",
+    "born": "1997/1/23",
+    "height": "183",
+    "weight": "93",
+    "salary": "3500",
+    "uniform_number": "42",
+    "team_name": "l"
+  },
+  {
+    "name": "羽田慎之介",
+    "born": "2003/12/25",
+    "height": "191",
+    "weight": "84",
+    "salary": "600",
+    "uniform_number": "43",
+    "team_name": "l"
+  },
+  {
+    "name": "與座海人",
+    "born": "1995/9/15",
+    "height": "173",
+    "weight": "80",
+    "salary": "3300",
+    "uniform_number": "44",
+    "team_name": "l"
+  },
+  {
+    "name": "本田圭佑",
+    "born": "1993/4/24",
+    "height": "180",
+    "weight": "80",
+    "salary": "3000",
+    "uniform_number": "45",
+    "team_name": "l"
+  },
+  {
+    "name": "鈴木将平",
+    "born": "1998/5/20",
+    "height": "175",
+    "weight": "80",
+    "salary": "1500",
+    "uniform_number": "46",
+    "team_name": "l"
+  },
+  {
+    "name": "張奕",
+    "born": "1994/2/26",
+    "height": "182",
+    "weight": "86",
+    "salary": "1200",
+    "uniform_number": "47",
+    "team_name": "l"
+  },
+  {
+    "name": "今井達也",
+    "born": "1998/5/9",
+    "height": "180",
+    "weight": "70",
+    "salary": "4500",
+    "uniform_number": "48",
+    "team_name": "l"
+  },
+  {
+    "name": "ブランドン",
+    "born": "1998/6/15",
+    "height": "179",
+    "weight": "86",
+    "salary": "700",
+    "uniform_number": "49",
+    "team_name": "l"
+  },
+  {
+    "name": "中山誠吾",
+    "born": "1999/5/9",
+    "height": "190",
+    "weight": "98",
+    "salary": "700",
+    "uniform_number": "50",
+    "team_name": "l"
+  },
+  {
+    "name": "西川愛也",
+    "born": "1999/6/10",
+    "height": "181",
+    "weight": "87",
+    "salary": "850",
+    "uniform_number": "51",
+    "team_name": "l"
+  },
+  {
+    "name": "陽川尚将",
+    "born": "1991/7/17",
+    "height": "180",
+    "weight": "90",
+    "salary": "2200",
+    "uniform_number": "52",
+    "team_name": "l"
+  },
+  {
+    "name": "愛斗",
+    "born": "1997/4/6",
+    "height": "177",
+    "weight": "92",
+    "salary": "3300",
+    "uniform_number": "53",
+    "team_name": "l"
+  },
+  {
+    "name": "ティノコ",
+    "born": "1995/4/30",
+    "height": "193",
+    "weight": "117",
+    "salary": "10000",
+    "uniform_number": "54",
+    "team_name": "l"
+  },
+  {
+    "name": "川野涼多",
+    "born": "2001/6/28",
+    "height": "178",
+    "weight": "80",
+    "salary": "750",
+    "uniform_number": "56",
+    "team_name": "l"
+  },
+  {
+    "name": "黒田将矢",
+    "born": "2004/1/24",
+    "height": "188",
+    "weight": "84",
+    "salary": "650",
+    "uniform_number": "57",
+    "team_name": "l"
+  },
+  {
+    "name": "佐藤龍世",
+    "born": "1997/1/15",
+    "height": "174",
+    "weight": "85",
+    "salary": "1100",
+    "uniform_number": "58",
+    "team_name": "l"
+  },
+  {
+    "name": "大曲錬",
+    "born": "1998/5/21",
+    "height": "180",
+    "weight": "81",
+    "salary": "800",
+    "uniform_number": "59",
+    "team_name": "l"
+  },
+  {
+    "name": "中村剛也",
+    "born": "1983/8/15",
+    "height": "175",
+    "weight": "102",
+    "salary": "20000",
+    "uniform_number": "60",
+    "team_name": "l"
+  },
+  {
+    "name": "平良海馬",
+    "born": "1999/11/15",
+    "height": "173",
+    "weight": "93",
+    "salary": "17000",
+    "uniform_number": "61",
+    "team_name": "l"
+  },
+  {
+    "name": "滝澤夏央",
+    "born": "2003/8/13",
+    "height": "164",
+    "weight": "65",
+    "salary": "750",
+    "uniform_number": "62",
+    "team_name": "l"
+  },
+  {
+    "name": "長谷川信哉",
+    "born": "2002/5/17",
+    "height": "183",
+    "weight": "85",
+    "salary": "670",
+    "uniform_number": "63",
+    "team_name": "l"
+  },
+  {
+    "name": "中熊大智",
+    "born": "1996/8/27",
+    "height": "176",
+    "weight": "87",
+    "salary": "450",
+    "uniform_number": "64",
+    "team_name": "l"
+  },
+  {
+    "name": "仲三河優太",
+    "born": "2002/10/22",
+    "height": "180",
+    "weight": "90",
+    "salary": "600",
+    "uniform_number": "66",
+    "team_name": "l"
+  },
+  {
+    "name": "赤上優人",
+    "born": "1999/2/10",
+    "height": "177",
+    "weight": "83",
+    "salary": "470",
+    "uniform_number": "67",
+    "team_name": "l"
+  },
+  {
+    "name": "岸潤一郎",
+    "born": "1996/12/8",
+    "height": "174",
+    "weight": "85",
+    "salary": "1450",
+    "uniform_number": "68",
+    "team_name": "l"
+  },
+  {
+    "name": "水上由伸",
+    "born": "1998/7/13",
+    "height": "176",
+    "weight": "79",
+    "salary": "4000",
+    "uniform_number": "69",
+    "team_name": "l"
+  },
+  {
+    "name": "川越誠司",
+    "born": "1993/6/30",
+    "height": "174",
+    "weight": "80",
+    "salary": "1400",
+    "uniform_number": "72",
+    "team_name": "l"
+  },
+  {
+    "name": "高木渉",
+    "born": "1999/12/6",
+    "height": "181",
+    "weight": "87",
+    "salary": "750",
+    "uniform_number": "73",
+    "team_name": "l"
+  },
+  {
+    "name": "エンス",
+    "born": "1991/5/16",
+    "height": "185",
+    "weight": "97",
+    "salary": "17000",
+    "uniform_number": "75",
+    "team_name": "l"
+  },
+  {
+    "name": "齊藤誠人",
+    "born": "1995/8/7",
+    "height": "180",
+    "weight": "86",
+    "salary": "580",
+    "uniform_number": "78",
+    "team_name": "l"
+  },
+  {
+    "name": "齊藤大将",
+    "born": "1995/6/3",
+    "height": "178",
+    "weight": "80",
+    "salary": "500",
+    "uniform_number": "111",
+    "team_name": "l"
+  },
+  {
+    "name": "粟津凱士",
+    "born": "1997/3/1",
+    "height": "180",
+    "weight": "88",
+    "salary": "530",
+    "uniform_number": "112",
+    "team_name": "l"
+  },
+  {
+    "name": "伊藤翔",
+    "born": "1999/2/10",
+    "height": "177",
+    "weight": "78",
+    "salary": "530",
+    "uniform_number": "113",
+    "team_name": "l"
+  },
+  {
+    "name": "上間永遠",
+    "born": "2001/1/31",
+    "height": "180",
+    "weight": "82",
+    "salary": "500",
+    "uniform_number": "114",
+    "team_name": "l"
+  },
+  {
+    "name": "コドラド",
+    "born": "1997/9/12",
+    "height": "193",
+    "weight": "102",
+    "salary": "400",
+    "uniform_number": "115",
+    "team_name": "l"
+  },
+  {
+    "name": "ヘレラ",
+    "born": "1998/1/1",
+    "height": "198",
+    "weight": "91",
+    "salary": "400",
+    "uniform_number": "116",
+    "team_name": "l"
+  },
+  {
+    "name": "牧野翔矢",
+    "born": "2001/3/4",
+    "height": "178",
+    "weight": "80",
+    "salary": "740",
+    "uniform_number": "117",
+    "team_name": "l"
+  },
+  {
+    "name": "野村和輝",
+    "born": "2003/6/7",
+    "height": "183",
+    "weight": "95",
+    "salary": "320",
+    "uniform_number": "118",
+    "team_name": "l"
+  },
+  {
+    "name": "モンテル",
+    "born": "2000/3/18",
+    "height": "186",
+    "weight": "88",
+    "salary": "400",
+    "uniform_number": "119",
+    "team_name": "l"
+  },
+  {
+    "name": "出井敏博",
+    "born": "1997/4/29",
+    "height": "185",
+    "weight": "80",
+    "salary": "400",
+    "uniform_number": "120",
+    "team_name": "l"
+  },
+  {
+    "name": "三浦大輝",
+    "born": "2000/4/7",
+    "height": "180",
+    "weight": "88",
+    "salary": "400",
+    "uniform_number": "121",
+    "team_name": "l"
+  },
+  {
+    "name": "是澤涼輔",
+    "born": "2000/4/19",
+    "height": "177",
+    "weight": "78",
+    "salary": "400",
+    "uniform_number": "122",
+    "team_name": "l"
+  },
+  {
+    "name": "ジョセフ",
+    "born": "1999/3/24",
+    "height": "175",
+    "weight": "88",
+    "salary": "400",
+    "uniform_number": "123",
+    "team_name": "l"
+  },
+  {
+    "name": "豆田泰志",
+    "born": "2003/1/15",
+    "height": "173",
+    "weight": "88",
+    "salary": "280",
+    "uniform_number": "124",
+    "team_name": "l"
+  },
+  {
+    "name": "古市尊",
+    "born": "2002/6/15",
+    "height": "176",
+    "weight": "73",
+    "salary": "280",
+    "uniform_number": "125",
+    "team_name": "l"
+  },
+  {
+    "name": "菅井信也",
+    "born": "2003/6/28",
+    "height": "183",
+    "weight": "80",
+    "salary": "280",
+    "uniform_number": "128",
+    "team_name": "l"
+  },
+  {
+    "name": "小深田大翔",
+    "born": "1995/9/28",
+    "height": "168",
+    "weight": "69",
+    "salary": "5000",
+    "uniform_number": "0",
+    "team_name": "e"
+  },
+  {
+    "name": "佐藤智輝",
+    "born": "2000/6/5",
+    "height": "183",
+    "weight": "80",
+    "salary": "450",
+    "uniform_number": "001",
+    "team_name": "e"
+  },
+  {
+    "name": "松井裕樹",
+    "born": "1995/10/30",
+    "height": "174",
+    "weight": "74",
+    "salary": "25000",
+    "uniform_number": "1",
+    "team_name": "e"
+  },
+  {
+    "name": "太田光",
+    "born": "1996/10/14",
+    "height": "178",
+    "weight": "76",
+    "salary": "3300",
+    "uniform_number": "2",
+    "team_name": "e"
+  },
+  {
+    "name": "浅村栄斗",
+    "born": "1990/11/12",
+    "height": "182",
+    "weight": "90",
+    "salary": "50000",
+    "uniform_number": "3",
+    "team_name": "e"
+  },
+  {
+    "name": "阿部寿樹",
+    "born": "1989/12/3",
+    "height": "185",
+    "weight": "85",
+    "salary": "6500",
+    "uniform_number": "4",
+    "team_name": "e"
+  },
+  {
+    "name": "引地秀一郎",
+    "born": "2000/6/3",
+    "height": "188",
+    "weight": "84",
+    "salary": "420",
+    "uniform_number": "004",
+    "team_name": "e"
+  },
+  {
+    "name": "茂木栄五郎",
+    "born": "1994/2/14",
+    "height": "171",
+    "weight": "75",
+    "salary": "7400",
+    "uniform_number": "5",
+    "team_name": "e"
+  },
+  {
+    "name": "西川遥輝",
+    "born": "1992/4/16",
+    "height": "181",
+    "weight": "79",
+    "salary": "7000",
+    "uniform_number": "6",
+    "team_name": "e"
+  },
+  {
+    "name": "鈴木大地",
+    "born": "1989/8/18",
+    "height": "175",
+    "weight": "79",
+    "salary": "20000",
+    "uniform_number": "7",
+    "team_name": "e"
+  },
+  {
+    "name": "福森耀真",
+    "born": "1997/9/27",
+    "height": "178",
+    "weight": "87",
+    "salary": "420",
+    "uniform_number": "007",
+    "team_name": "e"
+  },
+  {
+    "name": "辰己涼介",
+    "born": "1996/12/27",
+    "height": "180",
+    "weight": "74",
+    "salary": "5300",
+    "uniform_number": "8",
+    "team_name": "e"
+  },
+  {
+    "name": "吉野創士",
+    "born": "2003/10/27",
+    "height": "186",
+    "weight": "78",
+    "salary": "920",
+    "uniform_number": "9",
+    "team_name": "e"
+  },
+  {
+    "name": "岸孝之",
+    "born": "1984/12/4",
+    "height": "180",
+    "weight": "77",
+    "salary": "25000",
+    "uniform_number": "11",
+    "team_name": "e"
+  },
+  {
+    "name": "バニュエロス",
+    "born": "1991/3/13",
+    "height": "178",
+    "weight": "97",
+    "salary": "10000",
+    "uniform_number": "13",
+    "team_name": "e"
+  },
+  {
+    "name": "則本昂大",
+    "born": "1990/12/17",
+    "height": "178",
+    "weight": "82",
+    "salary": "30000",
+    "uniform_number": "14",
+    "team_name": "e"
+  },
+  {
+    "name": "王彦程",
+    "born": "2001/2/14",
+    "height": "180",
+    "weight": "82",
+    "salary": "300",
+    "uniform_number": "017",
+    "team_name": "e"
+  },
+  {
+    "name": "塩見貴洋",
+    "born": "1988/9/6",
+    "height": "182",
+    "weight": "77",
+    "salary": "2700",
+    "uniform_number": "17",
+    "team_name": "e"
+  },
+  {
+    "name": "田中将大",
+    "born": "1988/11/1",
+    "height": "188",
+    "weight": "97",
+    "salary": "47500",
+    "uniform_number": "18",
+    "team_name": "e"
+  },
+  {
+    "name": "荘司康誠",
+    "born": "2000/10/13",
+    "height": "189",
+    "weight": "86",
+    "salary": "1600",
+    "uniform_number": "19",
+    "team_name": "e"
+  },
+  {
+    "name": "安樂智大",
+    "born": "1996/11/4",
+    "height": "186",
+    "weight": "87",
+    "salary": "3700",
+    "uniform_number": "20",
+    "team_name": "e"
+  },
+  {
+    "name": "早川隆久",
+    "born": "1998/7/6",
+    "height": "180",
+    "weight": "76",
+    "salary": "3300",
+    "uniform_number": "21",
+    "team_name": "e"
+  },
+  {
+    "name": "水上桂",
+    "born": "2001/7/5",
+    "height": "172",
+    "weight": "75",
+    "salary": "450",
+    "uniform_number": "022",
+    "team_name": "e"
+  },
+  {
+    "name": "小孫竜二",
+    "born": "1997/9/15",
+    "height": "180",
+    "weight": "88",
+    "salary": "1200",
+    "uniform_number": "22",
+    "team_name": "e"
+  },
+  {
+    "name": "フランコ",
+    "born": "1992/8/26",
+    "height": "185",
+    "weight": "105",
+    "salary": "10000",
+    "uniform_number": "23",
+    "team_name": "e"
+  },
+  {
+    "name": "黒川史陽",
+    "born": "2001/4/17",
+    "height": "182",
+    "weight": "86",
+    "salary": "780",
+    "uniform_number": "24",
+    "team_name": "e"
+  },
+  {
+    "name": "田中和基",
+    "born": "1994/8/8",
+    "height": "181",
+    "weight": "75",
+    "salary": "2000",
+    "uniform_number": "25",
+    "team_name": "e"
+  },
+  {
+    "name": "炭谷銀仁朗",
+    "born": "1987/7/19",
+    "height": "181",
+    "weight": "98",
+    "salary": "10000",
+    "uniform_number": "26",
+    "team_name": "e"
+  },
+  {
+    "name": "岡島豪郎",
+    "born": "1989/9/7",
+    "height": "176",
+    "weight": "82",
+    "salary": "4200",
+    "uniform_number": "27",
+    "team_name": "e"
+  },
+  {
+    "name": "酒居知史",
+    "born": "1993/1/2",
+    "height": "178",
+    "weight": "80",
+    "salary": "5600",
+    "uniform_number": "28",
+    "team_name": "e"
+  },
+  {
+    "name": "高田孝一",
+    "born": "1998/6/3",
+    "height": "183",
+    "weight": "91",
+    "salary": "1000",
+    "uniform_number": "29",
+    "team_name": "e"
+  },
+  {
+    "name": "平良竜哉",
+    "born": "1998/7/9",
+    "height": "170",
+    "weight": "78",
+    "salary": "920",
+    "uniform_number": "30",
+    "team_name": "e"
+  },
+  {
+    "name": "渡辺翔太",
+    "born": "2000/10/29",
+    "height": "182",
+    "weight": "90",
+    "salary": "1000",
+    "uniform_number": "31",
+    "team_name": "e"
+  },
+  {
+    "name": "銀次",
+    "born": "1988/2/24",
+    "height": "174",
+    "weight": "78",
+    "salary": "7000",
+    "uniform_number": "33",
+    "team_name": "e"
+  },
+  {
+    "name": "山﨑剛",
+    "born": "1995/12/29",
+    "height": "173",
+    "weight": "74",
+    "salary": "1900",
+    "uniform_number": "34",
+    "team_name": "e"
+  },
+  {
+    "name": "島内宏明",
+    "born": "1990/2/2",
+    "height": "180",
+    "weight": "75",
+    "salary": "12000",
+    "uniform_number": "35",
+    "team_name": "e"
+  },
+  {
+    "name": "前田銀治",
+    "born": "2003/11/19",
+    "height": "182",
+    "weight": "98",
+    "salary": "550",
+    "uniform_number": "36",
+    "team_name": "e"
+  },
+  {
+    "name": "弓削隼人",
+    "born": "1994/4/6",
+    "height": "193",
+    "weight": "105",
+    "salary": "1000",
+    "uniform_number": "38",
+    "team_name": "e"
+  },
+  {
+    "name": "伊藤裕季也",
+    "born": "1996/8/30",
+    "height": "182",
+    "weight": "90",
+    "salary": "850",
+    "uniform_number": "39",
+    "team_name": "e"
+  },
+  {
+    "name": "内間拓馬",
+    "born": "1998/11/21",
+    "height": "179",
+    "weight": "86",
+    "salary": "750",
+    "uniform_number": "40",
+    "team_name": "e"
+  },
+  {
+    "name": "伊藤茉央",
+    "born": "2000/11/19",
+    "height": "176",
+    "weight": "80",
+    "salary": "820",
+    "uniform_number": "41",
+    "team_name": "e"
+  },
+  {
+    "name": "ギッテンス",
+    "born": "1994/2/4",
+    "height": "193",
+    "weight": "113",
+    "salary": "10000",
+    "uniform_number": "42",
+    "team_name": "e"
+  },
+  {
+    "name": "宋家豪",
+    "born": "1992/9/6",
+    "height": "185",
+    "weight": "92",
+    "salary": "11000",
+    "uniform_number": "43",
+    "team_name": "e"
+  },
+  {
+    "name": "田中貴也",
+    "born": "1992/8/27",
+    "height": "178",
+    "weight": "85",
+    "salary": "830",
+    "uniform_number": "44",
+    "team_name": "e"
+  },
+  {
+    "name": "松井友飛",
+    "born": "1999/10/11",
+    "height": "190",
+    "weight": "87",
+    "salary": "700",
+    "uniform_number": "45",
+    "team_name": "e"
+  },
+  {
+    "name": "藤平尚真",
+    "born": "1998/9/21",
+    "height": "185",
+    "weight": "85",
+    "salary": "1000",
+    "uniform_number": "46",
+    "team_name": "e"
+  },
+  {
+    "name": "藤井聖",
+    "born": "1996/10/3",
+    "height": "176",
+    "weight": "80",
+    "salary": "1050",
+    "uniform_number": "47",
+    "team_name": "e"
+  },
+  {
+    "name": "渡邊佳明",
+    "born": "1997/1/8",
+    "height": "180",
+    "weight": "79",
+    "salary": "1450",
+    "uniform_number": "48",
+    "team_name": "e"
+  },
+  {
+    "name": "西垣雅矢",
+    "born": "1999/6/21",
+    "height": "184",
+    "weight": "88",
+    "salary": "900",
+    "uniform_number": "49",
+    "team_name": "e"
+  },
+  {
+    "name": "武藤敦貴",
+    "born": "2001/6/15",
+    "height": "178",
+    "weight": "73",
+    "salary": "860",
+    "uniform_number": "50",
+    "team_name": "e"
+  },
+  {
+    "name": "小郷裕哉",
+    "born": "1996/8/3",
+    "height": "178",
+    "weight": "85",
+    "salary": "850",
+    "uniform_number": "51",
+    "team_name": "e"
+  },
+  {
+    "name": "津留﨑大成",
+    "born": "1997/10/10",
+    "height": "177",
+    "weight": "86",
+    "salary": "950",
+    "uniform_number": "52",
+    "team_name": "e"
+  },
+  {
+    "name": "髙田萌生",
+    "born": "1998/7/4",
+    "height": "178",
+    "weight": "83",
+    "salary": "600",
+    "uniform_number": "53",
+    "team_name": "e"
+  },
+  {
+    "name": "和田恋",
+    "born": "1995/9/26",
+    "height": "180",
+    "weight": "93",
+    "salary": "690",
+    "uniform_number": "54",
+    "team_name": "e"
+  },
+  {
+    "name": "安田悠馬",
+    "born": "2000/3/3",
+    "height": "185",
+    "weight": "105",
+    "salary": "1100",
+    "uniform_number": "55",
+    "team_name": "e"
+  },
+  {
+    "name": "鈴木翔天",
+    "born": "1996/8/19",
+    "height": "185",
+    "weight": "82",
+    "salary": "1050",
+    "uniform_number": "56",
+    "team_name": "e"
+  },
+  {
+    "name": "瀧中瞭太",
+    "born": "1994/12/20",
+    "height": "180",
+    "weight": "93",
+    "salary": "2600",
+    "uniform_number": "57",
+    "team_name": "e"
+  },
+  {
+    "name": "辛島航",
+    "born": "1990/10/18",
+    "height": "173",
+    "weight": "72",
+    "salary": "8000",
+    "uniform_number": "58",
+    "team_name": "e"
+  },
+  {
+    "name": "泰勝利",
+    "born": "2003/11/11",
+    "height": "172",
+    "weight": "82",
+    "salary": "550",
+    "uniform_number": "59",
+    "team_name": "e"
+  },
+  {
+    "name": "石橋良太",
+    "born": "1991/6/6",
+    "height": "175",
+    "weight": "77",
+    "salary": "1400",
+    "uniform_number": "60",
+    "team_name": "e"
+  },
+  {
+    "name": "横尾俊建",
+    "born": "1993/5/27",
+    "height": "177",
+    "weight": "95",
+    "salary": "1050",
+    "uniform_number": "61",
+    "team_name": "e"
+  },
+  {
+    "name": "西口直人",
+    "born": "1996/11/14",
+    "height": "183",
+    "weight": "83",
+    "salary": "4200",
+    "uniform_number": "62",
+    "team_name": "e"
+  },
+  {
+    "name": "入江大樹",
+    "born": "2002/6/6",
+    "height": "185",
+    "weight": "83",
+    "salary": "550",
+    "uniform_number": "63",
+    "team_name": "e"
+  },
+  {
+    "name": "林優樹",
+    "born": "2001/10/29",
+    "height": "173",
+    "weight": "73",
+    "salary": "800",
+    "uniform_number": "64",
+    "team_name": "e"
+  },
+  {
+    "name": "堀内謙伍",
+    "born": "1997/4/15",
+    "height": "174",
+    "weight": "82",
+    "salary": "730",
+    "uniform_number": "65",
+    "team_name": "e"
+  },
+  {
+    "name": "村林一輝",
+    "born": "1997/10/6",
+    "height": "180",
+    "weight": "73",
+    "salary": "1000",
+    "uniform_number": "66",
+    "team_name": "e"
+  },
+  {
+    "name": "正隨優弥",
+    "born": "1996/4/2",
+    "height": "180",
+    "weight": "100",
+    "salary": "700",
+    "uniform_number": "67",
+    "team_name": "e"
+  },
+  {
+    "name": "小峯新陸",
+    "born": "2001/12/1",
+    "height": "189",
+    "weight": "90",
+    "salary": "470",
+    "uniform_number": "68",
+    "team_name": "e"
+  },
+  {
+    "name": "内星龍",
+    "born": "2002/4/24",
+    "height": "190",
+    "weight": "88",
+    "salary": "500",
+    "uniform_number": "69",
+    "team_name": "e"
+  },
+  {
+    "name": "石原彪",
+    "born": "1999/3/8",
+    "height": "172",
+    "weight": "96",
+    "salary": "500",
+    "uniform_number": "70",
+    "team_name": "e"
+  },
+  {
+    "name": "吉川雄大",
+    "born": "1996/12/12",
+    "height": "167",
+    "weight": "80",
+    "salary": "700",
+    "uniform_number": "71",
+    "team_name": "e"
+  },
+  {
+    "name": "宮森智志",
+    "born": "1998/5/28",
+    "height": "193",
+    "weight": "93",
+    "salary": "1000",
+    "uniform_number": "72",
+    "team_name": "e"
+  },
+  {
+    "name": "古賀康誠",
+    "born": "2004/9/3",
+    "height": "181",
+    "weight": "81",
+    "salary": "230",
+    "uniform_number": "130",
+    "team_name": "e"
+  },
+  {
+    "name": "永田颯太郎",
+    "born": "2000/10/11",
+    "height": "178",
+    "weight": "85",
+    "salary": "250",
+    "uniform_number": "131",
+    "team_name": "e"
+  },
+  {
+    "name": "清宮虎多朗",
+    "born": "2000/5/26",
+    "height": "190",
+    "weight": "84",
+    "salary": "250",
+    "uniform_number": "135",
+    "team_name": "e"
+  },
+  {
+    "name": "江川侑斗",
+    "born": "2001/6/29",
+    "height": "177",
+    "weight": "81",
+    "salary": "230",
+    "uniform_number": "137",
+    "team_name": "e"
+  },
+  {
+    "name": "ウレーニャ",
+    "born": "1999/5/27",
+    "height": "183",
+    "weight": "79",
+    "salary": "990",
+    "uniform_number": "138",
+    "team_name": "e"
+  },
+  {
+    "name": "澤野聖悠",
+    "born": "2002/3/9",
+    "height": "184",
+    "weight": "85",
+    "salary": "230",
+    "uniform_number": "141",
+    "team_name": "e"
+  },
+  {
+    "name": "柳澤大空",
+    "born": "2003/5/31",
+    "height": "182",
+    "weight": "78",
+    "salary": "250",
+    "uniform_number": "142",
+    "team_name": "e"
+  },
+  {
+    "name": "大河原翔",
+    "born": "2003/8/17",
+    "height": "183",
+    "weight": "95",
+    "salary": "230",
+    "uniform_number": "144",
+    "team_name": "e"
+  },
+  {
+    "name": "辰見鴻之介",
+    "born": "2000/11/24",
+    "height": "176",
+    "weight": "67",
+    "salary": "250",
+    "uniform_number": "146",
+    "team_name": "e"
+  },
+  {
+    "name": "竹下瑛広",
+    "born": "2000/5/20",
+    "height": "185",
+    "weight": "80",
+    "salary": "250",
+    "uniform_number": "155",
+    "team_name": "e"
+  },
+  {
+    "name": "池田来翔",
+    "born": "1999/12/11",
+    "height": "180",
+    "weight": "95",
+    "salary": "1200",
+    "uniform_number": "00",
+    "team_name": "m"
+  },
+  {
+    "name": "荻野貴司",
+    "born": "1985/10/21",
+    "height": "172",
+    "weight": "75",
+    "salary": "10000",
+    "uniform_number": "0",
+    "team_name": "m"
+  },
+  {
+    "name": "藤原恭大",
+    "born": "2000/5/6",
+    "height": "181",
+    "weight": "80",
+    "salary": "2200",
+    "uniform_number": "1",
+    "team_name": "m"
+  },
+  {
+    "name": "松川虎生",
+    "born": "2003/10/20",
+    "height": "178",
+    "weight": "98",
+    "salary": "2400",
+    "uniform_number": "2",
+    "team_name": "m"
+  },
+  {
+    "name": "角中勝也",
+    "born": "1987/5/25",
+    "height": "180",
+    "weight": "85",
+    "salary": "5500",
+    "uniform_number": "3",
+    "team_name": "m"
+  },
+  {
+    "name": "藤岡裕大",
+    "born": "1993/8/8",
+    "height": "178",
+    "weight": "77",
+    "salary": "5000",
+    "uniform_number": "4",
+    "team_name": "m"
+  },
+  {
+    "name": "安田尚憲",
+    "born": "1999/4/15",
+    "height": "188",
+    "weight": "95",
+    "salary": "4200",
+    "uniform_number": "5",
+    "team_name": "m"
+  },
+  {
+    "name": "福田秀平",
+    "born": "1989/2/10",
+    "height": "182",
+    "weight": "77",
+    "salary": "12000",
+    "uniform_number": "7",
+    "team_name": "m"
+  },
+  {
+    "name": "中村奨吾",
+    "born": "1992/5/28",
+    "height": "180",
+    "weight": "88",
+    "salary": "20000",
+    "uniform_number": "8",
+    "team_name": "m"
+  },
+  {
+    "name": "友杉篤輝",
+    "born": "2000/11/7",
+    "height": "171",
+    "weight": "70",
+    "salary": "1200",
+    "uniform_number": "10",
+    "team_name": "m"
+  },
+  {
+    "name": "佐々木千隼",
+    "born": "1994/6/8",
+    "height": "181",
+    "weight": "83",
+    "salary": "3850",
+    "uniform_number": "11",
+    "team_name": "m"
+  },
+  {
+    "name": "石川歩",
+    "born": "1988/4/11",
+    "height": "186",
+    "weight": "80",
+    "salary": "15000",
+    "uniform_number": "12",
+    "team_name": "m"
+  },
+  {
+    "name": "平沢大河",
+    "born": "1997/12/24",
+    "height": "176",
+    "weight": "80",
+    "salary": "1400",
+    "uniform_number": "13",
+    "team_name": "m"
+  },
+  {
+    "name": "小島和哉",
+    "born": "1996/7/7",
+    "height": "177",
+    "weight": "85",
+    "salary": "6800",
+    "uniform_number": "14",
+    "team_name": "m"
+  },
+  {
+    "name": "美馬学",
+    "born": "1986/9/19",
+    "height": "169",
+    "weight": "75",
+    "salary": "14000",
+    "uniform_number": "15",
+    "team_name": "m"
+  },
+  {
+    "name": "種市篤暉",
+    "born": "1998/9/7",
+    "height": "183",
+    "weight": "88",
+    "salary": "1800",
+    "uniform_number": "16",
+    "team_name": "m"
+  },
+  {
+    "name": "佐々木朗希",
+    "born": "2001/11/3",
+    "height": "192",
+    "weight": "92",
+    "salary": "8000",
+    "uniform_number": "17",
+    "team_name": "m"
+  },
+  {
+    "name": "二木康太",
+    "born": "1995/8/1",
+    "height": "190",
+    "weight": "85",
+    "salary": "4600",
+    "uniform_number": "18",
+    "team_name": "m"
+  },
+  {
+    "name": "唐川侑己",
+    "born": "1989/7/5",
+    "height": "181",
+    "weight": "87",
+    "salary": "10000",
+    "uniform_number": "19",
+    "team_name": "m"
+  },
+  {
+    "name": "東條大樹",
+    "born": "1991/8/15",
+    "height": "178",
+    "weight": "85",
+    "salary": "5500",
+    "uniform_number": "20",
+    "team_name": "m"
+  },
+  {
+    "name": "ポランコ",
+    "born": "1991/9/14",
+    "height": "196",
+    "weight": "108",
+    "salary": "18000",
+    "uniform_number": "22",
+    "team_name": "m"
+  },
+  {
+    "name": "三木亮",
+    "born": "1991/10/25",
+    "height": "175",
+    "weight": "78",
+    "salary": "2100",
+    "uniform_number": "23",
+    "team_name": "m"
+  },
+  {
+    "name": "東妻勇輔",
+    "born": "1996/4/4",
+    "height": "172",
+    "weight": "80",
+    "salary": "1700",
+    "uniform_number": "24",
+    "team_name": "m"
+  },
+  {
+    "name": "岡大海",
+    "born": "1991/7/15",
+    "height": "185",
+    "weight": "80",
+    "salary": "3600",
+    "uniform_number": "25",
+    "team_name": "m"
+  },
+  {
+    "name": "田村龍弘",
+    "born": "1994/5/13",
+    "height": "172",
+    "weight": "81",
+    "salary": "7000",
+    "uniform_number": "27",
+    "team_name": "m"
+  },
+  {
+    "name": "菊地吏玖",
+    "born": "2000/6/13",
+    "height": "183",
+    "weight": "93",
+    "salary": "1600",
+    "uniform_number": "28",
+    "team_name": "m"
+  },
+  {
+    "name": "西野勇士",
+    "born": "1991/3/6",
+    "height": "183",
+    "weight": "90",
+    "salary": "5000",
+    "uniform_number": "29",
+    "team_name": "m"
+  },
+  {
+    "name": "廣畑敦也",
+    "born": "1997/12/3",
+    "height": "175",
+    "weight": "83",
+    "salary": "1700",
+    "uniform_number": "30",
+    "team_name": "m"
+  },
+  {
+    "name": "菅野剛士",
+    "born": "1993/5/6",
+    "height": "171",
+    "weight": "83",
+    "salary": "1900",
+    "uniform_number": "31",
+    "team_name": "m"
+  },
+  {
+    "name": "佐藤都志也",
+    "born": "1998/1/27",
+    "height": "181",
+    "weight": "86",
+    "salary": "3100",
+    "uniform_number": "32",
+    "team_name": "m"
+  },
+  {
+    "name": "八木彬",
+    "born": "1997/5/26",
+    "height": "180",
+    "weight": "94",
+    "salary": "1300",
+    "uniform_number": "33",
+    "team_name": "m"
+  },
+  {
+    "name": "高野脩汰",
+    "born": "1998/8/13",
+    "height": "183",
+    "weight": "87",
+    "salary": "1150",
+    "uniform_number": "34",
+    "team_name": "m"
+  },
+  {
+    "name": "田中晴也",
+    "born": "2004/6/6",
+    "height": "186",
+    "weight": "92",
+    "salary": "600",
+    "uniform_number": "35",
+    "team_name": "m"
+  },
+  {
+    "name": "坂本光士郎",
+    "born": "1994/9/9",
+    "height": "179",
+    "weight": "75",
+    "salary": "1400",
+    "uniform_number": "36",
+    "team_name": "m"
+  },
+  {
+    "name": "小野郁",
+    "born": "1996/10/23",
+    "height": "175",
+    "weight": "78",
+    "salary": "4000",
+    "uniform_number": "37",
+    "team_name": "m"
+  },
+  {
+    "name": "髙部瑛斗",
+    "born": "1997/12/11",
+    "height": "178",
+    "weight": "72",
+    "salary": "3500",
+    "uniform_number": "38",
+    "team_name": "m"
+  },
+  {
+    "name": "大下誠一郎",
+    "born": "1997/11/3",
+    "height": "171",
+    "weight": "89",
+    "salary": "800",
+    "uniform_number": "39",
+    "team_name": "m"
+  },
+  {
+    "name": "西村天裕",
+    "born": "1993/5/6",
+    "height": "177",
+    "weight": "92",
+    "salary": "1900",
+    "uniform_number": "40",
+    "team_name": "m"
+  },
+  {
+    "name": "カスティーヨ",
+    "born": "1995/3/10",
+    "height": "190",
+    "weight": "96",
+    "salary": "8000",
+    "uniform_number": "41",
+    "team_name": "m"
+  },
+  {
+    "name": "メルセデス",
+    "born": "1994/3/8",
+    "height": "188",
+    "weight": "82",
+    "salary": "8000",
+    "uniform_number": "42",
+    "team_name": "m"
+  },
+  {
+    "name": "秋山正雲",
+    "born": "2003/4/29",
+    "height": "174",
+    "weight": "80",
+    "salary": "560",
+    "uniform_number": "43",
+    "team_name": "m"
+  },
+  {
+    "name": "井上晴哉",
+    "born": "1989/7/3",
+    "height": "180",
+    "weight": "115",
+    "salary": "4200",
+    "uniform_number": "44",
+    "team_name": "m"
+  },
+  {
+    "name": "植田将太",
+    "born": "1997/12/18",
+    "height": "180",
+    "weight": "86",
+    "salary": "420",
+    "uniform_number": "45",
+    "team_name": "m"
+  },
+  {
+    "name": "岩下大輝",
+    "born": "1996/10/2",
+    "height": "182",
+    "weight": "90",
+    "salary": "4200",
+    "uniform_number": "46",
+    "team_name": "m"
+  },
+  {
+    "name": "鈴木昭汰",
+    "born": "1998/9/7",
+    "height": "175",
+    "weight": "80",
+    "salary": "1600",
+    "uniform_number": "47",
+    "team_name": "m"
+  },
+  {
+    "name": "中村稔弥",
+    "born": "1996/7/8",
+    "height": "178",
+    "weight": "84",
+    "salary": "1500",
+    "uniform_number": "48",
+    "team_name": "m"
+  },
+  {
+    "name": "本前郁也",
+    "born": "1997/10/2",
+    "height": "176",
+    "weight": "82",
+    "salary": "1300",
+    "uniform_number": "49",
+    "team_name": "m"
+  },
+  {
+    "name": "小沼健太",
+    "born": "1998/6/11",
+    "height": "189",
+    "weight": "86",
+    "salary": "720",
+    "uniform_number": "50",
+    "team_name": "m"
+  },
+  {
+    "name": "山口航輝",
+    "born": "2000/8/18",
+    "height": "183",
+    "weight": "97",
+    "salary": "2800",
+    "uniform_number": "51",
+    "team_name": "m"
+  },
+  {
+    "name": "益田直也",
+    "born": "1989/10/25",
+    "height": "178",
+    "weight": "80",
+    "salary": "20000",
+    "uniform_number": "52",
+    "team_name": "m"
+  },
+  {
+    "name": "江村直也",
+    "born": "1992/5/6",
+    "height": "176",
+    "weight": "80",
+    "salary": "1050",
+    "uniform_number": "53",
+    "team_name": "m"
+  },
+  {
+    "name": "澤村拓一",
+    "born": "1988/4/3",
+    "height": "184",
+    "weight": "105",
+    "salary": "20000",
+    "uniform_number": "54",
+    "team_name": "m"
+  },
+  {
+    "name": "ペルドモ",
+    "born": "1993/5/9",
+    "height": "188",
+    "weight": "84",
+    "salary": "18000",
+    "uniform_number": "55",
+    "team_name": "m"
+  },
+  {
+    "name": "中森俊介",
+    "born": "2002/5/29",
+    "height": "182",
+    "weight": "90",
+    "salary": "720",
+    "uniform_number": "56",
+    "team_name": "m"
+  },
+  {
+    "name": "小川龍成",
+    "born": "1998/4/5",
+    "height": "171",
+    "weight": "72",
+    "salary": "1200",
+    "uniform_number": "57",
+    "team_name": "m"
+  },
+  {
+    "name": "河村説人",
+    "born": "1997/6/18",
+    "height": "192",
+    "weight": "87",
+    "salary": "1500",
+    "uniform_number": "58",
+    "team_name": "m"
+  },
+  {
+    "name": "西川僚祐",
+    "born": "2002/4/19",
+    "height": "186",
+    "weight": "98",
+    "salary": "500",
+    "uniform_number": "59",
+    "team_name": "m"
+  },
+  {
+    "name": "横山陸人",
+    "born": "2001/8/5",
+    "height": "179",
+    "weight": "86",
+    "salary": "670",
+    "uniform_number": "60",
+    "team_name": "m"
+  },
+  {
+    "name": "山本大斗",
+    "born": "2002/8/9",
+    "height": "180",
+    "weight": "90",
+    "salary": "440",
+    "uniform_number": "61",
+    "team_name": "m"
+  },
+  {
+    "name": "森遼大朗",
+    "born": "1999/4/22",
+    "height": "180",
+    "weight": "87",
+    "salary": "460",
+    "uniform_number": "62",
+    "team_name": "m"
+  },
+  {
+    "name": "和田康士朗",
+    "born": "1999/1/14",
+    "height": "185",
+    "weight": "77",
+    "salary": "1800",
+    "uniform_number": "63",
+    "team_name": "m"
+  },
+  {
+    "name": "佐藤奨真",
+    "born": "1998/6/2",
+    "height": "177",
+    "weight": "78",
+    "salary": "900",
+    "uniform_number": "64",
+    "team_name": "m"
+  },
+  {
+    "name": "土居豪人",
+    "born": "2000/4/2",
+    "height": "191",
+    "weight": "92",
+    "salary": "630",
+    "uniform_number": "65",
+    "team_name": "m"
+  },
+  {
+    "name": "茶谷健太",
+    "born": "1998/1/16",
+    "height": "186",
+    "weight": "90",
+    "salary": "1100",
+    "uniform_number": "67",
+    "team_name": "m"
+  },
+  {
+    "name": "金田優太",
+    "born": "2005/2/12",
+    "height": "183",
+    "weight": "83",
+    "salary": "500",
+    "uniform_number": "68",
+    "team_name": "m"
+  },
+  {
+    "name": "国吉佑樹",
+    "born": "1991/9/24",
+    "height": "196",
+    "weight": "106",
+    "salary": "6000",
+    "uniform_number": "92",
+    "team_name": "m"
+  },
+  {
+    "name": "柿沼友哉",
+    "born": "1993/5/12",
+    "height": "180",
+    "weight": "86",
+    "salary": "1500",
+    "uniform_number": "99",
+    "team_name": "m"
+  },
+  {
+    "name": "田中楓基",
+    "born": "2003/8/23",
+    "height": "180",
+    "weight": "75",
+    "salary": "230",
+    "uniform_number": "120",
+    "team_name": "m"
+  },
+  {
+    "name": "土肥星也",
+    "born": "1995/7/7",
+    "height": "186",
+    "weight": "90",
+    "salary": "850",
+    "uniform_number": "121",
+    "team_name": "m"
+  },
+  {
+    "name": "谷川唯人",
+    "born": "2002/5/27",
+    "height": "178",
+    "weight": "82",
+    "salary": "230",
+    "uniform_number": "122",
+    "team_name": "m"
+  },
+  {
+    "name": "速水将大",
+    "born": "2000/10/26",
+    "height": "174",
+    "weight": "67",
+    "salary": "300",
+    "uniform_number": "123",
+    "team_name": "m"
+  },
+  {
+    "name": "古谷拓郎",
+    "born": "2000/4/21",
+    "height": "183",
+    "weight": "83",
+    "salary": "480",
+    "uniform_number": "124",
+    "team_name": "m"
+  },
+  {
+    "name": "永島田輝斗",
+    "born": "2003/11/30",
+    "height": "180",
+    "weight": "85",
+    "salary": "230",
+    "uniform_number": "125",
+    "team_name": "m"
+  },
+  {
+    "name": "村山亮介",
+    "born": "2003/11/12",
+    "height": "188",
+    "weight": "113",
+    "salary": "230",
+    "uniform_number": "126",
+    "team_name": "m"
+  },
+  {
+    "name": "吉川悠斗",
+    "born": "2005/3/14",
+    "height": "185",
+    "weight": "82",
+    "salary": "230",
+    "uniform_number": "127",
+    "team_name": "m"
+  },
+  {
+    "name": "白濱快起",
+    "born": "2004/7/5",
+    "height": "192",
+    "weight": "87",
+    "salary": "230",
+    "uniform_number": "128",
+    "team_name": "m"
+  },
+  {
+    "name": "勝又琉偉",
+    "born": "2004/10/7",
+    "height": "188",
+    "weight": "78",
+    "salary": "230",
+    "uniform_number": "129",
+    "team_name": "m"
+  },
+  {
+    "name": "黒川凱星",
+    "born": "2004/4/5",
+    "height": "178",
+    "weight": "75",
+    "salary": "230",
+    "uniform_number": "130",
+    "team_name": "m"
+  },
+  {
+    "name": "フェリス",
+    "born": "1999/8/19",
+    "height": "188",
+    "weight": "87",
+    "salary": "350",
+    "uniform_number": "131",
+    "team_name": "m"
+  },
+  {
+    "name": "澤田圭佑",
+    "born": "1994/4/27",
+    "height": "178",
+    "weight": "96",
+    "salary": "440",
+    "uniform_number": "132",
+    "team_name": "m"
+  },
+  {
+    "name": "マルティネス",
+    "born": "1996/5/28",
+    "height": "190",
+    "weight": "95",
+    "salary": "8000",
+    "uniform_number": "2",
+    "team_name": "f"
+  },
+  {
+    "name": "加藤豪将",
+    "born": "1994/10/8",
+    "height": "185",
+    "weight": "91",
+    "salary": "5000",
+    "uniform_number": "3",
+    "team_name": "f"
+  },
+  {
+    "name": "上川畑大悟",
+    "born": "1997/1/12",
+    "height": "167",
+    "weight": "71",
+    "salary": "2200",
+    "uniform_number": "4",
+    "team_name": "f"
+  },
+  {
+    "name": "野村佑希",
+    "born": "2000/6/26",
+    "height": "187",
+    "weight": "93",
+    "salary": "3300",
+    "uniform_number": "5",
+    "team_name": "f"
+  },
+  {
+    "name": "アルカンタラ",
+    "born": "1991/10/29",
+    "height": "178",
+    "weight": "85",
+    "salary": "13000",
+    "uniform_number": "6",
+    "team_name": "f"
+  },
+  {
+    "name": "松本剛",
+    "born": "1993/8/11",
+    "height": "180",
+    "weight": "81",
+    "salary": "8600",
+    "uniform_number": "7",
+    "team_name": "f"
+  },
+  {
+    "name": "淺間大基",
+    "born": "1996/6/21",
+    "height": "183",
+    "weight": "82",
+    "salary": "2800",
+    "uniform_number": "8",
+    "team_name": "f"
+  },
+  {
+    "name": "中島卓也",
+    "born": "1991/1/11",
+    "height": "178",
+    "weight": "73",
+    "salary": "3000",
+    "uniform_number": "9",
+    "team_name": "f"
+  },
+  {
+    "name": "清水優心",
+    "born": "1996/5/22",
+    "height": "185",
+    "weight": "91",
+    "salary": "2900",
+    "uniform_number": "10",
+    "team_name": "f"
+  },
+  {
+    "name": "矢澤宏太",
+    "born": "2000/8/2",
+    "height": "173",
+    "weight": "71",
+    "salary": "1500",
+    "uniform_number": "12",
+    "team_name": "f"
+  },
+  {
+    "name": "生田目翼",
+    "born": "1995/2/19",
+    "height": "176",
+    "weight": "88",
+    "salary": "900",
+    "uniform_number": "13",
+    "team_name": "f"
+  },
+  {
+    "name": "加藤貴之",
+    "born": "1992/6/3",
+    "height": "182",
+    "weight": "90",
+    "salary": "13500",
+    "uniform_number": "14",
+    "team_name": "f"
+  },
+  {
+    "name": "上沢直之",
+    "born": "1994/2/6",
+    "height": "187",
+    "weight": "88",
+    "salary": "17000",
+    "uniform_number": "15",
+    "team_name": "f"
+  },
+  {
+    "name": "達孝太",
+    "born": "2004/3/27",
+    "height": "194",
+    "weight": "94",
+    "salary": "1000",
+    "uniform_number": "16",
+    "team_name": "f"
+  },
+  {
+    "name": "伊藤大海",
+    "born": "1997/8/31",
+    "height": "176",
+    "weight": "82",
+    "salary": "8500",
+    "uniform_number": "17",
+    "team_name": "f"
+  },
+  {
+    "name": "吉田輝星",
+    "born": "2001/1/12",
+    "height": "175",
+    "weight": "83",
+    "salary": "2000",
+    "uniform_number": "18",
+    "team_name": "f"
+  },
+  {
+    "name": "玉井大翔",
+    "born": "1992/6/16",
+    "height": "178",
+    "weight": "78",
+    "salary": "6800",
+    "uniform_number": "19",
+    "team_name": "f"
+  },
+  {
+    "name": "上原健太",
+    "born": "1994/3/29",
+    "height": "191",
+    "weight": "90",
+    "salary": "2400",
+    "uniform_number": "20",
+    "team_name": "f"
+  },
+  {
+    "name": "清宮幸太郎",
+    "born": "1999/5/25",
+    "height": "184",
+    "weight": "94",
+    "salary": "3300",
+    "uniform_number": "21",
+    "team_name": "f"
+  },
+  {
+    "name": "杉浦稔大",
+    "born": "1992/2/25",
+    "height": "190",
+    "weight": "88",
+    "salary": "6000",
+    "uniform_number": "22",
+    "team_name": "f"
+  },
+  {
+    "name": "伏見寅威",
+    "born": "1990/5/12",
+    "height": "182",
+    "weight": "87",
+    "salary": "4500",
+    "uniform_number": "23",
+    "team_name": "f"
+  },
+  {
+    "name": "金村尚真",
+    "born": "2000/8/29",
+    "height": "176",
+    "weight": "83",
+    "salary": "1100",
+    "uniform_number": "24",
+    "team_name": "f"
+  },
+  {
+    "name": "宮西尚生",
+    "born": "1985/6/2",
+    "height": "180",
+    "weight": "78",
+    "salary": "5000",
+    "uniform_number": "25",
+    "team_name": "f"
+  },
+  {
+    "name": "田中正義",
+    "born": "1994/7/19",
+    "height": "188",
+    "weight": "93",
+    "salary": "1200",
+    "uniform_number": "26",
+    "team_name": "f"
+  },
+  {
+    "name": "古川裕大",
+    "born": "1998/6/19",
+    "height": "182",
+    "weight": "88",
+    "salary": "1200",
+    "uniform_number": "27",
+    "team_name": "f"
+  },
+  {
+    "name": "河野竜生",
+    "born": "1998/5/30",
+    "height": "175",
+    "weight": "80",
+    "salary": "2700",
+    "uniform_number": "28",
+    "team_name": "f"
+  },
+  {
+    "name": "井口和朋",
+    "born": "1994/1/7",
+    "height": "175",
+    "weight": "75",
+    "salary": "3300",
+    "uniform_number": "29",
+    "team_name": "f"
+  },
+  {
+    "name": "宇佐見真吾",
+    "born": "1993/6/4",
+    "height": "181",
+    "weight": "88",
+    "salary": "3000",
+    "uniform_number": "30",
+    "team_name": "f"
+  },
+  {
+    "name": "谷内亮太",
+    "born": "1991/2/3",
+    "height": "177",
+    "weight": "80",
+    "salary": "3000",
+    "uniform_number": "32",
+    "team_name": "f"
+  },
+  {
+    "name": "立野和明",
+    "born": "1998/4/3",
+    "height": "181",
+    "weight": "87",
+    "salary": "1600",
+    "uniform_number": "33",
+    "team_name": "f"
+  },
+  {
+    "name": "堀瑞輝",
+    "born": "1998/5/10",
+    "height": "177",
+    "weight": "82",
+    "salary": "5500",
+    "uniform_number": "34",
+    "team_name": "f"
+  },
+  {
+    "name": "福田光輝",
+    "born": "1997/11/16",
+    "height": "176",
+    "weight": "80",
+    "salary": "800",
+    "uniform_number": "35",
+    "team_name": "f"
+  },
+  {
+    "name": "木村文紀",
+    "born": "1988/9/13",
+    "height": "183",
+    "weight": "86",
+    "salary": "1900",
+    "uniform_number": "36",
+    "team_name": "f"
+  },
+  {
+    "name": "江越大賀",
+    "born": "1993/3/12",
+    "height": "182",
+    "weight": "81",
+    "salary": "1200",
+    "uniform_number": "37",
+    "team_name": "f"
+  },
+  {
+    "name": "石井一成",
+    "born": "1994/5/6",
+    "height": "182",
+    "weight": "80",
+    "salary": "3500",
+    "uniform_number": "38",
+    "team_name": "f"
+  },
+  {
+    "name": "有薗直輝",
+    "born": "2003/5/21",
+    "height": "185",
+    "weight": "95",
+    "salary": "630",
+    "uniform_number": "39",
+    "team_name": "f"
+  },
+  {
+    "name": "福田俊",
+    "born": "1996/12/14",
+    "height": "171",
+    "weight": "71",
+    "salary": "1200",
+    "uniform_number": "40",
+    "team_name": "f"
+  },
+  {
+    "name": "ロドリゲス",
+    "born": "1991/7/6",
+    "height": "196",
+    "weight": "116",
+    "salary": "12000",
+    "uniform_number": "41",
+    "team_name": "f"
+  },
+  {
+    "name": "ガント",
+    "born": "1992/8/6",
+    "height": "193",
+    "weight": "92",
+    "salary": "5000",
+    "uniform_number": "42",
+    "team_name": "f"
+  },
+  {
+    "name": "水野達稀",
+    "born": "2000/7/30",
+    "height": "171",
+    "weight": "75",
+    "salary": "900",
+    "uniform_number": "43",
+    "team_name": "f"
+  },
+  {
+    "name": "阪口樂",
+    "born": "2003/6/24",
+    "height": "187",
+    "weight": "88",
+    "salary": "550",
+    "uniform_number": "44",
+    "team_name": "f"
+  },
+  {
+    "name": "ポンセ",
+    "born": "1994/4/25",
+    "height": "198",
+    "weight": "116",
+    "salary": "18000",
+    "uniform_number": "45",
+    "team_name": "f"
+  },
+  {
+    "name": "畔柳亨丞",
+    "born": "2003/5/3",
+    "height": "180",
+    "weight": "85",
+    "salary": "550",
+    "uniform_number": "46",
+    "team_name": "f"
+  },
+  {
+    "name": "鈴木健矢",
+    "born": "1997/12/11",
+    "height": "176",
+    "weight": "75",
+    "salary": "1900",
+    "uniform_number": "47",
+    "team_name": "f"
+  },
+  {
+    "name": "齋藤友貴哉",
+    "born": "1995/1/5",
+    "height": "184",
+    "weight": "92",
+    "salary": "1700",
+    "uniform_number": "48",
+    "team_name": "f"
+  },
+  {
+    "name": "山田遥楓",
+    "born": "1996/9/30",
+    "height": "180",
+    "weight": "84",
+    "salary": "1200",
+    "uniform_number": "49",
+    "team_name": "f"
+  },
+  {
+    "name": "五十幡亮汰",
+    "born": "1998/11/27",
+    "height": "171",
+    "weight": "65",
+    "salary": "1050",
+    "uniform_number": "50",
+    "team_name": "f"
+  },
+  {
+    "name": "石川直也",
+    "born": "1996/7/11",
+    "height": "192",
+    "weight": "96",
+    "salary": "4000",
+    "uniform_number": "51",
+    "team_name": "f"
+  },
+  {
+    "name": "池田隆英",
+    "born": "1994/10/1",
+    "height": "181",
+    "weight": "91",
+    "salary": "1600",
+    "uniform_number": "52",
+    "team_name": "f"
+  },
+  {
+    "name": "長谷川威展",
+    "born": "1999/8/9",
+    "height": "178",
+    "weight": "85",
+    "salary": "710",
+    "uniform_number": "53",
+    "team_name": "f"
+  },
+  {
+    "name": "安西叶翔",
+    "born": "2004/11/13",
+    "height": "186",
+    "weight": "86",
+    "salary": "530",
+    "uniform_number": "54",
+    "team_name": "f"
+  },
+  {
+    "name": "松浦慶斗",
+    "born": "2003/7/1",
+    "height": "186",
+    "weight": "101",
+    "salary": "540",
+    "uniform_number": "55",
+    "team_name": "f"
+  },
+  {
+    "name": "細川凌平",
+    "born": "2002/4/25",
+    "height": "174",
+    "weight": "73",
+    "salary": "660",
+    "uniform_number": "56",
+    "team_name": "f"
+  },
+  {
+    "name": "北山亘基",
+    "born": "1999/4/10",
+    "height": "182",
+    "weight": "80",
+    "salary": "2700",
+    "uniform_number": "57",
+    "team_name": "f"
+  },
+  {
+    "name": "奈良間大己",
+    "born": "2000/5/8",
+    "height": "172",
+    "weight": "72",
+    "salary": "770",
+    "uniform_number": "58",
+    "team_name": "f"
+  },
+  {
+    "name": "根本悠楓",
+    "born": "2003/3/31",
+    "height": "173",
+    "weight": "77",
+    "salary": "1300",
+    "uniform_number": "59",
+    "team_name": "f"
+  },
+  {
+    "name": "郡拓也",
+    "born": "1998/4/25",
+    "height": "179",
+    "weight": "88",
+    "salary": "880",
+    "uniform_number": "60",
+    "team_name": "f"
+  },
+  {
+    "name": "今川優馬",
+    "born": "1997/1/25",
+    "height": "177",
+    "weight": "86",
+    "salary": "2000",
+    "uniform_number": "61",
+    "team_name": "f"
+  },
+  {
+    "name": "宮内春輝",
+    "born": "1996/5/25",
+    "height": "176",
+    "weight": "75",
+    "salary": "850",
+    "uniform_number": "62",
+    "team_name": "f"
+  },
+  {
+    "name": "北浦竜次",
+    "born": "2000/1/12",
+    "height": "184",
+    "weight": "99",
+    "salary": "770",
+    "uniform_number": "63",
+    "team_name": "f"
+  },
+  {
+    "name": "田宮裕涼",
+    "born": "2000/6/13",
+    "height": "175",
+    "weight": "79",
+    "salary": "570",
+    "uniform_number": "64",
+    "team_name": "f"
+  },
+  {
+    "name": "梅林優貴",
+    "born": "1998/3/14",
+    "height": "173",
+    "weight": "81",
+    "salary": "770",
+    "uniform_number": "65",
+    "team_name": "f"
+  },
+  {
+    "name": "万波中正",
+    "born": "2000/4/7",
+    "height": "192",
+    "weight": "96",
+    "salary": "2000",
+    "uniform_number": "66",
+    "team_name": "f"
+  },
+  {
+    "name": "齋藤綱記",
+    "born": "1996/12/18",
+    "height": "182",
+    "weight": "93",
+    "salary": "1200",
+    "uniform_number": "67",
+    "team_name": "f"
+  },
+  {
+    "name": "松岡洸希",
+    "born": "2000/8/31",
+    "height": "180",
+    "weight": "85",
+    "salary": "600",
+    "uniform_number": "68",
+    "team_name": "f"
+  },
+  {
+    "name": "メネズ",
+    "born": "1995/5/29",
+    "height": "188",
+    "weight": "93",
+    "salary": "9000",
+    "uniform_number": "70",
+    "team_name": "f"
+  },
+  {
+    "name": "田中瑛斗",
+    "born": "1999/7/13",
+    "height": "184",
+    "weight": "80",
+    "salary": "700",
+    "uniform_number": "93",
+    "team_name": "f"
+  },
+  {
+    "name": "松本遼大",
+    "born": "2002/5/17",
+    "height": "188",
+    "weight": "89",
+    "salary": "290",
+    "uniform_number": "114",
+    "team_name": "f"
+  },
+  {
+    "name": "齊藤伸治",
+    "born": "1998/6/13",
+    "height": "181",
+    "weight": "82",
+    "salary": "290",
+    "uniform_number": "115",
+    "team_name": "f"
+  },
+  {
+    "name": "福島蓮",
+    "born": "2003/4/25",
+    "height": "190",
+    "weight": "70",
+    "salary": "260",
+    "uniform_number": "121",
+    "team_name": "f"
+  },
+  {
+    "name": "柳川大晟",
+    "born": "2003/8/21",
+    "height": "191",
+    "weight": "87",
+    "salary": "260",
+    "uniform_number": "123",
+    "team_name": "f"
+  },
+  {
+    "name": "阿部和広",
+    "born": "2003/5/12",
+    "height": "170",
+    "weight": "62",
+    "salary": "260",
+    "uniform_number": "124",
+    "team_name": "f"
+  },
+  {
+    "name": "藤田大清",
+    "born": "2004/8/23",
+    "height": "187",
+    "weight": "84",
+    "salary": "260",
+    "uniform_number": "125",
+    "team_name": "f"
+  },
+  {
+    "name": "中山晶量",
+    "born": "1999/2/8",
+    "height": "188",
+    "weight": "90",
+    "salary": "260",
+    "uniform_number": "126",
+    "team_name": "f"
+  },
+  {
+    "name": "山口アタル",
+    "born": "1999/5/28",
+    "height": "179",
+    "weight": "89",
+    "salary": "260",
+    "uniform_number": "127",
+    "team_name": "f"
+  },
+  {
+    "name": "山本晃大",
+    "born": "1999/4/23",
+    "height": "186",
+    "weight": "88",
+    "salary": "260",
+    "uniform_number": "128",
+    "team_name": "f"
+  },
+  {
+    "name": "柿木蓮",
+    "born": "2000/6/25",
+    "height": "181",
+    "weight": "87",
+    "salary": "440",
+    "uniform_number": "137",
+    "team_name": "f"
+  },
+  {
+    "name": "姫野優也",
+    "born": "1997/4/2",
+    "height": "184",
+    "weight": "96",
+    "salary": "440",
+    "uniform_number": "161",
+    "team_name": "f"
+  },
+  {
+    "name": "王柏融",
+    "born": "1993/9/9",
+    "height": "182",
+    "weight": "91",
+    "salary": "1500",
+    "uniform_number": "199",
+    "team_name": "f"
+  }
+]
